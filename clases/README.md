@@ -1,3 +1,7 @@
+# Fundamentos de Procesamiento de Imagenes
+
+##Planificacion del Curso
+
 
 ### Clase 01 Ma. 06-Aug-2019:
 * 0.1-Programa del Curso [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/program/IMG00_ProgramaCurso.pdf)

@@ -1,4 +1,6 @@
-# Apuntes del curso Fundamentos de Procesamiento de Imagenes
+# Fundamentos de Procesamiento de Imagenes
+
+##Planificacion del Curso
 
 
 ### Clase 01 Ma. 06-Aug-2019:
