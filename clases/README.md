@@ -213,7 +213,7 @@
 
 ### Clase 23 Ma. 29-Oct-2019:
 * 2.2-Paleta de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG02_ColorPalette.m)
-* 2.2-Procesmaiento de imagenes a color simple [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG02_ColorProcessing.pdf)
+* 2.2-Procesamiento de imagenes a color simple [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG02_ColorProcessing.pdf)
 * 2.2-Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG02_ColorChange.m)
 * 2.2-Transformacion de color a gris [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG02_Color2BWreg.m)
 * 2.2-Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG02_ColorSuperimposition.m)
