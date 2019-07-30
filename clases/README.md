@@ -1,6 +1,6 @@
 # Fundamentos de Procesamiento de Imagenes
 
-## Planificacion del Curso por dia
+## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 06-Aug-2019:
