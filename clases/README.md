@@ -51,7 +51,7 @@
 * 3.3-Deteccion de bordes con mascaras [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG03_Borders.m)
 * 3.3-Agudizacion con mascaras [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG03_SharpenMoon.m)
 * 4.1-Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_FuncionImpulso.pptx)
-* 4.1-Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Convolucion1D.pptx)
+* 4.2-Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Convolucion1D.pptx)
 * 4.2-Ejemplo Convolucion en 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_Convolucion1D.m)
 
 ### Clase 06 Ma. 27-Aug-2019:
@@ -91,14 +91,14 @@
 * 4.5-Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_Fourier2DFunciones.m)
 * 4.5-Ejemplo facil de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_Fourier2D_EasyExample.m)
 * 4.5-Fase de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_Fourier2DFase.m)
-* 4.5-Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Convolucion.pptx)
+* 4.3-Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Convolucion.pptx)
 
 ### Clase 10 Ma. 10-Sep-2019:
 * 4.5-Teorema del Muestreo 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Teorema_Muestreo_2D.pptx)
 * 4.5-Ejemplo de Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_Aliasing2D.m)
 * 4.5-Ejemplo de Anti-Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_AliasingBarbara.m)
 * 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Filtros.pptx)
-* 4.5-Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
+* 4.3-Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 * 4.5-Bloques en 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_Fourier2DBloques.m)
 * 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Filtros.pptx)
 * 4.5-Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_FiltrosFreq2D.m)
@@ -114,6 +114,11 @@
 * 4.5-Material adicional para Fourier: Videos-0 [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Video0.pdf)
 * 4.5-Material adicional para Fourier: Videos-1 [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Video1.pdf)
 * 4.5-Material adicional para Fourier: Videos-2 [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG04_Fourier2D_Video2.pdf)
+* 4.4-Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/*/https://www.youtube.com/watch?v=r18Gi8lSkfM)
+* 4.4-The Fourier Transform in 15 Minutes [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/*/https://www.youtube.com/watch?v=vQLH7qTeJRM)
+* 4.4-Fourier Transform Properties Part 1 [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/*/https://www.youtube.com/watch?v=U02z_hQmWcQ)
+* 4.5-The 2D Discrete Fourier Transform [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/*/https://www.youtube.com/watch?v=NbQY1x8H6QQ)
+* 4.5-2-Dimensional Discrete-Space Fourier Transform [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/*/https://www.youtube.com/watch?v=YYGltoYEmKo)
 * 4.6-Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_DemoWavelet.m)
 * 4.6-Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_FiltrosGabor.pptx)
 * 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG04_GaborBasis.m)
