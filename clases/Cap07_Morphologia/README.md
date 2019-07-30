@@ -9,5 +9,4 @@
 * TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
 * Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
 ### 7.3 Extensiones para imagenes de niveles de grises:
-* Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG08_GradienteMorfologico.m)
 * Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)

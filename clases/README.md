@@ -182,7 +182,6 @@
 ### Clase 19 Ma. 15-Oct-2019:
 * 8.5-Segmentacion de movimiento [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG08_SegVideo.pdf)
 * 8.5-Ejemplo de egmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG08_SegVideo.m)
-* 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG08_GradienteMorfologico.m)
 * 7.2-Morfologia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/presentations/IMG07_Morfologia.pdf)
 * 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG07_MorphScan.m)
 * 7.1-Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/matlab/IMG07_MorphExamples.m)
