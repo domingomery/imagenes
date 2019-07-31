@@ -7,6 +7,7 @@
 * 0.1-Programa del Curso [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_Presentacion.pptx)
 * 0.1-Ejemplo Inicial (segmentacion de arroces) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/matlab/IMG00_RiceClassification.m)
+* 0.1-Inauguracion JJOO Beijing [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 * 1.1-Ejemplo de computacion grafica [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ComputerGraphics.m)
 
