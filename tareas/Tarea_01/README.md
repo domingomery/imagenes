@@ -19,3 +19,6 @@ La nota en este item es 30% x C, donde C es A + B, con A un número entre 0 y 1 
 
 ## Indicaciones para subir la tarea
 La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "pzbpqe"). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+
+## Foro
+Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/1).
