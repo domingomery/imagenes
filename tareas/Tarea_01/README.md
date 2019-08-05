@@ -18,4 +18,7 @@ A partir del enunciado, se deberá implementar una solución en Matlab o Python.
 La nota en este item es 30% x C, donde C es A + B, con A un número entre 0 y 1 que indica la mejor precisión encontrada en el curso y B una constante calculada de tal forma que el mejor resultado en el curso obtenga C = 1. A se define como (A1+A2+A3+A4)/4, donde Ai, la precisión en la imagen i, se calcula como max(0,(10-Ei)/10) con Ei es el error en minutos en la estimación del tiempo del temporizador (en caso de que Ei>10 el valor de Ai será 0). 
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es el pzbpqe). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "pzbpqe"). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+
+## Foro
+Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/1).
