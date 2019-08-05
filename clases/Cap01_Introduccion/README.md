@@ -10,6 +10,7 @@
 * Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
 * Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
 * Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
+* s [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
 ### 1.3 Adquisicion de imagenes, muestreo y cuantizacion de imagenes:
 * Ejemplo Un Arroz [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_OneRice.m)
 * Sampling (muestreo espacial y de tonos de gris) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ImageSampling.m)
