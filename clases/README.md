@@ -6,15 +6,15 @@
 ### Clase 01 Ma. 06-Aug-2019:
 * 0.1-Programa del Curso [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_Presentacion.pptx)
-* 0.1-Ejemplo Inicial (segmentacion de arroces) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/matlab/IMG00_RiceClassification.m)
 * 0.1-Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 * 1.1-Ejemplo de computacion grafica [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ComputerGraphics.m)
+* 1.1-Ejemplo segmentacion de un arroz [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_OneRice.m)
+* 1.1-Ejemplo Inicial (segmentacion de arroces) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_RiceClassification.m)
 
 ### Clase 02 Ju. 08-Aug-2019:
 * 1.1-Adquisicion de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * 1.1-Pixels [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Pixels.m)
-* 1.3-Ejemplo Un Arroz [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_OneRice.m)
 * 1.3-Sampling (muestreo espacial y de tonos de gris) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ImageSampling.m)
 * 1.3-Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
 * 1.2-Lus, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
@@ -226,4 +226,4 @@
 ---
 
 
-Updated on 06-Aug-2019 at 09:54 by Domingo Mery
+Updated on 06-Aug-2019 at 11:21 by Domingo Mery
