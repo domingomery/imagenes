@@ -29,3 +29,7 @@
 ### 8.5 Uso del movimiento en segmentacion:
 * Segmentacion de movimiento [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegVideo.pdf)
 * Ejemplo de egmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
+
+
+
+Updated on 06-Aug-2019 at 09:47 by Domingo Mery
