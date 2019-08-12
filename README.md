@@ -22,7 +22,7 @@
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 * 1.2-Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
 * 1.2-Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
-* 1.2-s [[Nota Periodistica]](https://www.nytimes.com/es/2019/08/02/toby-walsh-inteligencia-artificial)
+* 1.2-Lo ves a color o en blanco y negro? [[]](https://www.bbc.com/mundo/noticias-49178274)
 
 ### Clase 03 Ma. 20-Aug-2019:
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
@@ -226,4 +226,4 @@
 ---
 
 
-Updated on 11-Aug-2019 at 14:00 by Domingo Mery
+Updated on 12-Aug-2019 at 14:26 by Domingo Mery
