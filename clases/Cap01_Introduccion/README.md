@@ -8,7 +8,10 @@
 * Adquisicion de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Pixels [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Pixels.m)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
-* Lus, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
+* Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
+* Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
+* Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
+* Funcionamiento del ojo humano (problemas en la vision) [[Video]](https://www.youtube.com/watch?v=AsKeu4wm3XI)
 * Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
 * Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
 * Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
@@ -21,4 +24,4 @@
 ---
 
 
-Updated on 12-Aug-2019 at 14:42 by Domingo Mery
+Updated on 13-Aug-2019 at 10:52 by Domingo Mery

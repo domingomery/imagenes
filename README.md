@@ -1,6 +1,6 @@
 # Fundamentos de Procesamiento de Imagenes
 
-## Planificacion del curso por dia
+## Planificacion del course por dia
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 06-Aug-2019:
@@ -17,7 +17,10 @@
 * 1.1-Pixels [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Pixels.m)
 * 1.3-Sampling (muestreo espacial y de tonos de gris) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ImageSampling.m)
 * 1.3-Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
-* 1.2-Lus, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
+* 1.2-Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
+* 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
+* 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
+* 1.2-Funcionamiento del ojo humano (problemas en la vision) [[Video]](https://www.youtube.com/watch?v=AsKeu4wm3XI)
 * 1.2-Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 * 1.2-Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
@@ -226,4 +229,4 @@
 ---
 
 
-Updated on 12-Aug-2019 at 14:42 by Domingo Mery
+Updated on 13-Aug-2019 at 10:52 by Domingo Mery
