@@ -37,3 +37,14 @@ enterpause
 Y4 = adapthisteq(X,'clipLimit',0.003);
 figure;imshow(Y4,[]),title('Y4: Equalized from X using IPT (adapthisteq)');
 figure;imhist(Y4),title('Histogram of Y4');
+
+disp(' adapthisteq: Contrast-limited Adaptive Histogram Equalization (CLAHE).')
+disp('    adapthisteq enhances the contrast of images by transforming the')
+disp('    values in the intensity image I.  Unlike HISTEQ, it operates on small')
+disp('    data regions (tiles), rather than the entire image. Each tile- ')
+disp('    contrast is enhanced, so that the histogram of the output region')
+disp('    approximately matches the specified histogram. The neighboring tiles ')
+disp('    are then combined using bilinear interpolation in order to eliminate')
+disp('    artificially induced boundaries.  The contrast, especially')
+disp('    in homogeneous areas, can be limited in order to avoid amplifying the')
+disp('    noise which might be present in the image.')
