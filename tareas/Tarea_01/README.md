@@ -18,7 +18,7 @@ A partir del enunciado, se debera implementar una solución en Matlab o Python. 
 La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 que indica la mejor precision encontrada en el curso y B una constante calculada de tal forma que el mejor resultado en el curso obtenga C = 1. A se define como (A1+A2+...+A5)/5, donde Ai, la precision en la imagen i, se calcula como max(0,(10-Ei)/10) con Ei es el error en minutos en la estimación del tiempo del timer (en caso de que Ei>10 el valor de Ai sera 0). 
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "pzbpqe"). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "+pzbpqe"). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
 
 ## Foro
 Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/1).
