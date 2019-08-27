@@ -16,8 +16,8 @@ r = randn(1,N)*0.1;
 m = 25;
 h1 = fspecial('gaussian',[1 m],7);
 h2 = fspecial('gaussian',[1 m],1);
-ax1 = [12 16 0.4 1.2];
-ax2 = [12 16 0 0.4];
+ax1 = [0 12 -1.2 1.2];
+ax2 = [0 12 -0.4 0.4];
 subplot(2,4,1);plot(t,x1);title('x1');axis(ax1)
 subplot(2,4,2);plot(t,x2);title('x2');axis(ax2)
 subplot(2,4,3);plot(t,x);title('x=x1+x2');axis(ax1)
