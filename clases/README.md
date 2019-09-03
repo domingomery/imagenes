@@ -74,22 +74,22 @@
 * 4.4-Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 
 ### Clase 07 Ma. 03-Sep-2019:
-* 4.4-Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltroIdeal1D.m)
-* 4.4-Transfomada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pdf)
-* 4.4-Fourier 1D con ruido [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Noise.m)
-* 4.4-Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
-* 4.4-Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier_Ideal.m)
+* 4.4-Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
+* 4.4-Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_FiltroIdeal.m)
+* 4.4-Ejercicio Transfomada de Fourier 1D (enunciado) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ejercicio.pdf)
+* 4.4-Ejercicio Transfomada de Fourier 1D (solucion) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Noise.m)
 * 4.4-Fourier 1D: Teoria [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pdf)
-* 4.4-OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
-
-### Clase 08 Ju. 05-Sep-2019:
+* 4.4-Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
 * 4.4-Series de Fourier (complejas) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourierCn.m)
 * 4.4-Series de Fourier (reales) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourier.m)
 * 4.4-Tren de Impulsos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_TrenImpulsos.m)
+
+### Clase 08 Ju. 05-Sep-2019:
 * 4.4-Muestreo de Sinusoide [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoSinusoide.m)
 * 4.4-Muestreo de Audio [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoAudio.m)
 * 4.4-Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 * 4.4-Transformada Discreta de Fourier (DFT) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_DFT.pdf)
+* 4.4-OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
 * 4.4-Convolucion en 1D usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ConvolucionDiscreta.pptx)
 
 ### Clase 09 Ma. 10-Sep-2019:
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 29-Aug-2019 at 10:04 by Domingo Mery
+Updated on 03-Sep-2019 at 09:18 by Domingo Mery
