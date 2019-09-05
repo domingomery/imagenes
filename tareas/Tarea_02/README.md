@@ -1,4 +1,4 @@
-# Tarea 01: Temporizador
+# Tarea 02: Filtros en el dominio de Fourier
 
 ## Enunciado
 El objetivo de esta tarea es realizar de manera individual un programa que determine pueda filtrar imagenes ruidosas usando filtros en el dominio de Fourier. En esta [carpeta](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_02/imagenes) se encuentran 5 fotografías ruidosas en blanco y negro, que deben ser leídas por un programa y procesadas para filtrar el ruido. 
