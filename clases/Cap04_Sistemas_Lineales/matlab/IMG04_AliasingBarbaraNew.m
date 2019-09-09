@@ -5,7 +5,7 @@ if data==1
    Do = 150;
 else
    I = double(rgb2gray(imread('CamisaRayas.jpg')));
-   Do = 350;
+   Do = 200;
 end
 
 [N,M] = size(I);
