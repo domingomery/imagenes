@@ -114,22 +114,21 @@
 ### Clase 11 Ma. 17-Sep-2019:
 * 4.5-Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
 * 4.5-Ejemplo de Implementacion de la Transformada de Fourier [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
+* 4.6-Ejemplo basico de compresion 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_CompressionFila.m)
+* 4.6-Ejemplo basico de Compresion de Imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Compression.m)
+* 4.4-Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
+* 4.4-Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
+* 4.4-Material adicional: Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
+* 4.5-Material adicional: The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
+* 4.5-Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
 * 4.6-Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
+* 4.6-JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 * 4.6-Ejemplo de Transformada Discreta de Cosenos (DCT) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DCT2DVisualization.m)
 * 4.6-Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
 * 4.6-Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
-* 4.6-Compresion de Imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Compression.m)
-* 4.5-Material adicional para Fourier: Videos-0 [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Video0.pdf)
-* 4.5-Material adicional para Fourier: Videos-1 [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Video1.pdf)
-* 4.5-Material adicional para Fourier: Videos-2 [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Video2.pdf)
-* 4.4-Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
-* 4.4-The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
-* 4.4-Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
-* 4.5-The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
-* 4.5-2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
-* 4.6-Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
 * 4.6-Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
 * 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
+* 4.6-Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
 * 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * 4.6-Ejemplo de Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
 
@@ -232,4 +231,4 @@
 ---
 
 
-Updated on 12-Sep-2019 at 16:20 by Domingo Mery
+Updated on 17-Sep-2019 at 10:19 by Domingo Mery

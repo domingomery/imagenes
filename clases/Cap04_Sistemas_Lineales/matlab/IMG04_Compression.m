@@ -1,47 +1,29 @@
-close all
+
 
 I = imread('cameraman.tif');
-
-f = double(I(100,:))';
-
-n = length(f);
-
-plot(f)
-hold on
-
-F = fft(f);
-
-Fa = abs(F);
-
-s = sum(Fa);
-
-ener  = 0.95;
-
-sm = ener*s;
-
-[ii,jj] = sort(Fa,'descend');
-figure(2)
-plot(ii)
-
-x = 0;
-
-i = 0;
-
-G = zeros(n,1);
-
-t = 0;
-while x < sm
-    i = i+1;
-    G(jj(i)) = F(jj(i));
-    x = x + ii(i);
-    t = t+1;
-end
-
-g = real(ifft(G));
-e = abs(f-g);
 figure(1)
-plot(g,'r')
+imshow(I)
+title('original')
+X = double(I);
 
-fprintf('     energy: %f\ncompression: %f\n      error: %f\n',ener,t/n,mean(e))
+F = fft2(X);
+n = length(F(:));
+
+ii = find(abs(F)<5000);
+t = length(ii);
+
+
+G = F;
+G(ii) = 0;
+
+Y = real(ifft2(G));
+
+
+e = abs(Y(:)-X(:));
+figure(2)
+imshow(Y,[])
+title('compressed')
+
+fprintf('compression: %f%%\n      error: %f\n',t/n*100,mean(e))
 
 
