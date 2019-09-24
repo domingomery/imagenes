@@ -64,6 +64,12 @@
 * Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
 * Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
 * Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
+* Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
+* Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
+* Wavelets - video c [[Video]](https://www.youtube.com/watch?v=ZnmvUCtUAEE)
+* Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
+* Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
+* Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
 * Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
 * Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
@@ -72,4 +78,4 @@
 ---
 
 
-Updated on 24-Sep-2019 at 11:24 by Domingo Mery
+Updated on 24-Sep-2019 at 11:29 by Domingo Mery

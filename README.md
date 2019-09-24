@@ -129,6 +129,12 @@
 
 ### Clase 12 Ma. 24-Sep-2019:
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
+* 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
+* 4.6-Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
+* 4.6-Wavelets - video c [[Video]](https://www.youtube.com/watch?v=ZnmvUCtUAEE)
+* 4.6-Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
+* 4.6-Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
+* 4.6-Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
 * 4.6-Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
 * 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * 4.6-Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
@@ -232,4 +238,4 @@
 ---
 
 
-Updated on 24-Sep-2019 at 11:24 by Domingo Mery
+Updated on 24-Sep-2019 at 11:29 by Domingo Mery
