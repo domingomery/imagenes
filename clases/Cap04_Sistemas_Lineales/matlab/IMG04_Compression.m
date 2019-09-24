@@ -9,7 +9,7 @@ X = double(I);
 F = fft2(X);
 n = length(F(:));
 
-ii = find(abs(F)<5000);
+ii = find(abs(F)<10000);
 t = length(ii);
 
 
