@@ -152,11 +152,11 @@
 * 5.1-Filtro Ideal en frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_IdealMask.m)
 
 ### Clase 13 Ju. 26-Sep-2019:
-* 6.1-Ejemplos de Restauracion de imagenes [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
+* 6.1-Ejemplos de Restauracion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
 * 6.1-Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
 * 6.1-Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestorarion_Paper.pdf)
 * 6.1-Simulacion de borrosidad [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_blur.m)
-* 6.1-Ejemplo 'blur' [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_EjemploBlur.pptx)
+* 6.1-Ejemplo 'blur' [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_EjemploBlur.pptx)
 * 6.1-Ejemplo de Restauracion de Imagenes-1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_minio.m)
 * 6.1-Ejemplo de Restauracion de Imagenes-2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploMinio.m)
 
@@ -240,4 +240,4 @@
 ---
 
 
-Updated on 26-Sep-2019 at 11:16 by Domingo Mery
+Updated on 26-Sep-2019 at 11:31 by Domingo Mery
