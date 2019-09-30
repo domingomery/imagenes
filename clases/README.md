@@ -159,10 +159,10 @@
 * 6.1-Ejemplo 'blur' [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_EjemploBlur.pptx)
 * 6.1-Ejemplo de Restauracion de Imagenes-1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_minio.m)
 * 6.1-Ejemplo de Restauracion de Imagenes-2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploMinio.m)
+* 6.1-Degradacion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Degradation_2pixels.m)
 
 ### Clase 14 Ma. 01-Oct-2019:
-* 6.1-Degradacion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Degradation_2pixels.m)
-* 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_RestauracionHorizontalUniforme.pdf)
+* 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_RestauracionHorizontalUniforme.pdf)
 
 ### Clase 15 Ju. 03-Oct-2019:
 * 6.2-Paper-2 de Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
@@ -240,4 +240,4 @@
 ---
 
 
-Updated on 26-Sep-2019 at 11:31 by Domingo Mery
+Updated on 30-Sep-2019 at 18:12 by Domingo Mery
