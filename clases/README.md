@@ -163,10 +163,10 @@
 
 ### Clase 14 Ma. 01-Oct-2019:
 * 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_RestauracionHorizontalUniforme.pdf)
+* 6.1-Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_Paper.pdf)
 
 ### Clase 15 Ju. 03-Oct-2019:
-* 6.2-Paper-2 de Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
-* 6.2-Paper-3 de Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_CLEI_Paper.pdf)
+* 6.2-Paper-3 de Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
 * 6.3-Restauracion de Imagenes (estimacion de movimiento) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Estimation_n.m)
 * 6.4-Filtro Wiener [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_WienerFilter.m)
 * 6.4-Ejemplo de deconvolucion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploDeconvolution.m)
@@ -240,4 +240,4 @@
 ---
 
 
-Updated on 30-Sep-2019 at 18:12 by Domingo Mery
+Updated on 01-Oct-2019 at 09:03 by Domingo Mery
