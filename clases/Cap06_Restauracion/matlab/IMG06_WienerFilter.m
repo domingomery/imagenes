@@ -26,7 +26,7 @@ FH = fft2(He);
 AFH = abs(FH);
 AFH2 = AFH.*AFH;
 
-K = 0.00000000001;
+K = 0.01;
 
 
 FFs = conj(FH)./(AFH2 + K).*FG;
