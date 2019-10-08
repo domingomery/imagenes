@@ -1,7 +1,7 @@
 # Tarea 03: Restauración de imágenes
 
 ## Enunciado
-El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas por un proceso real. Para este fin se cuenta con dos imagenes que han sido tomadas con el lente fuera de foco [image_blur_01]() y [image_blur_02]() y dos imagenes que han sido tomadas con la camara en movimiento [image_blur_03]() [image_blur_04](). Como referencia se cuenta con una imagen sin degradacion [image_sharp]().
+El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas por un proceso real. Para este fin se cuenta con dos imagenes que han sido tomadas con el lente fuera de foco [image_blur_01](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_01.png) y [image_blur_02](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_02.png) y dos imagenes que han sido tomadas con la camara en movimiento [image_blur_03](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_03.png) [image_blur_04](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_04.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png).
 
 
 
