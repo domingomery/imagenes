@@ -1,7 +1,7 @@
 # Tarea 03: Restauración de imágenes
 
 ## Enunciado
-El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas por un proceso real. Para este fin se cuenta con dos imagenes que han sido tomadas con el lente fuera de foco [image_blur_01](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_01.png) y [image_blur_02](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_02.png) y dos imagenes que han sido tomadas con la camara en movimiento [image_blur_03](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_03.png) [image_blur_04](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_04.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png).
+El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas por un proceso real. Para este fin se cuenta con dos familias de fotos: 1) dos imagenes que han sido tomadas con el lente fuera de foco [image_blur_01](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_01.png) y [image_blur_02](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_02.png) y 2) dos imagenes que han sido tomadas con la camara en movimiento [image_blur_03](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_03.png) y [image_blur_04](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_04.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos metodos distintos para cada familia de imagenes. Es decir, la tarea deberia tener al menos cuatro metodos de restauracion distintos. Adicionalmente, debe existir en los cuatro metodos, al menos uno que use la Transformada de Fourier.
 
 
 
@@ -15,6 +15,8 @@ En el informe se evalúa calidad del informe, explicaciones, redacción, ortogra
 A partir del enunciado, se deberá implementar una solución en Matlab o Python. El código diseñado debe ser debidamente comentado y explicado, por favor sea lo más claro posible para entender su solución, para hacer más fácil la corrección y para obtener mejor nota. Se evalúa la calidad del método, si el diseño es robusto y rápido para el problema dado, si los experimentos diseñados y los datos empleados son adecuados, si el código es entendible, limpio, ordenado y bien comentado.
 
 ## Resultados Obtenidos (30%)
+Los resultados seran evaluados de manera subjetiva de acuerdo a la calidad de las imagenes restauradas (con nota de 0 a 100). Para esto se obtendra un promedio de las calidades que determinen los ayudantes. La nota obtenida de los resultados se calcula como Q/100 x C, donde C es una constante que hace que la mejor calidad obtenida en esta tarea tenga como nota 30%. 
+
 
 ## Indicaciones para subir la tarea
 La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es el pzbpqe). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
