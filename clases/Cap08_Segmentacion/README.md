@@ -1,7 +1,7 @@
 
 # Capitulo 08: Segmentacion de imagenes
 ### 8.1 Deteccion de bordes:
-* Segmentacion a color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
+* Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
 * Segmentacion con filtros [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
 * Transformada de Hough [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_HoughTransform.pdf)
 * Ejemplo de Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough.m)
@@ -32,4 +32,4 @@
 ---
 
 
-Updated on 03-Oct-2019 at 09:46 by Domingo Mery
+Updated on 08-Oct-2019 at 11:34 by Domingo Mery

@@ -173,7 +173,7 @@
 * 6.4-Ejemplo de deconvolucion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploDeconvolution.m)
 
 ### Clase 16 Ma. 08-Oct-2019:
-* 8.1-Segmentacion a color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
+* 8.1-Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
 * 8.3-Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 * 8.2-Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
@@ -240,4 +240,4 @@
 ---
 
 
-Updated on 03-Oct-2019 at 09:46 by Domingo Mery
+Updated on 08-Oct-2019 at 11:34 by Domingo Mery
