@@ -20,3 +20,6 @@ Los resultados seran evaluados de manera subjetiva de acuerdo a la calidad de la
 
 ## Indicaciones para subir la tarea
 La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es el pzbpqe). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+
+## Foro
+Para dudas, ver el [foro](https://github.com/domingomery/imagenes/issues/3) de esta tarea.
