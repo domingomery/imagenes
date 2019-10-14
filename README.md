@@ -199,29 +199,27 @@
 * 8.1-Deteccion de bordes Canny vs. LoG [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgesLoGvsCanny.m)
 * 8.1-Mas ejemplos de deteccion de bordes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeDetectionAll.m)
 * 8.1-Deteccion de bordes (ejemplo con bordes sinteticos) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeSynthetic.m)
-
-### Clase 19 Ju. 17-Oct-2019:
 * 8.5-Segmentacion de movimiento [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegVideo.pdf)
 * 8.5-Ejemplo de egmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
+
+### Clase 19 Ju. 17-Oct-2019:
 * 7.2-Morfologia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pdf)
 * 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphScan.m)
 * 7.1-Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphExamples.m)
 * 7.1-Morfologia: conexiones [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Connected.m)
-
-### Clase 20 Ma. 22-Oct-2019:
 * 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)
 * 7.2-TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
 * 7.2-Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
+
+### Clase 20 Ma. 22-Oct-2019:
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
-
-### Clase 21 Ju. 24-Oct-2019:
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans.m)
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans_segmentation.m)
 * 2.1-Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
 * 2.1-Segmentacion a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
 
-### Clase 22 Ma. 29-Oct-2019:
+### Clase 21 Ju. 24-Oct-2019:
 * 2.2-Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
 * 2.2-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.2-Mejora de color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
@@ -229,9 +227,9 @@
 * 2.2-Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
 * 2.3-Conversiones de espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColourSpaceConversions.pdf)
 * 2.3-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_CapituloColor_Forsyth.pdf)
-* 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 
-### Clase 23 Ma. 29-Oct-2019:
+### Clase 22 Ma. 29-Oct-2019:
+* 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 * 2.2-Paleta de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
 * 2.2-Procesamiento de imagenes a color simple [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorProcessing.pdf)
 * 2.2-Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
@@ -240,4 +238,4 @@
 ---
 
 
-Updated on 08-Oct-2019 at 11:34 by Domingo Mery
+Updated on 14-Oct-2019 at 11:03 by Domingo Mery
