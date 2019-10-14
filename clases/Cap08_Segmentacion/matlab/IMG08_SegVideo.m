@@ -8,7 +8,7 @@
 
 clt
 
-vidObj = VideoReader('../images/secuencia_color.avi');
+vidObj = VideoReader('secuencia_color.mov');
 
 vidObj.CurrentTime = 0.5;
 
