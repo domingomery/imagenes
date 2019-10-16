@@ -1,4 +1,4 @@
-I = imread('../images/coffeecup.jpg');
+I = imread('coffeecup.jpg');
 J = rgb2gray(I);
 imshow(J)
 mesh(double(imfilter(J,fspecial('gaussian',17,2))'))

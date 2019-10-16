@@ -200,10 +200,10 @@
 * 8.1-Mas ejemplos de deteccion de bordes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeDetectionAll.m)
 * 8.1-Deteccion de bordes (ejemplo con bordes sinteticos) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeSynthetic.m)
 * 8.5-Segmentacion de movimiento [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegVideo.pdf)
-* 8.5-Ejemplo de egmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
+* 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 
 ### Clase 19 Ju. 17-Oct-2019:
-* 7.2-Morfologia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pdf)
+* 7.2-Morfologia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morphology.pdf)
 * 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphScan.m)
 * 7.1-Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphExamples.m)
 * 7.1-Morfologia: conexiones [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Connected.m)
@@ -238,4 +238,4 @@
 ---
 
 
-Updated on 14-Oct-2019 at 11:03 by Domingo Mery
+Updated on 16-Oct-2019 at 14:45 by Domingo Mery
