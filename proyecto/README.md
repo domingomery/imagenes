@@ -53,4 +53,4 @@ En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto en
 La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendra una mejor nota una persona que pruebe e invente metodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola funcion con resultados buenos.
 
 ## Foro
-Hacer comentarios preguntas que no se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/4).
+Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/imagenes/issues/4).
