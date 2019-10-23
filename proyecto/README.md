@@ -33,9 +33,19 @@ La presentacion  final del proyecto consiste en una reunion de todos los integra
 
 La reunion conmigo de 45 minutos consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
-- La presentacion tipo powerpoint debe incluir 1) introduccion, 2) revision del [estado del arte](https://scholar.google.cl/scholar?&q=iris+segmentation), 3) el metodo propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios)[ver ejemplo](https://github.com/domingomery/imagenes/blob/master/proyecto/diagram_example.png), 4) resultados obtenidos, 5) conclusiones y 6) demo.
+- La presentacion tipo powerpoint debe incluir 
 
-- La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Ademas deben ser capaces de detectar el iris en 5 imagenes nuevas que el profesor les proporcionara en un pendrive en formato png.
+1) Introduccion (relevancia de este tema, en que consiste el proyecto, etc.), 
+
+2) Revision del [estado del arte](https://scholar.google.cl/scholar?&q=iris+segmentation), 
+
+3) Metodo propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios como el de este [ejemplo](https://github.com/domingomery/imagenes/blob/master/proyecto/diagram_example.png)), 
+
+4) Resultados obtenidos, 
+
+5) Donclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendioo, etc.) y 
+
+6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Ademas deben ser capaces de detectar el iris en 5 imagenes nuevas que el profesor les proporcionara en un pendrive en formato png.
 
 - En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
