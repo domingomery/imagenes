@@ -33,7 +33,7 @@ La presentacion  final del proyecto consiste en una reunion de todos los integra
 
 La reunion conmigo de 45 minutos consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
-- La presentacion tipo powerpoint debe incluir 
+La presentacion tipo powerpoint debe incluir:
 
 1) Introduccion (relevancia de este tema, en que consiste el proyecto, etc.), 
 
@@ -47,10 +47,10 @@ La reunion conmigo de 45 minutos consta de una presentacion tipo powerpoint, una
 
 6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Ademas deben ser capaces de detectar el iris en 5 imagenes nuevas que el profesor les proporcionara en un pendrive en formato png.
 
-- En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
+En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
 ## Nota
-La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendra una mejor nota una persona que pruebe e invente metodos con resultados no tan buenos, que una persona que prueba/encuentre una sola funcion con resultados buenos.
+La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendra una mejor nota una persona que pruebe e invente metodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola funcion con resultados buenos.
 
 ## Foro
-Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/4).
+Hacer comentarios preguntas que no se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/4).
