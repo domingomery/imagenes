@@ -20,7 +20,7 @@ Se debe entregar adicionalmente el error de segmentacion en el iris y en la pupi
 
 IMPORTANTE: En este proyecto, las coordenadas (x,y) del primer pixel de una imagen son (1,1). Es decir se sigue el estandar Matlab y no Python. Las personas que trabajen en Python deberan sumar 1 a las coordenadas (x,y) obtenidas. 
 
-Esta permitido usar librerias de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
+Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 ## Fecha de Entrega
 Semana del 2 al 6 de Diciembre de 2019: Horario a definir con el profesor.
@@ -40,7 +40,7 @@ La reunion conmigo de 45 minutos consta de una presentacion tipo powerpoint, una
 - En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
 ## Nota
-La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral.
+La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendra una mejor nota una persona que pruebe e invente metodos con resultados no tan buenos, que una persona que prueba/encuentre una sola funcion con resultados buenos.
 
 ## Foro
 Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/4).
