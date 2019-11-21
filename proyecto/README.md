@@ -23,10 +23,10 @@ IMPORTANTE: En este proyecto, las coordenadas (x,y) del primer pixel de una imag
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 ## Fecha de Entrega
-Semana del 2 al 6 de Diciembre de 2019: Horario a definir con el profesor.
+Del 2 de Diciembre hasta 5 dias calendario antes de poner las notas del segundo semestre del 2019: Horario a definir con el profesor (coordinar por email: enviar un mail a domingo.mery@uc.cl indicando tres posibles horarios de lunes a viernes entre 9am y 6pm).
 
 ## Modalidad de Trabajo
-Grupos de 2 personas (sin excepcion)
+Grupos de 2 personas.
 
 ## Presentacion
 La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo conmigo en mi oficina. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
