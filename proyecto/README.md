@@ -16,7 +16,7 @@ Para este proyecto se debe probar el metodo propuesto en las 20 imagenes disponi
 
 El algoritmo disenado debe entregar 8 parametros por cada imagen: los cuatro parametros de la elipse del borde externo del iris y los cuatro parametros de la elipse del borde de la pupila. Como referencia se entregan los parametros "ideales" obtenidos de una segmentacion manual para el [iris](https://github.com/domingomery/imagenes/tree/master/proyecto/iris.txt) y para la [pupila](https://github.com/domingomery/imagenes/tree/master/proyecto/pupil.txt). Estas tablas de 20 x 4 elementos contienen respectivamente los 4 parametros (a,b,x,y) para cada una de las 20 imagenes.  
 
-Se debe entregar adicionalmente el error de segmentacion en el iris y en la pupila. Para esto debe calcular el error promedio en pixeles de cada uno de los 8 parametros con respecto a los parametros "ideales".
+Se debe entregar adicionalmente el error de segmentacion en el iris y en la pupila. Para esto debe calcular el error promedio en pixeles de cada uno de los 8 parametros con respecto a los parametros "ideales" para cada imagen. El error promedio total en pixeles se calcula como el promedio de los los 8 parametros en las 20 imagenes.
 
 IMPORTANTE: En este proyecto, las coordenadas (x,y) del primer pixel de una imagen son (1,1). Es decir se sigue el estandar Matlab y no Python. Las personas que trabajen en Python deberan sumar 1 a las coordenadas (x,y) obtenidas. 
 
@@ -43,7 +43,7 @@ La presentacion tipo powerpoint debe incluir:
 
 4) Resultados obtenidos, 
 
-5) Donclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendioo, etc.) y 
+5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendioo, etc.) y 
 
 6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Ademas deben ser capaces de detectar el iris en 5 imagenes nuevas que el profesor les proporcionara en un pendrive en formato png.
 
