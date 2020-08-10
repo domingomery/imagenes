@@ -8,6 +8,8 @@ El objetivo de esta tarea es realizar de manera individual un programa que deter
 
 Se debe realizar un programa que i) encuentre el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) (opcional) realice una corrección geométrica para que el reloj se vea como un círculo, iii) encuentre las dos manecillas principales (para la hora y los minutos), iv) estime el ángulo de las manecillas; y v) calcule la hora indicando el número de la hora y los minutos. La entrada del programa es la imagen, la salida es la hora en formato de dos números enteros (uno para la hora y otro para los minutos). No es necesario determinar el número de segundos.
 
+El algoritmo debe funcionar correctamente en las imagenes proporcionadas en la carpeta. No es necesario que funcione con otras imágenes o con otros relojes.
+
 ## Fecha de Entrega
 Ver Google Classroom
 
