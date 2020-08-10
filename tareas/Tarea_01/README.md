@@ -1,7 +1,10 @@
 # Tarea 01: Que hora es?
 
 ## Enunciado
-El objetivo de esta tarea es realizar de manera individual un programa que determine automáticamente la hora indica un reloj analógico. En esta [carpeta](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_01/imagenes) se encuentran 6 fotografías del reloj, que deben ser leídas por un programa y procesadas para determinar automáticamente qué hora es. 
+El objetivo de esta tarea es realizar de manera individual un programa que determine automáticamente la hora que indica un reloj analógico. En esta [carpeta](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_01/imagenes) se encuentran 6 fotografías del reloj, que deben ser leídas por un programa y procesadas para determinar automáticamente qué hora es, tal y como se muestra en este ejemplo para la primera imagen.
+
+<img src="https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_01/ejemplo.jpg" width="600">
+
 
 Se debe realizar un programa que i) encuentre el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) (opcional) realice una corrección geométrica para que el reloj se vea como un círculo, iii) encuentre las dos manecillas principales (para la hora y los minutos), iv) estime el ángulo de las manecillas; y v) calcule la hora indicando el número de la hora y los minutos. La entrada del programa es la imagen, la salida es la hora en formato de dos números enteros (uno para la hora y otro para los minutos). No es necesario determinar el número de segundos.
 
