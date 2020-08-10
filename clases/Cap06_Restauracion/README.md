@@ -11,6 +11,7 @@
 * Degradacion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Degradation_2pixels.m)
 * Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_1.pdf)
 * Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
+* Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion//)
 ### 6.2 Restauracion con filtros espaciales en presencia de ruido:
 ### 6.3 Reduccion de ruido periodico en el dominio de la frecuencia:
 * Restauracion de Imagenes (estimacion de movimiento) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Estimation_n.m)
@@ -22,4 +23,4 @@
 ---
 
 
-Updated on 23-Oct-2019 at 13:22 by Domingo Mery
+Updated on 10-Aug-2020 at 09:59 by Domingo Mery
