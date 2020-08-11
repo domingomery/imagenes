@@ -2,6 +2,7 @@
 # Capitulo 01: Introduccion
 ### 1.1 Introduccion al analisis y procesamiento digital de imagenes:
 * Definiciones [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
+* Definicion de Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 * Ejemplo de computacion grafica [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ComputerGraphics.m)
 * Ejemplo segmentacion de un arroz [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_OneRice.m)
 * Ejemplo Inicial (segmentacion de arroces) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_RiceClassification.m)
@@ -24,4 +25,4 @@
 ---
 
 
-Updated on 10-Aug-2020 at 09:59 by Domingo Mery
+Updated on 11-Aug-2020 at 13:41 by Domingo Mery

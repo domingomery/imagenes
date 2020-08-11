@@ -1,10 +1,11 @@
 
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
+* Video de esta clase [[YouTube]](https://youtu.be/o-r7nMgBo2c)
 * Programa del Curso [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_Presentacion.pptx)
 * Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 ---
 
 
-Updated on 10-Aug-2020 at 09:59 by Domingo Mery
+Updated on 11-Aug-2020 at 13:41 by Domingo Mery
