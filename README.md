@@ -10,6 +10,7 @@
 * 1.1-Definiciones [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 
 ### Clase 02 Ju. 13-Aug-2020:
+* 1.1-Video de esta clase [[YouTube]](https://youtu.be/qhG-7ioz_2w)
 * 1.1-Definicion de Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 * 0.1-Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 1.1-Ejemplo de computacion grafica [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ComputerGraphics.m)
@@ -267,4 +268,4 @@
 ---
 
 
-Updated on 11-Aug-2020 at 13:41 by Domingo Mery
+Updated on 13-Aug-2020 at 14:46 by Domingo Mery
