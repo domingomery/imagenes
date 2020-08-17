@@ -9,6 +9,7 @@
 * Ejemplo Inicial (segmentacion de arroces) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_RiceClassification.m)
 * Adquisicion de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Pixels [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Pixels.m)
+* Trabajo en grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
 * Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
@@ -26,4 +27,4 @@
 ---
 
 
-Updated on 13-Aug-2020 at 14:46 by Domingo Mery
+Updated on 17-Aug-2020 at 09:13 by Domingo Mery
