@@ -25,7 +25,7 @@ while(1)
     for i=[i1 i2]
         I = Io;
         I(128-16:128+16,i-16:i+16)=128;
-        imshow(uint8(I))
+        imshow(imresize(uint8(I),3))
         title('the gray-value of the square is 128!')
         drawnow
     end

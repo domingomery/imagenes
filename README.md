@@ -22,10 +22,17 @@
 * 1.3-Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
 
 ### Clase 03 Ma. 18-Aug-2020:
+* 1.2-Video de esta clase [[YouTube]](https://youtu.be/NGuhqfI3a_s)
 * 1.2-Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
-* 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
-* 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
+* 1.2-Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=nbwPPcwknPU)
+* 1.2-Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
+* 1.2-Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=v4NwwNKpYrs)
+* 1.2-Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=6QiwUDjuDTY)
 * 1.2-Funcionamiento del ojo humano (problemas en la vision) [[Video]](https://www.youtube.com/watch?v=AsKeu4wm3XI)
+* 1.1-Simulacion de fenomenos relacionados con emision de luz [[Simulacion]](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html)
+* 1.1-Simulacion de interferencia [[Simulacion]](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html)
+* 1.1-Simulacion de vision a color [[Simulacion]](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
+* 1.1-Como funciona la resonancia magnetica [[YouTube]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//https://www.youtube.com/watch?v=1CGzk-nV06g)
 * 1.2-Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 * 1.2-Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
@@ -33,7 +40,7 @@
 * 1.2-Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
 
 ### Clase 04 Ju. 20-Aug-2020:
-* 1.1-Trabajo en grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//)
+* 1.1-Trabajo en grupo [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioBasico.pdf)
 
 ### Clase 05 Ma. 25-Aug-2020:
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
@@ -269,4 +276,4 @@
 ---
 
 
-Updated on 17-Aug-2020 at 09:13 by Domingo Mery
+Updated on 18-Aug-2020 at 14:18 by Domingo Mery
