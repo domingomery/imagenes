@@ -36,5 +36,5 @@ OUTPUT:
 
 
 
-## Enterga
-El trabajo es en grupo, pero **la entrega es individual**. Cada estudiante debe subir al [Google Classroom](https://classroom.google.com) (codigo del curso: 6xxmqkg) un solo archivo (.m, .py, o .ipynb) que haga los tres ejercicios. Tratar de entregar lo antes posible (al final de la clase), la fecha maxima de entrega es el lunes 14/08/20 a las 6:30pm. 
+## Entrega Individual (Lu.21/08/20 6:30pm)
+El trabajo es en grupo, pero **la entrega es individual**. Cada estudiante debe subir al [Google Classroom](https://classroom.google.com) (codigo del curso: 6xxmqkg) un solo archivo (.m, .py, o .ipynb) que haga los tres ejercicios. Tratar de entregar lo antes posible (al final de la clase), la fecha maxima de entrega es el lunes 21/08/20 a las 6:30pm. 
