@@ -27,8 +27,8 @@ Sobreponer la flor sobre la imagen del cielo.
 
 INPUTS:
 
-<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG03.png" width="400">
-<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG04.png" width="400">
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG03a.png" width="400">
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG03b.png" width="400">
 
 OUTPUT:
 
