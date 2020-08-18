@@ -2,13 +2,28 @@
 
 ## Ejercicio 1
 Segmentar de los dos patos. La salida debe ser la imagen original con un borde amarillo rectangular que encierre cada pato.
-<img src="https://github.com/domingomery/imagenes/blob/master/ejercicios/IMG01.png" width="300">
-<img src="https://github.com/domingomery/imagenes/blob/master/ejercicios/IMG01_output.png" width="300">
+INPUT:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG01.png" width="300">
+
+OUTPUT:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG01_output.png" width="300">
 
 ## Ejercicio 2
 Cacule la longitud del lapiz en pixles.
-<img src="https://github.com/domingomery/imagenes/blob/master/ejercicios/IMG01.png" width="300">
+INPUT:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG02.png" width="300">
 
+OUTPUT:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG02_output.png" width="300">
+
+## Ejercicio 3
+Sobreponer la flor sobre la imagen del cielo.
+INPUTS:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG03.png" width="300">
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG04.png" width="300">
+
+OUTPUT:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG03_output.png" width="300">
 
 
 
