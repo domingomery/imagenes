@@ -15,7 +15,7 @@
 * Como funciona la resonancia magnetica [[YouTube]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//https://www.youtube.com/watch?v=1CGzk-nV06g)
 * Trabajo en grupo [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioBasico.pdf)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
-* Video de esta clase [[YouTube]](https://youtu.be/NGuhqfI3a_s)
+* Video de esta clase [[YouTube]](https://youtu.be/PhaL6ug5LJg)
 * Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 18-Aug-2020 at 14:18 by Domingo Mery
+Updated on 18-Aug-2020 at 20:23 by Domingo Mery

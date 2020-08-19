@@ -22,7 +22,7 @@
 * 1.3-Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
 
 ### Clase 03 Ma. 18-Aug-2020:
-* 1.2-Video de esta clase [[YouTube]](https://youtu.be/NGuhqfI3a_s)
+* 1.2-Video de esta clase [[YouTube]](https://youtu.be/PhaL6ug5LJg)
 * 1.2-Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * 1.2-Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2-Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -276,4 +276,4 @@
 ---
 
 
-Updated on 18-Aug-2020 at 14:18 by Domingo Mery
+Updated on 18-Aug-2020 at 20:23 by Domingo Mery
