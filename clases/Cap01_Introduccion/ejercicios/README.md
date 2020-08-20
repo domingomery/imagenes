@@ -12,7 +12,7 @@ OUTPUT:
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/ejercicios/IMG01_output.png" width="400">
 
 ## Ejercicio 2
-Cacule la longitud del lapiz en pixles.
+Cacule la longitud del lapiz en pixles (opcional: medir el angulo que hace el lapiz con una linea horizontal).
 
 INPUT:
 
@@ -36,5 +36,5 @@ OUTPUT:
 
 
 
-## Entrega Individual (Lu.21/08/20 6:30pm)
-El trabajo es en grupo, pero **la entrega es individual**. Cada estudiante debe subir al [Google Classroom](https://classroom.google.com) (codigo del curso: 6xxmqkg) un solo archivo (.m, .py, o .ipynb) que haga los tres ejercicios. Tratar de entregar lo antes posible (al final de la clase), la fecha maxima de entrega es el lunes 21/08/20 a las 6:30pm. 
+## Entrega Individual (Lu.24/08/20 6:30pm)
+El trabajo es en grupo, pero **la entrega es individual**. Cada estudiante debe subir al [Google Classroom](https://classroom.google.com) (codigo del curso: 6xxmqkg) un solo archivo (.m, .py, o .ipynb) que haga los tres ejercicios. Tratar de entregar lo antes posible (al final de la clase), la fecha maxima de entrega es el lunes 24/08/20 a las 6:30pm. 
