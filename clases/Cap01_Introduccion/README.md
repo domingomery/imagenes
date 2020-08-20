@@ -9,18 +9,11 @@
 * Ejemplo Inicial (segmentacion de arroces) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_RiceClassification.m)
 * Adquisicion de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Pixels [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Pixels.m)
-* Simulacion de fenomenos relacionados con emision de luz [[Simulacion]](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_en.html)
-* Simulacion de interferencia [[Simulacion]](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_en.html)
-* Simulacion de vision a color [[Simulacion]](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html)
-* Como funciona la resonancia magnetica [[YouTube]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//https://www.youtube.com/watch?v=1CGzk-nV06g)
-* Trabajo en grupo [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioBasico.pdf)
+* Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
-* Video de esta clase [[YouTube]](https://youtu.be/PhaL6ug5LJg)
 * Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
-* Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=nbwPPcwknPU)
-* Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
-* Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=v4NwwNKpYrs)
-* Funcionamiento del ojo humano [[YouTube]](https://www.youtube.com/watch?v=6QiwUDjuDTY)
+* Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
+* Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
 * Funcionamiento del ojo humano (problemas en la vision) [[Video]](https://www.youtube.com/watch?v=AsKeu4wm3XI)
 * Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
 * Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
@@ -34,4 +27,4 @@
 ---
 
 
-Updated on 18-Aug-2020 at 20:23 by Domingo Mery
+Updated on 20-Aug-2020 at 07:24 by Domingo Mery
