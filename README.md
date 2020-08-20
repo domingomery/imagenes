@@ -32,9 +32,8 @@
 * 1.2-Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
 
 ### Clase 04 Ju. 20-Aug-2020:
-* 1.4-Video de esta clase [[YouTube]](https://youtu.be/jm_DK5sBlqc)
-* 1.4-Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
-* 1.4-Ejemplos en Python (c) Cristian Nova S.) [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
+* 1.1-Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
+* 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 
 ### Clase 05 Ma. 25-Aug-2020:
@@ -271,4 +270,4 @@
 ---
 
 
-Updated on 20-Aug-2020 at 13:51 by Domingo Mery
+Updated on 20-Aug-2020 at 13:53 by Domingo Mery
