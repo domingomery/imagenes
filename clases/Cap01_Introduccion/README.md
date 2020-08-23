@@ -19,6 +19,7 @@
 * Ejemplo de Percepcion 1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception1.m)
 * Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
 * Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
+* Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 ### 1.3 Adquisicion de imagenes, muestreo y cuantizacion de imagenes:
 * Sampling (muestreo espacial y de tonos de gris) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ImageSampling.m)
 * Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
@@ -30,4 +31,4 @@
 ---
 
 
-Updated on 20-Aug-2020 at 13:57 by Domingo Mery
+Updated on 23-Aug-2020 at 18:16 by Domingo Mery
