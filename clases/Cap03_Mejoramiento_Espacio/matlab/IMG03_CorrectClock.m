@@ -1,3 +1,7 @@
+% Warning: This solution based on Similarity Transformation (scale,
+% rotation and translation), can be improved if we use an affine
+% transformation.
+% (c) D. Mery, 2020
 close all
 I = rgb2gray(imread('clock.jpg'));
 [N,M] = size(I);
