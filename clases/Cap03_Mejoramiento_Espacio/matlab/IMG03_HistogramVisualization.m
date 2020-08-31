@@ -31,4 +31,7 @@ for t=0:255
     imhist(X(X<=t));
     axis([1 255 0 2000])
     drawnow
+    if t==0
+        pause
+    end
 end
