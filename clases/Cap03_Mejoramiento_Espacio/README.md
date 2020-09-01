@@ -18,8 +18,9 @@
 * Look up tables [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_LUT.m)
 * Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * Ejemplo de ecualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Equalization.m)
-* Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio//)
+* Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap03_Mejoramiento_Espacio/ejercicios)
 ### 3.2 Mejoramiento empleando operaciones aritmeticas y logicas:
+* Video de esta clase [[YouTube]](https://youtu.be/MNdpXV3WlMo)
 * Aritmetica: Promedio de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticAverage.m)
 * Aritmetica: Resta de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticSubtraction.m)
 * Aritmetica: Multiplicacion de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticMult.m)
@@ -36,4 +37,4 @@
 ---
 
 
-Updated on 01-Sep-2020 at 13:59 by Domingo Mery
+Updated on 01-Sep-2020 at 15:06 by Domingo Mery
