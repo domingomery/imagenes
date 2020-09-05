@@ -71,6 +71,7 @@
 * 3.3-Filtrado con mascara [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_ImageFiltering.pptx)
 
 ### Clase 08 Ju. 03-Sep-2020:
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/6fNynQWJEXk)
 * 3.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap03_Mejoramiento_Espacio/ejercicios)
 
 ### Clase 09 Ma. 08-Sep-2020:
@@ -278,4 +279,4 @@
 ---
 
 
-Updated on 01-Sep-2020 at 15:06 by Domingo Mery
+Updated on 05-Sep-2020 at 14:13 by Domingo Mery

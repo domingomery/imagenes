@@ -18,6 +18,7 @@
 * Look up tables [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_LUT.m)
 * Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * Ejemplo de ecualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Equalization.m)
+* Video de esta clase [[YouTube]](https://youtu.be/6fNynQWJEXk)
 * Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap03_Mejoramiento_Espacio/ejercicios)
 ### 3.2 Mejoramiento empleando operaciones aritmeticas y logicas:
 * Video de esta clase [[YouTube]](https://youtu.be/MNdpXV3WlMo)
@@ -37,4 +38,4 @@
 ---
 
 
-Updated on 01-Sep-2020 at 15:06 by Domingo Mery
+Updated on 05-Sep-2020 at 14:13 by Domingo Mery

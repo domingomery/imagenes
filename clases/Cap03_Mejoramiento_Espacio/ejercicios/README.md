@@ -14,7 +14,7 @@ OUTPUT:
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/ejercicios/IMG01_output.png" width="400">
 
 ## Ejercicio 2
-A partir de la imagen de entrada genere una serie de 9 imagenes, i = 0,1, ... 8; donde la imagen i es la rotacion de la imagen de entrada en 40 x i grados (cuyo eje de rotacion es el centro de la imagen). Finalmente, promedie la 9 imagenes.
+A partir de la imagen de entrada genere una serie de 9 imagenes, i = 0,1, ... 8; donde la imagen i es la rotacion de la imagen de entrada en 40 x i grados (el eje de rotacion es el centro de la imagen). Finalmente, promedie la 9 imagenes.
 
 INPUT:
 
@@ -27,7 +27,7 @@ OUTPUT:
 ## Ejercicio 3
 Deteccion de bordes.
 
-INPUTS:
+INPUT:
 
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/ejercicios/IMG03.png" width="400">IMG03.png
 
