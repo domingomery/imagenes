@@ -30,6 +30,7 @@
 ### 3.3 Filtros espaciales de suavizacion y agudizacion:
 * Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_AverageMask.pptx)
 * Filtrado con mascara [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_ImageFiltering.pptx)
+* Video de esta clase [[YouTube]](https://youtu.be/USCljTpA4Jc)
 * Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Mask.m)
@@ -38,4 +39,4 @@
 ---
 
 
-Updated on 05-Sep-2020 at 14:13 by Domingo Mery
+Updated on 08-Sep-2020 at 13:05 by Domingo Mery

@@ -43,6 +43,7 @@ end
 n1 = (m1-1)/2;
 n2 = (m2-1)/2;
 r = zeros(N,M);
+key = '';
 for i=n1+1:N-n1
     for j=n2+1:M-n2
         t = x(-n1+i:n1+i,-n2+j:n2+j).*y(m1:-1:1,m2:-1:1);
@@ -60,6 +61,10 @@ for i=n1+1:N-n1
             r(i,j) = sum(t(:));
         end
         subplot(1,4,4);subimage(abs(r/256));
-        pause
+        if isempty(key)
+            key = input('','s');
+        else
+            pause(0)
+        end
     end
 end

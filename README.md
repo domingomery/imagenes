@@ -75,6 +75,7 @@
 * 3.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap03_Mejoramiento_Espacio/ejercicios)
 
 ### Clase 09 Ma. 08-Sep-2020:
+* 3.3-Video de esta clase [[YouTube]](https://youtu.be/USCljTpA4Jc)
 * 3.3-Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * 3.3-Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * 3.3-Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Mask.m)
@@ -279,4 +280,4 @@
 ---
 
 
-Updated on 05-Sep-2020 at 14:13 by Domingo Mery
+Updated on 08-Sep-2020 at 13:05 by Domingo Mery

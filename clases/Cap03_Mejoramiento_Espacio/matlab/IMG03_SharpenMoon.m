@@ -17,16 +17,23 @@ L = conv2(I,ones(n,n)/n^2,'same');
 H = I-L;
 
 % J is image I plus amplified high frequencies
-J = I + 4*H; % > sharp image
+J = I + 3*H; % > sharp image
 
 figure(1)
 title('imagen original');
 J(J<0) = 0;
-imshow([I J],[])
-title('original and restored images');
+figure(1)
+imshow(I,[])
+title('original image');
 
 
 figure(2)
+imshow(J,[])
+title('restored images');
+
+
+
+figure(3)
 imshow(H,[])
 title('high pass')
 
