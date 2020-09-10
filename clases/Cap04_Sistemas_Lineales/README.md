@@ -1,6 +1,7 @@
 
 # Capitulo 04: Introduccion a sistemas lineales
 ### 4.1 Respuesta al impulso:
+* Video de esta clase [[YouTube]](https://youtu.be/6M0-ebDm_5o)
 * Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FuncionImpulso.pptx)
 ### 4.2 Convolucion continua y discreta unidimensional y sus propiedades:
 * Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
@@ -80,4 +81,4 @@
 ---
 
 
-Updated on 08-Sep-2020 at 13:05 by Domingo Mery
+Updated on 10-Sep-2020 at 13:16 by Domingo Mery

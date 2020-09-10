@@ -36,7 +36,8 @@
 * Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Mask.m)
 * Deteccion de bordes con mascaras [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Borders.m)
 * Agudizacion con mascaras [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_SharpenMoon.m)
+* Animacin de mscaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 ---
 
 
-Updated on 08-Sep-2020 at 13:05 by Domingo Mery
+Updated on 10-Sep-2020 at 13:16 by Domingo Mery
