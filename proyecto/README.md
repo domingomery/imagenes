@@ -1,32 +1,30 @@
-# Proyecto: Segmentacion de Iris
+# Proyecto: Segmentacion de Lunares
 
 ## Enunciado
-El objetivo de este proyecto es segmentar el iris de una imagen tomada de un ojo humano. La segmentación consiste en encontrar el borde externo del iris (ver linea verde en la figura) y el borde de la pupila (ver linea roja en la figura).
+El objetivo de este proyecto es segmentar el lunar que esta presente en una imagen dermatoscopica de la base de datos HAM10000(*). La segmentación consiste en encontrar la imagen binaria que contiene el lunar.
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="600">
-
-Cada uno de los bordes encontrados debe ser aproximado a una elipse horizontal de 4 parametros: eje horizontal (a), eje vertical (b), centro (x,y) tal como se muestra en la siguiente figura:
-
-<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/coordinates.png" width="600">
           
-Para este proyecto se debe probar el metodo propuesto en las 20 imagenes disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/images). Una visuaLizacion de las 20 imagenes y sus segmentaciones ideales se muestran a continuacion:
+Para este proyecto se debe probar el metodo propuesto en las 50 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/images). Una visuaLizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
 
-<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/inputs.png" width="600">
-<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/outputs.png" width="600">
+<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/examples.png" width="600">
 
-El algoritmo disenado debe entregar 8 parametros por cada imagen: los cuatro parametros de la elipse del borde externo del iris y los cuatro parametros de la elipse del borde de la pupila. Como referencia se entregan los parametros "ideales" obtenidos de una segmentacion manual para el [iris](https://github.com/domingomery/imagenes/tree/master/proyecto/iris.txt) y para la [pupila](https://github.com/domingomery/imagenes/tree/master/proyecto/pupil.txt). Estas tablas de 20 x 4 elementos contienen respectivamente los 4 parametros (a,b,x,y) para cada una de las 20 imagenes.  
+El algoritmo disenado debe entregar una imagen binaria, y a la vez debe compararse con la segmentacion ideal entregando por imagen los valores:
 
-Se debe entregar adicionalmente el error de segmentacion en el iris y en la pupila. Para esto debe calcular el error promedio en pixeles de cada uno de los 8 parametros con respecto a los parametros "ideales" para cada imagen. El error promedio total en pixeles se calcula como el promedio de los los 8 parametros en las 20 imagenes.
+* TP (true positives): pixeles pertenecientes al lunar correctamente segmentados
+* TN (true negatives): pixeles pertenecientes al fondo (piel) correctamente segmentados
+* FP (false positives): pixeles pertenecientes al fondo (piel) segmentados como lunar
+* FN (false negatives): pixeles pertenecientes al lunar segmentados como fondo (piel)
 
-IMPORTANTE: En este proyecto, las coordenadas (x,y) del primer pixel de una imagen son (1,1). Es decir se sigue el estandar Matlab y no Python. Las personas que trabajen en Python deberan sumar 1 a las coordenadas (x,y) obtenidas. 
+Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%. 
 
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 ## Fecha de Entrega
-Del 2 de Diciembre hasta el 20 de Diciembre: Horario a definir con el profesor (coordinar por email: enviar un mail a domingo.mery@uc.cl indicando tres posibles horarios de lunes a viernes entre 9am y 6pm).
+Mes de diciembre: Horario a definir con el profesor (coordinar por email: enviar un mail a domingo.mery@uc.cl indicando tres posibles horarios de lunes a viernes entre 9am y 6pm).
 
 ## Modalidad de Trabajo
-Grupos de 2 personas.
+Grupos de 3 personas.
 
 ## Presentacion
 La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo conmigo en mi oficina. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
@@ -37,7 +35,7 @@ La presentacion tipo powerpoint debe incluir:
 
 1) Introduccion (relevancia de este tema, en que consiste el proyecto, etc.), 
 
-2) Revision del [estado del arte](https://scholar.google.cl/scholar?&q=iris+segmentation), 
+2) Revision del [estado del arte](https://scholar.google.cl/scholar?&q=skin+segmentation+mole), 
 
 3) Metodo propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios como el de este [ejemplo](https://github.com/domingomery/imagenes/blob/master/proyecto/diagram_example.png)), 
 
@@ -53,4 +51,7 @@ En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto en
 La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendra una mejor nota una persona que pruebe e invente metodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola funcion con resultados buenos.
 
 ## Foro
-Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/imagenes/issues/4).
+Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/imagenes/issues/9).
+
+## Te interesa el tema?
+(*) La base de datos completa HAM10000 con mas de 10.000 imagenes se encuentra [aqui](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
