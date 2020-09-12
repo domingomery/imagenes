@@ -5,16 +5,16 @@ El objetivo de este proyecto es segmentar el lunar que esta presente en una imag
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="600">
           
-Para este proyecto se debe probar el metodo propuesto en las 50 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/images). Una visuaLizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
+Para este proyecto se debe probar el metodo propuesto en las 50 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/images). Una visualizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/examples.png" width="600">
 
 El algoritmo disenado debe entregar una imagen binaria, y a la vez debe compararse con la segmentacion ideal entregando por imagen los valores:
 
-* TP (true positives): pixeles pertenecientes al lunar correctamente segmentados
-* TN (true negatives): pixeles pertenecientes al fondo (piel) correctamente segmentados
-* FP (false positives): pixeles pertenecientes al fondo (piel) segmentados como lunar
-* FN (false negatives): pixeles pertenecientes al lunar segmentados como fondo (piel)
+* TP (true positives): numero de pixeles pertenecientes al lunar correctamente segmentados
+* TN (true negatives): numero de pixeles pertenecientes al fondo (piel) correctamente segmentados
+* FP (false positives): numero de pixeles pertenecientes al fondo (piel) segmentados como lunar
+* FN (false negatives): numero de pixeles pertenecientes al lunar segmentados como fondo (piel)
 
 Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%. 
 
@@ -41,7 +41,7 @@ La presentacion tipo powerpoint debe incluir:
 
 4) Resultados obtenidos, 
 
-5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendioo, etc.) y 
+5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
 6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Ademas deben ser capaces de detectar el iris en 5 imagenes nuevas que el profesor les proporcionara en un pendrive en formato png.
 
