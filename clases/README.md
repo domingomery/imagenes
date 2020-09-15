@@ -90,10 +90,10 @@
 * 4.2-Ejemplo Convolucion en 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1D.m)
 * 4.2-Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * 4.2-Ejemplo Convolucion en 1D discreta [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DDiscreta.m)
+* 4.2-Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
 
 ### Clase 11 Ma. 15-Sep-2020:
-* 4.2-Convolucion en 1D (ejercicio) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
-* 4.2-Convolucion en 1D (solucion al ejercicio) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_SolucionGuiaConv1D.pdf)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/YeX0MTr38B8)
 * 4.4-Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
@@ -282,4 +282,4 @@
 ---
 
 
-Updated on 10-Sep-2020 at 13:29 by Domingo Mery
+Updated on 15-Sep-2020 at 13:08 by Domingo Mery
