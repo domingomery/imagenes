@@ -29,7 +29,7 @@ end
 
 figure(1)
 clf
-plot(t,f)
+plot(t,f,'Linewidth',2)
 xlabel('t')
 title('f(t)')
 F = fft(f);
@@ -49,7 +49,7 @@ while(1)
     k  = fix(wk/dw+1);
     figure(2)
     clf
-    plot(w(1:N2),Fm(1:N2))
+    plot(w(1:N2),Fm(1:N2),'Linewidth',2)
     xlabel('w')
     title('F(w)')
 
@@ -63,8 +63,8 @@ while(1)
     f2 = ifft(F2);
     figure(3)
     clf
-    plot(t,f)
+    plot(t,f,'Linewidth',2)
     hold on
-    plot(t,real(f2),'r')
-    axis([0 T/10 -1.5 1.5])
+    plot(t,real(f2),'r','Linewidth',2)
+    axis([0 T/10 -2.5 2.5])
 end
