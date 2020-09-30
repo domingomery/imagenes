@@ -1,0 +1,37 @@
+N=256;
+f1=zeros(N,N);
+p = 16;
+for k=1:N
+    for l=1:N
+        f1(k,l)=cos(2*p*pi*k/N);
+    end
+end
+I1 = Bim_lin(f1);
+figure(1); imshow(I1);
+f2=zeros(N,N);
+q = 8;
+for k=1:N
+    for l=1:N
+        f2(k,l)=cos(2*q*pi*l/N);
+    end
+end
+I2 = Bim_lin(f2);
+figure(2); 
+subplot(1,2,1);imshow(I2);
+
+subplot(1,2,2);imshow(fftshift(abs(fft2(I2))),[])
+
+f3 = f1+f2;
+I3 = Bim_lin(f3);
+figure(3); imshow(I3);
+
+f4 = f1.*f2;
+I4 = Bim_lin(f4);
+figure(4); imshow(I4);
+
+
+
+
+
+
+
