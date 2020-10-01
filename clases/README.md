@@ -124,7 +124,7 @@
 * 4.5-Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
 
 ### Clase 14 Ju. 01-Oct-2020:
-* 4.4-Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales//)
+* 4.4-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap04_Sistemas_Lineales/ejercicios)
 
 ### Clase 15 Ma. 06-Oct-2020:
 * 4.5-Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierBasis.m)
@@ -284,4 +284,4 @@
 ---
 
 
-Updated on 29-Sep-2020 at 13:41 by Domingo Mery
+Updated on 30-Sep-2020 at 21:49 by Domingo Mery
