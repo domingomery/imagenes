@@ -9,7 +9,7 @@ Los datos fueron extraidos de [aqui](https://www.ecdc.europa.eu/en/publications-
 
 
 ## Problema 2
-Las siguientes imagenes son de 256x256 pixeles. I1 tiene una sinuoside vertical de 16 periodos. I2 tiene usa sinusoide horizontal de 8 periodos. I3 es el proomedio de I1 e I2. Calcule la Transformada de Fourier en 2D de cada una de las imagenes y grafique su modulo, si no ve nada, intente mostrar solo los 32x32 pixeles de la esquina superior izquierda de la Transformada de Fourier. Describa en palabras cada una de las 3 graficas y explique por que razon son asi.  
+Las siguientes imagenes son de 256x256 pixeles. I1 tiene una sinuoside vertical de 16 periodos. I2 tiene usa sinusoide horizontal de 8 periodos. I3 es el promedio de I1 e I2. Calcule la Transformada de Fourier en 2D de cada una de las imagenes y grafique su modulo, si no ve nada, intente mostrar solo los 32x32 pixeles de la esquina superior izquierda de la Transformada de Fourier. Describa en palabras cada una de las 3 graficas y explique por que razon son asi.  
 
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/I1.png" width="400">I1.png
 
