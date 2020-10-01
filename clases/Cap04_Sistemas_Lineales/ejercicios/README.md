@@ -9,7 +9,7 @@ Los datos fueron extraidos de [aqui](https://www.ecdc.europa.eu/en/publications-
 
 
 ## Problema 2
-Las siguientes imagenes son de 256x256 pixeles.
+Las siguientes imagenes son de 256x256 pixeles. I1 tiene una sinuoside vertical de 16 periodos. I2 tiene usa sinusoide horizontal de 8 periodos. I3 es el proomedio de I1 e I2. Calcule la Transformada de Fourier en 2D de cada una de las imagenes y grafique su modulo, si no ve nada, intente mostrar solo los 32x32 pixeles de la esquina superior izquierda de la Transformada de Fourier. Describa en palabras cada una de las 3 graficas y explique por que razon son asi.  
 
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/I1.png" width="400">I1.png
 
@@ -17,7 +17,16 @@ Las siguientes imagenes son de 256x256 pixeles.
 
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/I3.png" width="400">I3.png
 
-<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/I4.png" width="400">I4.png
+
+## Problema 3
+Las siguientes imagenes son de 256x256 pixeles. P256.png es una imagen en la que se ven tres peatones, sin embargo, ha sido alterada con un ruidos que tiene la forma sinuosodial de I2.png. El resultado es W256.png que ha sido calculado como el promedio de P256.png e I2.png. Grafique la Transformada de Fourier en 2D de cada una de las imagenes, pero en esta ocasion emplee una escala logaritmica, es decir calcule Z = log(abs(F)+1), donde F es la  Transformada de Fourier y grafique k*Z donde k = 255/max(Z). Que diferencia existe entre la Transformada de Fourier de P256 y W256? (analice los 32x32 pixeles de la esquina superior izquierda de la Transformada de Fourier).
+
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/P256.png" width="400">P256.png
+
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/W256.png" width="400">W256.png
+
+
+
 
 
 
