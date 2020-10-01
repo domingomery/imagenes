@@ -19,16 +19,11 @@ Las siguientes imagenes son de 256x256 pixeles. I1 tiene una sinuoside vertical 
 
 
 ## Problema 3
-Las siguientes imagenes son de 256x256 pixeles. P256.png es una imagen en la que se ven tres peatones, sin embargo, ha sido alterada con un ruidos que tiene la forma sinuosodial de I2.png. El resultado es W256.png que ha sido calculado como el promedio de P256.png e I2.png. Grafique la Transformada de Fourier en 2D de cada una de las imagenes, pero en esta ocasion emplee una escala logaritmica, es decir calcule Z = log(abs(F)+1), donde F es la  Transformada de Fourier y grafique k*Z donde k = 255/max(Z). Que diferencia existe entre la Transformada de Fourier de P256 y W256? (analice los 32x32 pixeles de la esquina superior izquierda de la Transformada de Fourier).
+Las siguientes imagenes son de 256x256 pixeles. P.png es una imagen en la que se ven tres peatones, sin embargo, ha sido alterada con un ruido que tiene la forma sinuosodial de I2.png. El resultado es W.png que ha sido calculado como el promedio de P.png e I2.png. Grafique la Transformada de Fourier en 2D de cada una de las imagenes, pero en esta ocasion emplee una escala logaritmica, es decir calcule Z = log(abs(F)+1), donde F es la  Transformada de Fourier y grafique k*Z donde k = 255/max(Z). Que diferencia existe entre la Transformada de Fourier de P y la de W? (analice los 32x32 pixeles de la esquina superior izquierda de la Transformada de Fourier). Seria posible recuperar eliminar el ruidos sinuosidal presente en W para recuperar P? Explique como. En este problema no se pretende que realice esta ultima operacion, solo que explique como se podria hacer.
 
-<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/P256.png" width="400">P256.png
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/P.png" width="400">P.png
 
-<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/W256.png" width="400">W256.png
-
-
-
-
-
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/ejercicios/W.png" width="400">W.png
 
 
 
