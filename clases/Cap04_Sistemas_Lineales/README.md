@@ -37,6 +37,7 @@
 * Transformada Discreta de Fourier (DFT) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_DFT.pdf)
 * OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
 * Convolucion en 1D usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ConvolucionDiscreta.pptx)
+* Video de esta clase [[]](https://youtu.be/IaEjQt_AAG8)
 * Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap04_Sistemas_Lineales/ejercicios)
 * Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
 * Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
@@ -83,4 +84,4 @@
 ---
 
 
-Updated on 30-Sep-2020 at 21:49 by Domingo Mery
+Updated on 05-Oct-2020 at 07:05 by Domingo Mery

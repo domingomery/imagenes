@@ -124,6 +124,9 @@
 * 4.5-Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
 
 ### Clase 14 Ju. 01-Oct-2020:
+* 4.4-Video de esta clase [[]](https://youtu.be/IaEjQt_AAG8)
+
+### Clase 14 Ju. 01-Oct-2020:
 * 4.4-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap04_Sistemas_Lineales/ejercicios)
 
 ### Clase 15 Ma. 06-Oct-2020:
@@ -284,4 +287,4 @@
 ---
 
 
-Updated on 30-Sep-2020 at 21:49 by Domingo Mery
+Updated on 05-Oct-2020 at 07:05 by Domingo Mery
