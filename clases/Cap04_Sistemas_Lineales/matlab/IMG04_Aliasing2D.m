@@ -23,7 +23,7 @@ while M>0
         end
     end
     figure(1)
-    imshow(I,[]);
+    imshow(imresize(I,4,'nearest'),[]);
 %    figure(2)
 %    imshow(I(1:10,1:10),[])
 %    axis on

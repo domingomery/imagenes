@@ -15,7 +15,7 @@ for m=0:d:N-1
             end
         end
         x0=(real(x)+1)*128;
-        imshow(x0,[]);pause(0)
+        imshow(imresize(x0,[64 64]),[]);pause(0)
         drawnow
         Xf = [Xf x0];
     end
