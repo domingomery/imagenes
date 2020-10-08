@@ -54,11 +54,13 @@
 * Teorema del Muestreo 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Teorema_Muestreo_2D.pptx)
 * Ejemplo de Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Aliasing2D.m)
 * Ejemplo de Anti-Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AliasingBarbaraNew.m)
-* Fase de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
-* Bloques en 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DBloques.m)
+* Video de esta clase [[YouTube]](https://youtu.be/5eA7HBzT6CM)
+* Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Filtros.pptx)
 * Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
 * Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FFTSHIFT_Filtros2D.pdf)
+* Fase de Fourier 2D (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
+* Bloques en 2D (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DBloques.m)
 * Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
 * Ejemplo de Implementacion de la Transformada de Fourier [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 * Material adicional: The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
@@ -87,4 +89,4 @@
 ---
 
 
-Updated on 06-Oct-2020 at 13:37 by Domingo Mery
+Updated on 08-Oct-2020 at 12:58 by Domingo Mery

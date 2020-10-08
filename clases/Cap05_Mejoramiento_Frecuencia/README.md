@@ -9,10 +9,10 @@
 * Filtros en 2D en el dominio de frecuencia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltrosFrecuencia.pdf)
 * Filtro Ideal en frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_IdealMask.m)
 ### 5.2 Filtros homomorficos:
-* Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
-* Ejemplo de Filtro Homomorfico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
+* Filtro Homomorfico (opcional) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
+* Ejemplo de Filtro Homomorfico (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
 ### 5.3 Consideraciones sobre la implementacion de transformadas:
 ---
 
 
-Updated on 06-Oct-2020 at 13:37 by Domingo Mery
+Updated on 08-Oct-2020 at 12:58 by Domingo Mery

@@ -138,11 +138,11 @@
 * 4.5-Teorema del Muestreo 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Teorema_Muestreo_2D.pptx)
 * 4.5-Ejemplo de Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Aliasing2D.m)
 * 4.5-Ejemplo de Anti-Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AliasingBarbaraNew.m)
+* 4.3-Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
 
 ### Clase 16 Ju. 08-Oct-2020:
-* 4.5-Fase de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
-* 4.3-Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
-* 4.5-Bloques en 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DBloques.m)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/5eA7HBzT6CM)
+* 4.5-Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * 4.3-Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 * 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Filtros.pptx)
 * 4.5-Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
@@ -152,8 +152,10 @@
 * 5.1-Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
 * 5.1-Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
 * 5.1-FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
-* 5.2-Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
-* 5.2-Ejemplo de Filtro Homomorfico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
+* 4.5-Fase de Fourier 2D (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
+* 4.5-Bloques en 2D (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DBloques.m)
+* 5.2-Filtro Homomorfico (opcional) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
+* 5.2-Ejemplo de Filtro Homomorfico (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
 
 ### Clase 17 Ma. 13-Oct-2020:
 * 4.5-Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
@@ -288,4 +290,4 @@
 ---
 
 
-Updated on 06-Oct-2020 at 13:37 by Domingo Mery
+Updated on 08-Oct-2020 at 12:58 by Domingo Mery
