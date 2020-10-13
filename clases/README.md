@@ -158,22 +158,24 @@
 * 5.2-Ejemplo de Filtro Homomorfico (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
 
 ### Clase 17 Ma. 13-Oct-2020:
-* 4.5-Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
-* 4.5-Ejemplo de Implementacion de la Transformada de Fourier [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
-* 4.6-Ejemplo basico de compresion 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_CompressionFila.m)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/0cjfXRuX1Hc)
+* 4.4-Efector aliasing al girar una rueda [[YouTube]](https://youtu.be/VNftf5qLpiA)
+* 4.6-Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
+* 4.6-JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 * 4.6-Ejemplo basico de Compresion de Imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Compression.m)
+* 4.6-Ejemplo basico de compresion 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_CompressionFila.m)
 * 4.4-Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
 * 4.4-Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
 * 4.4-Material adicional: Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
 * 4.5-Material adicional: The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
 * 4.5-Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
-* 4.6-Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
-* 4.6-JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 * 4.6-Ejemplo de Transformada Discreta de Cosenos (DCT) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DCT2DVisualization.m)
 * 4.6-Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
 * 4.6-Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
 
 ### Clase 18 Ju. 15-Oct-2020:
+* 4.5-Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
+* 4.5-Ejemplo de Implementacion de la Transformada de Fourier [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
 * 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
 * 4.6-Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
@@ -290,4 +292,4 @@
 ---
 
 
-Updated on 13-Oct-2020 at 13:04 by Domingo Mery
+Updated on 13-Oct-2020 at 13:11 by Domingo Mery
