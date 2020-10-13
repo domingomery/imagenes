@@ -2,8 +2,8 @@ close all
 
 L  = 8;   % rotations
 S  = 8;   % dilations
-fh = 0.5;   % highest frequency
-fl = 0.1; % lowest frequency
+fh = 0.3;   % highest frequency
+fl = 0.03; % lowest frequency
 M  = 101;  % mask size
 
 
@@ -45,7 +45,7 @@ for p=1:S;
         f = ap*f/2/pi/sx/sy;
         Fp = [Fp real(f)];
     end
-    FF = [FF;Fp];
+    FF = [FF;Fp/max2(Fp)];
 end
 figure(1)
 imshow(log(abs(FF)+1),[])

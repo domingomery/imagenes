@@ -112,6 +112,7 @@ h = [];
 p = 0;
 Gth = max2(abs(G))*0.02;
 DDi = zeros(w^2,w^2);
+DDk = DDi;
 for m=0:N-1
     Dk = [];
     for n=0:N-1
@@ -130,13 +131,14 @@ for m=0:N-1
             drawnow
         end
         DDi(indices(m+1,w),indices(n+1,w))=Dik;
+        DDk(indices(m+1,w),indices(n+1,w))=G(m+1,n+1);
         figure(4)
         imshow(DDi,[])
         drawnow
     end
 end
 hold on
-N2 = size(Di,1);
+N2 = size(DDi,1);
 for i=0:N2/N:N2
     plot([i i]+0.5,[0 N2]+0.5,'r')
     plot([0 N2]+0.5,[i i]+0.5,'r')
@@ -146,6 +148,17 @@ figure(5)
 imshow([Bim_lin(g) LL Bim_lin(g2)],[])
 figure(6)
 bar(abs(h))
+
+
+figure(7)
+imshow(log(abs(DDk)+1),[])
+hold on
+for i=0:N2/N:N2
+    plot([i i]+0.5,[0 N2]+0.5,'r')
+    plot([0 N2]+0.5,[i i]+0.5,'r')
+end
+
+
 
 
 
