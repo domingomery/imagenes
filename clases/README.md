@@ -178,6 +178,7 @@
 * 4.5-Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 
 ### Clase 18 Ju. 15-Oct-2020:
+* 4.6-Video de esta clase [[YouTube]](https://youtu.be/1KuBsEe9IBM)
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
 * 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
@@ -291,4 +292,4 @@
 ---
 
 
-Updated on 15-Oct-2020 at 08:05 by Domingo Mery
+Updated on 15-Oct-2020 at 13:13 by Domingo Mery
