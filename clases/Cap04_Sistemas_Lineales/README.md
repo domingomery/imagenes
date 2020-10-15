@@ -65,8 +65,8 @@
 * Video de esta clase [[YouTube]](https://youtu.be/0cjfXRuX1Hc)
 * Material adicional: The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
 * Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
-* Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
-* Ejemplo de Implementacion de la Transformada de Fourier [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
+* Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
+* Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 ### 4.6 Otras transformadas:
 * Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
 * JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
@@ -75,6 +75,8 @@
 * Ejemplo de Transformada Discreta de Cosenos (DCT) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DCT2DVisualization.m)
 * Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
 * Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
+* Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
+* Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
 * Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
 * Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
@@ -82,8 +84,6 @@
 * Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
 * Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
 * Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
-* Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
-* Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
 * Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
 * Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
@@ -91,4 +91,4 @@
 ---
 
 
-Updated on 13-Oct-2020 at 13:11 by Domingo Mery
+Updated on 15-Oct-2020 at 08:01 by Domingo Mery

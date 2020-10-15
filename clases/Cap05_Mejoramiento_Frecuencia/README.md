@@ -6,8 +6,6 @@
 * Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
 * Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
 * FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
-* Filtros en 2D en el dominio de frecuencia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltrosFrecuencia.pdf)
-* Filtro Ideal en frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_IdealMask.m)
 ### 5.2 Filtros homomorficos:
 * Filtro Homomorfico (opcional) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
 * Ejemplo de Filtro Homomorfico (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
@@ -15,4 +13,4 @@
 ---
 
 
-Updated on 13-Oct-2020 at 13:11 by Domingo Mery
+Updated on 15-Oct-2020 at 08:01 by Domingo Mery

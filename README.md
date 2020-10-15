@@ -172,10 +172,12 @@
 * 4.6-Ejemplo de Transformada Discreta de Cosenos (DCT) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DCT2DVisualization.m)
 * 4.6-Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
 * 4.6-Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
+* 4.6-Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
+* 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
+* 4.5-Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
+* 4.5-Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 
 ### Clase 18 Ju. 15-Oct-2020:
-* 4.5-Implementacion de la Transformada de Fourier [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
-* 4.5-Ejemplo de Implementacion de la Transformada de Fourier [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
 * 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
 * 4.6-Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
@@ -183,14 +185,10 @@
 * 4.6-Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
 * 4.6-Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
 * 4.6-Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
-* 4.6-Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
-* 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * 4.6-Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
 * 4.6-Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
 * 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * 4.6-Ejemplo de Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
-* 5.1-Filtros en 2D en el dominio de frecuencia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltrosFrecuencia.pdf)
-* 5.1-Filtro Ideal en frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_IdealMask.m)
 
 ### Clase 19 Ma. 20-Oct-2020:
 * 6.1-Ejemplos de Restauracion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
@@ -292,4 +290,4 @@
 ---
 
 
-Updated on 13-Oct-2020 at 13:11 by Domingo Mery
+Updated on 15-Oct-2020 at 08:01 by Domingo Mery
