@@ -179,16 +179,17 @@
 
 ### Clase 18 Ju. 15-Oct-2020:
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
+* 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
 * 4.6-Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
 * 4.6-Wavelets - video c [[Video]](https://www.youtube.com/watch?v=ZnmvUCtUAEE)
 * 4.6-Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
 * 4.6-Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
 * 4.6-Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
+* 4.6-Demo de Transformada de Wavelet en Python [[Python]](https://pywavelets.readthedocs.io/en/latest/)
+* 4.6-Demo de Transformada de Wavelet en Matlab [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
+* 4.6-Ejemplo de Transformada de Wavelet en 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
 * 4.6-Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
-* 4.6-Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
-* 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
-* 4.6-Ejemplo de Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
 
 ### Clase 19 Ma. 20-Oct-2020:
 * 6.1-Ejemplos de Restauracion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
@@ -290,4 +291,4 @@
 ---
 
 
-Updated on 15-Oct-2020 at 08:01 by Domingo Mery
+Updated on 15-Oct-2020 at 08:05 by Domingo Mery

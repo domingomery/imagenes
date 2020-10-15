@@ -78,17 +78,18 @@
 * Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
 * Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
+* Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
 * Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
 * Wavelets - video c [[Video]](https://www.youtube.com/watch?v=ZnmvUCtUAEE)
 * Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
 * Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
 * Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
+* Demo de Transformada de Wavelet en Python [[Python]](https://pywavelets.readthedocs.io/en/latest/)
+* Demo de Transformada de Wavelet en Matlab [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
+* Ejemplo de Transformada de Wavelet en 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
 * Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
-* Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
-* Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
-* Ejemplo de Transformada de Wavelet [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
 ---
 
 
-Updated on 15-Oct-2020 at 08:01 by Domingo Mery
+Updated on 15-Oct-2020 at 08:05 by Domingo Mery
