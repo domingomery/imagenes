@@ -193,14 +193,21 @@
 * 4.6-Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
 
 ### Clase 19 Ma. 20-Oct-2020:
-* 6.1-Ejemplos de Restauracion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
-* 6.1-Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/j0WsXHVQVpg)
+* 6.1-Motivacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
+* 6.1-Restauracion con degradacion por movimiento lineal uniforme [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Introduccion.pptx)
+* 6.1-Ejemplo 'blur' en Santiago [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploSantiago.m)
 * 6.1-Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestorarion_Paper.pdf)
 * 6.1-Simulacion de borrosidad [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_blur.m)
 * 6.1-Ejemplo 'blur' [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_EjemploBlur.pptx)
 * 6.1-Ejemplo de Restauracion de Imagenes-1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_minio.m)
 * 6.1-Ejemplo de Restauracion de Imagenes-2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploMinio.m)
 * 6.1-Degradacion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Degradation_2pixels.m)
+* 6.1-Ejemplo de restauracion en Python [[Colab]](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o?usp=sharing)
+
+### Clase 20 Ju. 22-Oct-2020:
+* 6.1-Video de esta clase [[YouTube]]()
+* 6.1-Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
 
 ### Clase 20 Ju. 22-Oct-2020:
 * 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_1.pdf)
@@ -292,4 +299,4 @@
 ---
 
 
-Updated on 15-Oct-2020 at 13:13 by Domingo Mery
+Updated on 20-Oct-2020 at 19:37 by Domingo Mery
