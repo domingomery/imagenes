@@ -204,17 +204,15 @@
 * 6.1-Ejemplo de Restauracion de Imagenes-2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploMinio.m)
 * 6.1-Degradacion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Degradation_2pixels.m)
 * 6.1-Ejemplo de restauracion en Python [[Colab]](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o?usp=sharing)
-
-### Clase 20 Ju. 22-Oct-2020:
-* 6.1-Video de esta clase [[YouTube]]()
 * 6.1-Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
+* 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_1.pdf)
 
 ### Clase 20 Ju. 22-Oct-2020:
-* 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_1.pdf)
-* 6.1-Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/B_EM09zytuc)
+* 6.1-Ejercicio en clase: ver instrucciones en el video [[MERY9241]](http://www.socrative.com)
 
 ### Clase 21 Ma. 27-Oct-2020:
-* 6.1-Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion//)
+* 6.1-Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 
 ### Clase 22 Ju. 29-Oct-2020:
 * 6.3-Restauracion de Imagenes (estimacion de movimiento) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Estimation_n.m)
@@ -299,4 +297,4 @@
 ---
 
 
-Updated on 20-Oct-2020 at 19:37 by Domingo Mery
+Updated on 24-Oct-2020 at 10:42 by Domingo Mery
