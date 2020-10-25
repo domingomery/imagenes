@@ -8,7 +8,7 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
 **A) Proceso simulado (movimiento vertical)**
 
- En esta parte de la tarea, se debe realizar 5 pasos:
+ En esta parte de la tarea, se debe realizar 6 pasos:
  
  * Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
 
@@ -23,7 +23,7 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 * Encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule el error promedio, ERR (*).
 
 
-(*) Para calcular el error promedio, calcule la matriz **E** = | **F** - **F**_*_ | / 255 x 100, y promedie todos sus elementos.
+( * ) Para calcular el error promedio, calcule la matriz **E** = | **F** - **F**_*_ | / 255 x 100, y promedie todos sus elementos.
 
 
 **B) Proceso simulado (desenfoque con mascara promedio)**
@@ -40,7 +40,7 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
  * A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de NxN elementos.
 
- * Calcule el error promedio usando la definicion de la parte A. 
+ * Calcule el error promedio usando la definicion (*) del ejercicio A. 
  
  
  
