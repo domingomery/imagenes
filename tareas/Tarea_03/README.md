@@ -12,7 +12,7 @@ En esta parte de la tarea, se debe realizar 6 pasos:
  
 A-1) Cargar la imagen original (**F**) de M filas: [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
 
-A-2) Simular la imagen (**G**) de N filas, mediante un proceso de degradacion de movimiento vertical de la imagen **F**: 
+A-2) Simular la imagen degarada (**G**) de N filas, usando proceso de degradacion de movimiento vertical de la imagen **F**: 
  
  **G** = _FuncionDegradacionVert_(**F**,n) = **HF**, donde **H** es una matriz de N x M.          
  
