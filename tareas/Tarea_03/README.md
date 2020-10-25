@@ -7,13 +7,14 @@
 El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas en procesos simulados y en procesos reales.
 
 **A) Proceso simulado (movimiento vertical)**
+
  En esta parte de la tarea, se debe realizar 5 pasos:
  
  * Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
 
  * Simular un proceso de degradacion de movimiento vertical: **G** = _FuncionDegradacionVert_(**F**,n), donde n es el movimiento vertical en pixeles.
 
- * Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que **F**_s_ = **AG**, donde **F**_s_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
+ * Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que **F**_*_ = **AG**, donde **F**_*_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
  
 * Para n = 57, encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule ERR, el error promedio (*).
 
@@ -22,7 +23,7 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 * Para n = 57, encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule ERR, el error promedio (*).
 
 
-(*) Para calcular el error promedio, calcule la matriz **E** = | **F** - **F**_s_ | / 255 x 100, y promedie todos sus elementos.
+(*) Para calcular el error promedio, calcule la matriz **E** = | **F** - **F**_*_ | / 255 x 100, y promedie todos sus elementos.
 
 
 **B) Proceso simulado (desenfoque con mascara promedio)**
@@ -35,9 +36,9 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
  * Encuentre la matriz **H** de M^2 x N^2 elementos tal que **g** = **Hf**.
 
- * Encuentre la restauracion de **g**, como el vector **f**_s_  de N^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) usando la matriz de regularizacion **W** = **I**.
+ * Encuentre la restauracion de **g**, como el vector **f**_*_  de N^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) usando la matriz de regularizacion **W** = **I**.
 
- * A partir de **f**_s_ , encuentre la imagen restaurada **F**_s_ de NxN elementos.
+ * A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de NxN elementos.
 
  * Calcule el error promedio usando la definicion de la parte A. 
  
