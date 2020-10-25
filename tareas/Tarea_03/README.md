@@ -8,27 +8,27 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
 **A) Proceso simulado (movimiento vertical)**
 
- En esta parte de la tarea, se debe realizar 6 pasos:
+En esta parte de la tarea, se debe realizar 6 pasos:
  
- * Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
+A-1) Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
 
- * Simular la imagen degradada (**G**) mediante un proceso de degradacion de movimiento vertical: 
+A-2) Simular la imagen degradada (**G**) mediante un proceso de degradacion de movimiento vertical: 
  
  **G** = _FuncionDegradacionVert_(**F**,n), 
  
  donde n es el movimiento vertical en pixeles. Para esta simulacion use n=57.
 
- * Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que 
+A-3) Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que 
  
  **F**_*_ = **AG**, 
  
  donde **F**_*_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
  
-* Encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule el error promedio, ERR (*).
+A-4) Encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule el error promedio, ERR (*).
 
-* Encuentre la imagen restaurada usando el criterio MINIO, es decir que la norma de la diferencia entre los primeros N elementos de cada columna restaurada y la columna degradada sea minima. Calcule el error promedio, ERR (*).
+A-5) Encuentre la imagen restaurada usando el criterio MINIO, es decir que la norma de la diferencia entre los primeros N elementos de cada columna restaurada y la columna degradada sea minima. Calcule el error promedio, ERR (*).
 
-* Encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule el error promedio, ERR (*).
+A-6) Encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule el error promedio, ERR (*).
 
 
 ( * ) Para calcular el error promedio, calcule la matriz **E** = | **F** - **F**_*_ | / 255 x 100, y promedie todos sus elementos.
@@ -38,21 +38,21 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
  En esta parte de la tarea, se debe restaurar una imagen de 64x64 de la luna que fue degradada a partir de una convolucion con una mascara promedio de 5x5 de la siguiente manera:
 
- * Cargar la imagen original (**F**) de NxN pixeles: [moon.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon.png), y "columninzar" la imagen un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros N elementos de **f**, la segunda columna corresponde a los segundos N elementos de **f**, y asi sucesivamente.
+B-1) Cargar la imagen original (**F**) de NxN pixeles: [moon.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon.png), y "columninzar" la imagen un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros N elementos de **f**, la segunda columna corresponde a los segundos N elementos de **f**, y asi sucesivamente.
  
- * Simular un proceso de degradacion de masacara promedio: 
+B-2) Simular un proceso de degradacion de masacara promedio: 
  
  **G** = _FuncionDegradacionMask_(**F**,n), 
  
  donde nxn es el tamano en pixeles de la mascara **h**, cuyos elementos son h(i,j)=1/n^2, con n=5. El resultado es una imagen de MxM, donde M=N-n+1, ya que solo se toman los elementos de salida en que la mascara completa cubra elementos de **F**. Columnizar **G** en un vector **g** de M^2 elementos.
 
- * Encuentre la matriz **H** de M^2 x N^2 elementos tal que **g** = **Hf**.
+B-3) Encuentre la matriz **H** de M^2 x N^2 elementos tal que **g** = **Hf**.
 
- * Encuentre la restauracion de **g** como el vector **f**_*_  de N^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) usando la matriz de regularizacion **W** = **I**.
+B-4) Encuentre la restauracion de **g** como el vector **f**_*_  de N^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) usando la matriz de regularizacion **W** = **I**.
 
- * A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de NxN elementos.
+B-5) A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de NxN elementos.
 
- * Calcule el error promedio usando la definicion (*) del ejercicio A. 
+B-6) Calcule el error promedio usando la definicion (*) del ejercicio A. 
  
  
  
