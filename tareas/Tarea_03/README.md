@@ -14,9 +14,9 @@ A-1) Cargar la imagen original (**F**) de M filas: [santiago512.png](https://git
 
 A-2) Simular la imagen degarada (**G**) de N filas, usando proceso de degradacion de movimiento vertical de la imagen **F**: 
  
- **G** = _FuncionDegradacionVert_(**F**,n) = **HF**, donde **H** es una matriz de N x M.          
+ **G** = _FuncionDegradacionVert_(**F**,n) = **HF**, 
  
- donde n es el movimiento vertical en pixeles. Para esta simulacion use n=57.
+ donde **H** es una matriz de N x M y n es el movimiento vertical en pixeles. Para esta simulacion use n=57.
 
 A-3) Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que 
  
@@ -24,7 +24,7 @@ A-3) Usando [el metodo de regularizacion visto en clase](https://github.com/domi
  
  donde **F**_*_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
  
-A-4) Encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule el error promedio, ERR (*).
+A-4) Encuentre la imagen restaurada usando el criterio que minimiza la norma de cada columna restaurada. Calcule el error promedio, ERR (*).
 
 A-5) Encuentre la imagen restaurada usando el criterio MINIO, es decir que la norma de la diferencia entre los primeros N elementos de cada columna restaurada y la columna degradada sea minima. Calcule el error promedio, ERR (*).
 
