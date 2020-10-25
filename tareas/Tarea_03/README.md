@@ -12,15 +12,15 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
  
  * Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
 
- * Simular un proceso de degradacion de movimiento vertical: **G** = _FuncionDegradacionVert_(**F**,n), donde n es el movimiento vertical en pixeles.
+ * Simular la imagen degradada (**G**) mediante un proceso de degradacion de movimiento vertical: **G** = _FuncionDegradacionVert_(**F**,n), donde n es el movimiento vertical en pixeles. Para esta simulacion use n=57.
 
  * Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que **F**_*_ = **AG**, donde **F**_*_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
  
-* Para n = 57, encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule el error promedio, ERR (*).
+* Encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule el error promedio, ERR (*).
 
-* Para n = 57, encuentre la imagen restaurada usando el criterio MINIO, es decir que la norma de la diferencia entre los primeros N elementos de cada columna restaurada y la columna degradada sea minima. Calcule el error promedio, ERR (*).
+* Encuentre la imagen restaurada usando el criterio MINIO, es decir que la norma de la diferencia entre los primeros N elementos de cada columna restaurada y la columna degradada sea minima. Calcule el error promedio, ERR (*).
 
-* Para n = 57, encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule el error promedio, ERR (*).
+* Encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule el error promedio, ERR (*).
 
 
 (*) Para calcular el error promedio, calcule la matriz **E** = | **F** - **F**_*_ | / 255 x 100, y promedie todos sus elementos.
