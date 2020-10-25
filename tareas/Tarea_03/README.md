@@ -17,7 +17,7 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 * Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule el error promedio (*)
 
 
-$`\sqrt{2}`$.
+- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
 
 
 (*) El error promedio se calcula como el promedio de la diferencia absoluta normalizada de todos los pixeles, es decir:
