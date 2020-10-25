@@ -9,12 +9,22 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 **A) Proceso simulado (movimiento vertical)**
  En esta parte de la tarea, se debe realizar 5 pasos:
  
- * Cargar la imagen original (**F**): [santiago512](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
+ * Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
  * Simular un proceso de simulacion de movimiento vertical: **G** = _FuncionDegradacionVert_(**F**,n), donde n es el movimiento vertical en pixeles.
 
  * Encontar analiticamente la matriz **A** usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) para este movimiento vertical, tal que **F**_s_ = **AG**, donde **F**_s_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
  
-* Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule ERR, el error promedio (*)
+* Para n = 57, encuentre la imagen restaurada usando el criterio de que la norma de cada columna restaurada sea minima. Calcule ERR, el error promedio (*)
+
+* Para n = 57, encuentre la imagen restaurada usando el criterio MINIO, es decir que la norma de la diferencia entre los primeros N elementos de cada columna restaurada y la columna degradada sea minima. Calcule ERR, el error promedio (*)
+
+* Para n = 57, encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule ERR, el error promedio (*)
+
+
+
+
+ **W** = **I** y calcule ERR, el error promedio (*)
+
 
 
 
