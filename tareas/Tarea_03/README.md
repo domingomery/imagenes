@@ -14,15 +14,11 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
  * Encontar analiticamente la matriz **A** usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) para este movimiento vertical, tal que **F**_s_ = **AG**, donde **F**_s_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
  
-* Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule el error promedio (*)
+* Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule ERR, el error promedio (*)
 
 
-- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
 
-
-(*) El error promedio se calcula como el promedio de la diferencia absoluta normalizada de todos los pixeles, es decir:
-
-ERR =  Sum |F(i,j)-F_s_(i,j)|
+(*) Para calcular el error promedio, calcule la matriz **E** = | **F**_s_ - **F**_s_ | / 255 x 100, y promedie todos sus elementos
 
 
  restaurar una imagen que fue degradada a partir de un movimiento horizontal real . Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar 
