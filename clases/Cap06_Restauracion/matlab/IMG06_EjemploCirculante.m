@@ -1,6 +1,6 @@
 close all
 I = imread('rice.png');
-M = 35;
+M = 64;
 i1 = 156;
 j1 = 127;
 F = double(I(i1:i1+M-1,j1:j1+M-1));
