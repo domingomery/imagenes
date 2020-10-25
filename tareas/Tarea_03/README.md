@@ -1,5 +1,19 @@
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+inlineMath: [['$','$'], ['\\(','\\)']],
+processEscapes: true},
+jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+TeX: {
+extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+equationNumbers: {
+autoNumber: "AMS"
+}
+}
+});
+</script>
+
 
 # Tarea 03: Restauración de imágenes
 
@@ -16,7 +30,7 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
  
 * Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule el error promedio (*)
 
-\\( a^2 = b^2 \\)
+\$ a^2 = b^2 \$
 
 
 
