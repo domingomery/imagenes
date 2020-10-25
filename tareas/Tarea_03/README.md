@@ -21,19 +21,16 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 * Para n = 57, encuentre la imagen restaurada usando el criterio de minimizar las frecuencias altas de la columna restuarada. Para este caso utilice la transformada discreta de cosenos (DCT) usando un filtro Gaussiano. Calcule ERR, el error promedio (*)
 
 
-
-
- **W** = **I** y calcule ERR, el error promedio (*)
-
-
-
-
 (*) Para calcular el error promedio, calcule la matriz **E** = | **F**_s_ - **F**_s_ | / 255 x 100, y promedie todos sus elementos
 
 
- restaurar una imagen que fue degradada a partir de un movimiento horizontal real . Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar 
+**B) Proceso simulado (desenfoque con mascara promedio)**
 
-
+ En esta parte de la tarea, se debe restaurar una imagen que fue degradada a partir de una convolucion con una mascara promedio de 3x3 de la siguiente manera:
+ 
+ 
+ 
+  movimiento horizontal real [image_blur_01](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_01.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe 
 
 
 
