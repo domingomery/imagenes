@@ -10,11 +10,11 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 
 En esta parte de la tarea, se debe realizar 6 pasos:
  
-A-1) Cargar la imagen original (**F**): [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
+A-1) Cargar la imagen original (**F**) de M filas: [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
 
-A-2) Simular la imagen degradada (**G**) mediante un proceso de degradacion de movimiento vertical: 
+A-2) Simular la imagen degradada (**G**) de N filas mediante un proceso de degradacion de movimiento vertical: 
  
- **G** = _FuncionDegradacionVert_(**F**,n), 
+ **G** = _FuncionDegradacionVert_(**F**,n) = **HF**, donde **H** es una matriz de N x M.  
  
  donde n es el movimiento vertical en pixeles. Para esta simulacion use n=57.
 
