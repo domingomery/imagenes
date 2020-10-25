@@ -38,7 +38,7 @@ A-6) Encuentre la imagen restaurada usando el criterio de minimizar las frecuenc
 
  En esta parte de la tarea, se debe restaurar una imagen de 64x64 de la luna que fue degradada a partir de una convolucion con una mascara promedio de 5x5 de la siguiente manera:
 
-B-1) Cargar la imagen original (**F**) de NxN pixeles: [moon.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon.png), y "columninzar" la imagen un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros N elementos de **f**, la segunda columna corresponde a los segundos N elementos de **f**, y asi sucesivamente.
+B-1) Cargar la imagen original (**F**) de NxN pixeles: [moon64.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon64.png), y "columninzar" la imagen un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros N elementos de **f**, la segunda columna corresponde a los segundos N elementos de **f**, y asi sucesivamente.
  
 B-2) Simular un proceso de degradacion de masacara promedio: 
  
