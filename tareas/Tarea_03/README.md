@@ -17,8 +17,9 @@ El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imag
 * Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule el error promedio (*)
 
 
-![equation](http://latex.codecogs.com/gif.latex?a^2 = b^2 \)
-
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 
 
