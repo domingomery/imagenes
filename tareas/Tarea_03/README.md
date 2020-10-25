@@ -1,18 +1,41 @@
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+
 # Tarea 03: Restauración de imágenes
 
 ## Enunciado
 El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas en procesos simulados y en procesos reales.
 
+**A) Proceso simulado (movimiento vertical)**
+ En esta parte de la tarea, se debe realizar 5 pasos:
+ 
+ * Cargar la imagen original (**F**): [santiago512](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
+ * Simular un proceso de simulacion de movimiento vertical: **G** = _FuncionDegradacionVert_(**F**,n), donde n es el movimiento vertical en pixeles.
+
+ * Encontar analiticamente la matriz **A** usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) para este movimiento vertical, tal que **F**_s_ = **AG**, donde **F**_s_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
+ 
+* Para n = 57, encuentre la imagen restaurada usando **W** = **I** y calcule el error promedio (*)
+
+\\( a^2 = b^2 \\)
+
+
+
+
+(*) El error promedio se calcula como el promedio de la diferencia absoluta normalizada de todos los pixeles, es decir:
+
+ERR =  Sum |F(i,j)-F_s_(i,j)|
+
+
+ restaurar una imagen que fue degradada a partir de un movimiento horizontal real . Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar 
 
 
 
 
 
 
+**C) Proceso real (movimiento horizontal)**
 
-C) Proceso real (movimiento horizontal)
-
- En esta parte se debe restaurar una imagen que fue degradada a partir de un movimiento horizontal real [image_blur_01](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_01.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos metodos de restauracion distintos. Obviamente, la imagen de referencia no podra ser usada en los algoritmos, pero si puede ser usada como referencia para determinar el proceso de degradacion. Esta permitido rotar, escalar o hacer una transformacion de perspectiva de la imagen degradada de manera manual antes de aplicar el algoritmo de restauracion.
+ En esta parte de la tarea, se debe restaurar una imagen que fue degradada a partir de un movimiento horizontal real [image_blur_01](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur_01.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos metodos de restauracion distintos. Obviamente, la imagen de referencia no podra ser usada en los algoritmos, pero si puede ser usada como referencia para determinar el proceso de degradacion. Esta permitido rotar, escalar o hacer una transformacion de perspectiva de la imagen degradada de manera manual antes de aplicar el algoritmo de restauracion. Esta permitido el uso de funciones de restauracion implementadas en librerias de Matlab o Python, siempre y cuando la entiendas bien y la puedas explicar en el informe.
 
 
 
