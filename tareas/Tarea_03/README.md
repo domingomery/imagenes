@@ -38,19 +38,19 @@ A-6) Encuentre la imagen restaurada usando el criterio de minimizar las frecuenc
 
  En esta parte de la tarea, se debe restaurar una imagen de 64x64 de la luna que fue degradada a partir de una convolucion con una mascara promedio de 5x5 de la siguiente manera:
 
-B-1) Cargar la imagen original (**F**) de NxN pixeles: [moon64.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon64.png), y "columninzar" la imagen **F** en un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros N elementos de **f**, la segunda columna corresponde a los segundos N elementos de **f**, y asi sucesivamente.
+B-1) Cargar la imagen original (**F**) de MxM pixeles: [moon64.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon64.png), y "columninzar" la imagen **F** en un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros M elementos de **f**, la segunda columna corresponde a los segundos M elementos de **f**, y asi sucesivamente.
  
 B-2) Simular un proceso de degradacion de masacara promedio: 
  
  **G** = _FuncionDegradacionMask_(**F**,n), 
  
- donde nxn es el tamano en pixeles de la mascara promedio **h**, cuyos elementos son h(i,j)=1/n^2, con n=5. El resultado es una imagen de MxM, donde M=N-n+1, ya que solo se toman los elementos de salida en que la mascara completa cubra elementos de **F**. 'Columnizar' **G** en un vector **g** de M^2 elementos.
+ donde nxn es el tamano en pixeles de la mascara promedio **h**, cuyos elementos son h(i,j)=1/n^2, con n=5. El resultado es una imagen de NxN, donde N=M-n+1, ya que solo se toman los elementos de salida en que la mascara completa cubra elementos de **F**. 'Columnizar' **G** en un vector **g** de N^2 elementos.
 
-B-3) Encuentre la matriz **H** de M^2 x N^2 elementos tal que **g** = **Hf**.
+B-3) Encuentre la matriz **H** de N^2 x M^2 elementos tal que **g** = **Hf**.
 
-B-4) Encuentre la restauracion de **g** como el vector **f**_*_  de N^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) con la matriz de regularizacion **W** = **I**.
+B-4) Encuentre la restauracion de **g** como el vector **f**_*_  de M^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) con la matriz de regularizacion **W** = **I**.
 
-B-5) A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de NxN elementos.
+B-5) A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de MxM elementos.
 
 B-6) Calcule el error promedio usando la definicion (*) del ejercicio A. 
  
