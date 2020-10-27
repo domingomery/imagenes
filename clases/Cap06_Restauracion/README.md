@@ -17,6 +17,7 @@
 * Video de esta clase [[YouTube]](https://youtu.be/B_EM09zytuc)
 * Ejercicio en clase: ver instrucciones en el video [[MERY9241]](http://www.socrative.com)
 * Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
+* Video de esta clase [[YouTube]](https://youtu.be/Cn6cZ0XY2uM)
 * Solucion al cuestionario de la clase anterior [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
 * Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 ### 6.2 Restauracion con filtros espaciales en presencia de ruido:
@@ -30,4 +31,4 @@
 ---
 
 
-Updated on 27-Oct-2020 at 11:09 by Domingo Mery
+Updated on 27-Oct-2020 at 13:14 by Domingo Mery
