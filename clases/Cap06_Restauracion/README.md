@@ -20,7 +20,7 @@
 * Video de esta clase [[YouTube]](https://youtu.be/Cn6cZ0XY2uM)
 * Solucion al cuestionario de la clase anterior [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
 * Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
-* Video de esta clase [[YouTube]]()
+* Video de esta clase [[YouTube]](https://youtu.be/Iw7I2Jnctq4)
 * Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 ### 6.2 Restauracion con filtros espaciales en presencia de ruido:
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 29-Oct-2020 at 11:24 by Domingo Mery
+Updated on 29-Oct-2020 at 12:37 by Domingo Mery
