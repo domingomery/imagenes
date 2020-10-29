@@ -218,6 +218,9 @@
 * 6.1-Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 
 ### Clase 22 Ju. 29-Oct-2020:
+* 6.1-Video de esta clase [[YouTube]]()
+* 6.1-Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
+* 6.1-Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.3-Restauracion de Imagenes (estimacion de movimiento) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Estimation_n.m)
 * 6.4-Restauracion de Imagenes 2da parte [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_2.pdf)
 * 6.4-Ejemplo Matriz Circulante [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploCirculante.m)
@@ -300,4 +303,4 @@
 ---
 
 
-Updated on 27-Oct-2020 at 13:14 by Domingo Mery
+Updated on 29-Oct-2020 at 11:24 by Domingo Mery
