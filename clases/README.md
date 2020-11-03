@@ -228,7 +228,7 @@
 * 6.4-Ejemplo de deconvolucion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploDeconvolution.m)
 
 ### Clase 23 Ma. 03-Nov-2020:
-* 7.1-Video de esta clase [[YouTube]]()
+* 7.1-Video de esta clase [[YouTube]](https://youtu.be/a8bqyTZzvcE)
 * 7.1-Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
 * 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MaskScanMorpho.m)
 * 7.1-Ejemplo relleno [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Growing.m)
@@ -305,4 +305,4 @@
 ---
 
 
-Updated on 03-Nov-2020 at 08:34 by Domingo Mery
+Updated on 03-Nov-2020 at 14:07 by Domingo Mery

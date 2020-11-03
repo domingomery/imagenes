@@ -1,7 +1,7 @@
 
 # Capitulo 07: Procesamiento morfologico de imagenes
 ### 7.1 Dilatacion y erosion, cierre y apertura:
-* Video de esta clase [[YouTube]]()
+* Video de esta clase [[YouTube]](https://youtu.be/a8bqyTZzvcE)
 * Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
 * Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MaskScanMorpho.m)
 * Ejemplo relleno [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Growing.m)
@@ -15,4 +15,4 @@
 ---
 
 
-Updated on 03-Nov-2020 at 08:34 by Domingo Mery
+Updated on 03-Nov-2020 at 14:07 by Domingo Mery
