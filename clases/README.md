@@ -228,15 +228,26 @@
 * 6.4-Ejemplo de deconvolucion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploDeconvolution.m)
 
 ### Clase 23 Ma. 03-Nov-2020:
+* 7.1-Video de esta clase [[YouTube]]()
+* 7.1-Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
+* 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MaskScanMorpho.m)
+* 7.1-Ejemplo relleno [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Growing.m)
+* 7.1-Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphExamples.m)
+* 7.1-Morfologia: conexiones [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Connected.m)
+* 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)
+
+### Clase 24 Ju. 05-Nov-2020:
+* 7.2-TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
+* 7.2-Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
 * 8.1-Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
 * 8.3-Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
+
+### Clase 25 Ma. 10-Nov-2020:
 * 8.2-Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * 8.2-Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
 * 8.2-Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
 * 8.1-Segmentacion con filtros [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
-
-### Clase 24 Ju. 05-Nov-2020:
 * 8.3-Algoritmo Watershed [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegWatershed.m)
 * 8.1-Transformada de Hough [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_HoughTransform.pdf)
 * 8.1-Ejemplo de Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough.m)
@@ -247,7 +258,7 @@
 * 8.1-Deteccion de bordes Sobel [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeSobel.m)
 * 8.1-Apuntes para la deteccion de bordes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_EdgeDetection.pdf)
 
-### Clase 25 Ma. 10-Nov-2020:
+### Clase 26 Ju. 12-Nov-2020:
 * 8.1-Deteccion de bordes LoG [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_LoG_Filtering.pdf)
 * 8.1-Ejemplo de Deteccion de bordes LoG [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeLoG.m)
 * 8.1-Deteccion de bordes Canny [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_EdgeDetection_Canny.pptx)
@@ -256,18 +267,6 @@
 * 8.1-Deteccion de bordes (ejemplo con bordes sinteticos) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeSynthetic.m)
 * 8.5-Segmentacion de movimiento [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegVideo.pdf)
 * 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
-
-### Clase 26 Ju. 12-Nov-2020:
-* 8.2-Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
-
-### Clase 27 Ma. 17-Nov-2020:
-* 7.2-Morfologia [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morphology.pdf)
-* 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphScan.m)
-* 7.1-Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphExamples.m)
-* 7.1-Morfologia: conexiones [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Connected.m)
-* 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)
-* 7.2-TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
-* 7.2-Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
 
 ### Clase 28 Ju. 19-Nov-2020:
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
@@ -303,4 +302,4 @@
 ---
 
 
-Updated on 29-Oct-2020 at 12:37 by Domingo Mery
+Updated on 03-Nov-2020 at 08:29 by Domingo Mery

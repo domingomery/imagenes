@@ -7,7 +7,7 @@
 
 
 close all
-i = input('Test image: 1> Mandrill, 2> Chicago, 3> Drops, 4> Pattern: ');
+i = input('Test image: 1> Mandrill, 2> Chicago, 3> Drops, 4> Apple, 5> Pattern: ');
 switch i
     case 1
         [X,map] = imread('mandrill_bw.bmp');
@@ -16,6 +16,9 @@ switch i
     case 3
         [X,map] = imread('drops.png');
     case 4
+        [X,map] = imread('apple_bw.png');
+        X =rgb2gray(X);
+    case 5
         X = ones(256,1)*(1:256)-1;
 end
 
@@ -38,12 +41,13 @@ while(ok)
     m = input('# bits for grayscale quantization (0 => end)? ');
     
     if (m<9)&&(m>0)
-        n = 2^(8-m);
+        n = 2^(8-m)-1;
         
         Y = uint8(n*fix(X/n));
         
         figure(2)
-        imshow(Y,[min(Y(:)) max(Y(:))])
+        % imshow(Y,[min(Y(:)) max(Y(:))])
+        imshow(Y,[])
         title(sprintf('2^%d = %d grayvalues',m,2^m))
         figure(3)
         imhist(Y)

@@ -22,7 +22,6 @@
 * Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
 * Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
-* Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * Algoritmo Watershed [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegWatershed.m)
@@ -37,4 +36,4 @@
 ---
 
 
-Updated on 29-Oct-2020 at 12:37 by Domingo Mery
+Updated on 03-Nov-2020 at 08:29 by Domingo Mery
