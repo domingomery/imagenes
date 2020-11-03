@@ -244,6 +244,9 @@
 * 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 
 ### Clase 25 Ma. 10-Nov-2020:
+* 8.6-Trabajo en Grupo [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
+
+### Clase 26 Ju. 12-Nov-2020:
 * 8.2-Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * 8.2-Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
 * 8.2-Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
@@ -258,7 +261,7 @@
 * 8.1-Deteccion de bordes Sobel [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeSobel.m)
 * 8.1-Apuntes para la deteccion de bordes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_EdgeDetection.pdf)
 
-### Clase 26 Ju. 12-Nov-2020:
+### Clase 27 Ma. 17-Nov-2020:
 * 8.1-Deteccion de bordes LoG [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_LoG_Filtering.pdf)
 * 8.1-Ejemplo de Deteccion de bordes LoG [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeLoG.m)
 * 8.1-Deteccion de bordes Canny [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_EdgeDetection_Canny.pptx)
@@ -269,6 +272,9 @@
 * 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 
 ### Clase 28 Ju. 19-Nov-2020:
+* 8.6-Trabajo en Grupo (sobre proyecto) [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
+
+### Clase 29 Ma. 24-Nov-2020:
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans.m)
@@ -279,9 +285,6 @@
 * 2.2-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.2-Mejora de color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
 * 2.2-Despliegue de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorDisplay.m)
-
-### Clase 29 Ma. 24-Nov-2020:
-* 8.6-Trabajo en Grupo (sobre proyecto) [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 
 ### Clase 30 Ju. 26-Nov-2020:
 * 2.2-Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
@@ -302,4 +305,4 @@
 ---
 
 
-Updated on 03-Nov-2020 at 08:29 by Domingo Mery
+Updated on 03-Nov-2020 at 08:34 by Domingo Mery
