@@ -8,7 +8,8 @@
 
 
 close all
-[X,mp] = imread('chicago.png');
+%[X,mp] = imread('chicago.png');
+[X,mp] = imread('barco.png');
 X = imresize(X,[256 256]);
 
 figure(1)
@@ -154,13 +155,16 @@ j0 = -60;
 
 for i=1:N
     for j=1:M
-       ip = fix(2*i+0.4*j-70);
-       jp = fix(0.3*i+2.3*j-60);
+       ip = fix(2*i+0.4*j+i0);
+       jp = fix(0.3*i+2.3*j+j0);
        if (jp>=1) && (jp<=M) && (ip>=1) && (ip<=N)
            Y(i,j) = X(ip,jp);
        end
    end
 end
+
+
+
 
 figure(6)
 imshow(Y,mp)

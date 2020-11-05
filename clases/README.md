@@ -237,6 +237,7 @@
 * 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)
 
 ### Clase 24 Ju. 05-Nov-2020:
+* 7.2-Video de esta clase [[YouTube]](https://youtu.be/TjQ9pUEKQRw)
 * 7.2-TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
 * 7.2-Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
 * 8.1-Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
@@ -305,4 +306,4 @@
 ---
 
 
-Updated on 03-Nov-2020 at 14:07 by Domingo Mery
+Updated on 05-Nov-2020 at 13:04 by Domingo Mery

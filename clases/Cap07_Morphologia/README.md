@@ -8,6 +8,7 @@
 * Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphExamples.m)
 * Morfologia: conexiones [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Connected.m)
 ### 7.2 Algoritmos morfologicos basicos:
+* Video de esta clase [[YouTube]](https://youtu.be/TjQ9pUEKQRw)
 * TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
 * Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
 ### 7.3 Extensiones para imagenes de niveles de grises:
@@ -15,4 +16,4 @@
 ---
 
 
-Updated on 03-Nov-2020 at 14:07 by Domingo Mery
+Updated on 05-Nov-2020 at 13:04 by Domingo Mery

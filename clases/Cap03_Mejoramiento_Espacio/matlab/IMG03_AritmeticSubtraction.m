@@ -6,13 +6,17 @@
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
 close all
+i1 = 20;i2 = i1+100;
+j1 = 340;j2 = j1+150;
 A = imread('sub1.bmp');
+A = imresize(A(i1:i2,j1:j2),[512 512]);
 figure(1);
 imshow(A,[]);
 title('Image A');
 enterpause
 
 B = imread('sub2.bmp');
+B = imresize(B(i1:i2,j1:j2),[512 512]);
 figure(2);
 imshow(B,[]);
 title('Image B')
