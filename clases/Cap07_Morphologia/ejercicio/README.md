@@ -11,7 +11,6 @@ El output debe ser una imagen en la que se muestre la segmentación, aquí hay u
 
 Para la solución se debe usar operaciones morfológicas. Se recomienda usar un filtro mediana para eliminar la gaviota, y una erosión para eliminar el sol. La segmentación se obtiene mediante restas de la imagen original con las imagenes filtradas y un umbral adecuado para la gaviota y otro para el sol. Soluciones que no consideren operaciones morfológicas no serán consideras.
 
-Foto original: https://flic.kr/p/2iNWsjg
 
 ## Problema 2:
 En este problema se debe realizar un gradiente morfológico de la siguiente imagem. 
@@ -22,7 +21,6 @@ El output debe ser una imagen en la que se muestre el valor abosluto del gradien
 
 [opcional] Realizar el gradiente con operadores lineales y comparar (visualmente) el gradiente obtenido con el gradiente morfológico. El gradiente con operador lineal se calcula usando dos máscaras: [-1 0 1] para obtener Gx, el gradiente en x; [-1 0 1]' para obtener Gy, el gradiente en y. El gradiente de la imagen puede calcularse como la magnitud de ambos gradientes: sqrt(Gx^2+Gy^2).   
 
-Foto original: https://flic.kr/p/2hWGUXA
 
 ## Problema 3
 En este problema se desea segmentar las gotas medias y grandes de la siguiente imagen:
@@ -34,7 +32,14 @@ El output debe ser una imagen en la que se muestre la segmentación, aquí hay u
 
 Para la solución se debe usar operaciones morfológicas. Se recomienda usar un filtro TopHat para eliminar la iluminación irregular, luego usar un umbral para detectar las zonas más claras y por último un filtro morfológico que elimine las regiones muy pequeñas. Soluciones que no consideren operaciones morfológicas no serán consideras.
 
-Foto original: https://flic.kr/p/2hQ82vH
+
+Para mentes curiosas: Las fotos utilizadas en este ejericio, son versiones en blanco y negro y a veces recortadas de las siguientes fotos a color.
+
+* Foto original Problema 1: https://flic.kr/p/2iNWsjg
+* Foto original Problema 2: https://flic.kr/p/2hWGUXA
+* Foto original Problema 3: https://flic.kr/p/2hQ82vH
+
+En los ejercicios usar las versiones proporcionadas en blanco y negro, no usar las versiones originales a color.
 
 
 ## Entrega Individual (Ma.17/11/20 6:30pm)
