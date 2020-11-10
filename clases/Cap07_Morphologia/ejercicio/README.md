@@ -3,8 +3,13 @@
 (se puede usar todas las librerias que sean necesarias)
 
 ## Problema 1
-En este problema se desea segmentar el sol y la gaviota de la imagen de la siguiente imagen
-<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/ejericio/atardecer.png" width="400">atardecer.png
+En este problema se desea segmentar el sol y la gaviota de la siguiente imagen:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/ejercicio/atardecer.png" width="400">atardecer.png
+
+El output debe ser una imagen en la que se muestre la segmentación, aquí hay un ejemplo del resultado:
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/ejercicio/atardecer_out.png" width="400">atardecer_out.png
+
+
 
 
 ## Entrega Individual (Ma.17/11/20 6:30pm)
