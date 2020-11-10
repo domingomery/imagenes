@@ -245,7 +245,7 @@
 * 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 
 ### Clase 25 Ma. 10-Nov-2020:
-* 8.6-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
+* 8.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 
 ### Clase 26 Ju. 12-Nov-2020:
 * 8.2-Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
@@ -306,4 +306,4 @@
 ---
 
 
-Updated on 10-Nov-2020 at 10:12 by Domingo Mery
+Updated on 10-Nov-2020 at 10:13 by Domingo Mery

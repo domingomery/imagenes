@@ -2,6 +2,7 @@
 # Capitulo 08: Segmentacion de imagenes
 ### 8.1 Deteccion de bordes:
 * Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
+* Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 * Segmentacion con filtros [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
 * Transformada de Hough [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_HoughTransform.pdf)
 * Ejemplo de Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough.m)
@@ -30,11 +31,10 @@
 * Segmentacion de movimiento [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegVideo.pdf)
 * Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 ### 8.6 Proyecto de curso:
-* Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 * Trabajo en Grupo (sobre proyecto) [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 * Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 * Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 ---
 
 
-Updated on 10-Nov-2020 at 10:12 by Domingo Mery
+Updated on 10-Nov-2020 at 10:13 by Domingo Mery
