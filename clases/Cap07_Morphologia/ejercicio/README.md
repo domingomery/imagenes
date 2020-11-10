@@ -11,6 +11,8 @@ El output debe ser una imagen en la que se muestre la segmentación, aquí hay u
 
 Para la solución se debe usar operaciones morfológicas. Se recomienda usar un filtro mediana para eliminar la gaviota, y una erosion para eliminar el sol. La segmentación se obtiene mediante restas de la imagen original con las imagenes filtradas y un umbral adecuado para la gaviota y otro para el sol. Soluciones que no consideren operaciones morfológicas no serán consideras.
 
+Foto original: https://flic.kr/p/2iNWsjg
+
 ## Problema 2:
 En este problema se debe realizar un gradiente morfológico de la siguiente imagem. 
 <img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/ejercicio/tazmania.png" width="600"> tazmania.png
@@ -31,6 +33,7 @@ El output debe ser una imagen en la que se muestre la segmentación, aquí hay u
 
 Para la solución se debe usar operaciones morfológicas. Se recomienda usar un filtro TopHat para eliminar la iluminación irregular, luego usar un umbral para detectar las zonas más claras y por último un filtro morfológico que elimine las regiones muy pequeñas. Soluciones que no consideren operaciones morfológicas no serán consideras.
 
+Foto original: https://flic.kr/p/2hQ82vH
 
 
 ## Entrega Individual (Ma.17/11/20 6:30pm)
