@@ -245,6 +245,7 @@
 * 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 
 ### Clase 25 Ma. 10-Nov-2020:
+* 8.1-Video de esta clase [[YouTube]](https://youtu.be/MlOV8JIWAjI)
 * 8.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 
 ### Clase 26 Ju. 12-Nov-2020:
@@ -306,4 +307,4 @@
 ---
 
 
-Updated on 10-Nov-2020 at 13:27 by Domingo Mery
+Updated on 12-Nov-2020 at 14:10 by Domingo Mery

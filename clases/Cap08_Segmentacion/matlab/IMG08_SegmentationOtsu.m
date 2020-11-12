@@ -7,6 +7,9 @@
 
 i = input('Image: 1 Tortilla, 2 rice, 3 rice-H, 4 cameraman? ');
 switch i
+    case 0 
+        J = imread('arroz_noise.png');
+        J = J(110:240,70:280);
     case 1
         I = imread('tortilla.jpg');
         I = imresize(I,0.25);

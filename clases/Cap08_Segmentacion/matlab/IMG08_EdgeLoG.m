@@ -7,10 +7,10 @@
 
 % LoG Filter
 close all
-i = input('Image: 1: rice, 2: cameraman, 3: circuit, 4: wheel ?');
+i = input('Image: 1: jirafa, 2: cameraman, 3: circuit, 4: wheel ?');
 switch i
     case 1        
-        X1 = imread('rice.png');
+        X1 = imread('jirafa.png');
     case 2
         X1 = imread('cameraman.tif');
     case 3
