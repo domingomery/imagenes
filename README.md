@@ -250,10 +250,10 @@
 
 ### Clase 26 Ju. 12-Nov-2020:
 * 8.2-Video de esta clase [[YouTube]](https://youtu.be/WJmq1tU5gWA)
-* 8.2-Mtodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
+* 8.2-Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * 8.2-Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * 8.2-Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
-* 8.2-Mtodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
+* 8.2-Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * 8.2-Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
 * 8.1-Deteccion de bordes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes.pptx)
 * 8.1-Visualizacion de deteccion de bordes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeVisualization.m)
@@ -308,4 +308,4 @@
 ---
 
 
-Updated on 12-Nov-2020 at 14:11 by Domingo Mery
+Updated on 12-Nov-2020 at 14:12 by Domingo Mery

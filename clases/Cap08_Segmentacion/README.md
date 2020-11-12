@@ -20,10 +20,10 @@
 ### 8.2 Aplicacion de umbrales:
 * Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 * Video de esta clase [[YouTube]](https://youtu.be/WJmq1tU5gWA)
-* Mtodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
+* Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
-* Mtodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
+* Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
@@ -39,4 +39,4 @@
 ---
 
 
-Updated on 12-Nov-2020 at 14:11 by Domingo Mery
+Updated on 12-Nov-2020 at 14:12 by Domingo Mery
