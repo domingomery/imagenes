@@ -266,7 +266,7 @@
 * 8.1-Mas ejemplos de deteccion de bordes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeDetectionAll.m)
 
 ### Clase 27 Ma. 17-Nov-2020:
-* 8.2-Video de esta clase [[YouTube]]()
+* 8.2-Video de esta clase [[YouTube]](http://www.youtube.com)
 * 8.1-Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
 * 8.1-Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
 * 8.1-Ejemplo de Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough.m)
@@ -308,4 +308,4 @@
 ---
 
 
-Updated on 17-Nov-2020 at 11:18 by Domingo Mery
+Updated on 17-Nov-2020 at 11:20 by Domingo Mery
