@@ -26,7 +26,7 @@
 * Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
 * Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
-* Video de esta clase [[YouTube]](http://www.youtube.com)
+* Video de esta clase [[YouTube]](https://youtu.be/V94QX4aCglo)
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
@@ -41,4 +41,4 @@
 ---
 
 
-Updated on 17-Nov-2020 at 13:03 by Domingo Mery
+Updated on 17-Nov-2020 at 13:08 by Domingo Mery
