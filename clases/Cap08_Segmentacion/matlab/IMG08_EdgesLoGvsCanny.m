@@ -5,7 +5,8 @@
 % Computer Vision Course
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
-I = double(imread('zebra.bmp'));
+%I = double(imread('zebra.bmp'));
+I = double(imread('jirafa.png'));
 figure(1)
 imshow(I,[])
 [N,M] = size(I);

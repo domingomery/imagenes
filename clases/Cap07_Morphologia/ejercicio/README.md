@@ -33,7 +33,7 @@ El output debe ser una imagen en la que se muestre la segmentación, aquí hay u
 Para la solución se debe usar operaciones morfológicas. Se recomienda usar un filtro TopHat para eliminar la iluminación irregular, luego usar un umbral para detectar las zonas más claras y por último un filtro morfológico que elimine las regiones muy pequeñas. Soluciones que no consideren operaciones morfológicas no serán consideras.
 
 
-Para mentes curiosas: Las fotos utilizadas en este ejericio, son versiones en blanco y negro y a veces recortadas de las siguientes fotos a color.
+Para mentes curiosas: Las fotos utilizadas en estos problemas, son versiones en blanco y negro y a veces recortadas de las siguientes fotos a color.
 
 * Foto original Problema 1: https://flic.kr/p/2iNWsjg
 * Foto original Problema 2: https://flic.kr/p/2hWGUXA

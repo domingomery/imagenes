@@ -13,6 +13,9 @@ lims = [floor(center1-1.2*radius) ceil(center2+1.2*radius)];
 bw1 = sqrt((x-center1).^2 + (y-center1).^2) <= radius;
 bw2 = sqrt((x-center2).^2 + (y-center2).^2) <= radius;
 bw = bw1 | bw2;
+I = imread('beans.png');
+X = rgb2gray(I)<20;
+bw = X;
 figure, imshow(bw,'InitialMagnification','fit'), title('bw')
 pause
 
