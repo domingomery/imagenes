@@ -20,6 +20,15 @@ Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de fal
 
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
+## Presentación de Avance
+
+En la presentacion se debe mostrar el correcto funcionamiento de la segmentacion en algunas imagenes (por ejemplo las mas faciles). La Presentacion de Avances consiste de dos items;
+
+1. Un archivo PDF de cuatro slides en formato de presentación (como un archivo powerpoint convertido a PDF). El nombre del archivo debe ser AVANCE_GRUPO_xx.PDF donde xx es el número de grupo asignado. Las cuatro slides deben ser: 1) Integrantes del grupo y número del grupo, 2) Descripción de qué se ha hecho (usar un diagrama, y dar detalles de las estrategias usadas y de los experimentos realizados), 3) Resultados obtenidos, 4) Trabajo futuro. El archivo PDF se deberá subir a mas tardar a las 10:00am del dia de la presentacion que le toque al grupo (esta fecha no podrá ser flexible). El PDF se debe subir a Google Classroom en la opcion del dia correspondiente (los grupos del martes suben en la opcion del martes, los del jueves en la opcion del jueves).
+
+2. Una presentación de 8 minutos por grupo usando zoom. El PDF de cada grupo será compartido por el zoom del profesor. La presentación se realizará los dias 01 y 03/Dic usando el horario de clases. Se deberá hacer una presentación ordenada y planificada, sabiendo a priori qué se va a decir en cada slide y quién lo va a decir (escoger a la persona del grupo que pueda hacer la mejor presentación oral). Por favor no improvisar en el momento de la presentación, es necesario tomarlo como si fuera un 'show'con un guión pre-establecido. Ensayen con alguien y pregunten si esa persona ha entendido lo que han dicho. El orden de los grupos en la presentación es aleatorio (puede ser que el primero en presentar sea el grupo 15 y el segundo el grupo 3, etc.). La idea de la presentación es que cada grupo pueda aprender de los otros grupos al compartir experiencias de éxito y de fracaso también. Para la presentación, lo ideal es que estén todos los miembros del grupo (habrá flexibilidad para aquello/as que tengan algún problema producto de la pandemia siempre y cuando esté debidamente justificado).
+
+
 ## Fecha de Entrega
 Mes de diciembre: Horario a definir con el profesor (coordinar por email: enviar un mail a domingo.mery@uc.cl indicando tres posibles horarios de lunes a viernes entre 9am y 6pm).
 
