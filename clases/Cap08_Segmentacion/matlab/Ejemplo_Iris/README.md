@@ -5,7 +5,7 @@ Este ejemplo muestra la detección del iris y la pupila de un ojo basándose en 
 
 Resultado al ejecutar Segmentacion.m:
 
-<img src="https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/output.png" width="600">
+<img src="https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/output.png" width="600">
 
 
 
