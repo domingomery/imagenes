@@ -58,7 +58,7 @@ La presentacion tipo powerpoint debe incluir:
 
 5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
-6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Ademas deben ser capaces de detectar el iris en 5 imagenes nuevas que el profesor les proporcionara en un pendrive en formato png.
+6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. 
 
 En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
