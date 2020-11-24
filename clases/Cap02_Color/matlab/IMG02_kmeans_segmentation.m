@@ -3,10 +3,15 @@
 
 close all
 I = imread('testimg9.jpg');
+%I = imread('flores.png');
+%I = imread('pistilos.png');
+%I = imread('flowers.jpg');
+%I = imread('amarilla.png');
 imshow(I)
 enterpause
 
 d = 10;
+d = fix(sqrt(size(I,1)*size(I,2))/100);
 
 R = I(1:d:end,1:d:end,1);
 G = I(1:d:end,1:d:end,2);

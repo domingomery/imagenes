@@ -278,27 +278,29 @@
 * 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 
 ### Clase 28 Ma. 24-Nov-2020:
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/xxxxxxxxxxxxxx)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
+* 2.2-Paleta de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
+* 2.2-Procesamiento de imagenes a color simple [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
+* 2.1-Segmentacion a color simple [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
+* 2.2-Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
+* 2.2-Transformacion de color a gris [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_Color2BWreg.m)
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans.m)
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans_segmentation.m)
 * 2.1-Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
-* 2.1-Segmentacion a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
+* 2.1-Segmentacion a color usando metodo de paper [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
+
+### Clase 29 Ju. 26-Nov-2020:
 * 2.2-Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
 * 2.2-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.2-Mejora de color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
 * 2.2-Despliegue de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorDisplay.m)
-
-### Clase 29 Ju. 26-Nov-2020:
 * 2.2-Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
 * 2.3-Conversiones de espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColourSpaceConversions.pdf)
 * 2.3-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_CapituloColor_Forsyth.pdf)
 * 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
-* 2.2-Paleta de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
-* 2.2-Procesamiento de imagenes a color simple [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorProcessing.pdf)
 * 2.2-Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
-* 2.2-Transformacion de color a gris [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_Color2BWreg.m)
-* 2.2-Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
 
 ### Clase 30 Ma. 01-Dec-2020:
 * 8.6-Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
@@ -308,4 +310,4 @@
 ---
 
 
-Updated on 17-Nov-2020 at 13:08 by Domingo Mery
+Updated on 24-Nov-2020 at 11:16 by Domingo Mery
