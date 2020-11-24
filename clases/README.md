@@ -278,7 +278,7 @@
 * 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 
 ### Clase 28 Ma. 24-Nov-2020:
-* 2.1-Video de esta clase [[YouTube]](https://youtu.be/xxxxxxxxxxxxxx)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/FeZnQdgrX9c)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * 2.2-Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
@@ -310,4 +310,4 @@
 ---
 
 
-Updated on 24-Nov-2020 at 13:13 by Domingo Mery
+Updated on 24-Nov-2020 at 13:41 by Domingo Mery

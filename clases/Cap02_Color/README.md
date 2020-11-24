@@ -1,7 +1,7 @@
 
 # Capitulo 02: Imagenes en colores
 ### 2.1 Modelos de color:
-* Video de esta clase [[YouTube]](https://youtu.be/xxxxxxxxxxxxxx)
+* Video de esta clase [[YouTube]](https://youtu.be/FeZnQdgrX9c)
 * Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * Segmentacion a color simple [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
@@ -27,4 +27,4 @@
 ---
 
 
-Updated on 24-Nov-2020 at 13:13 by Domingo Mery
+Updated on 24-Nov-2020 at 13:41 by Domingo Mery
