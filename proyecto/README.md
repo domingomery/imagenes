@@ -36,6 +36,12 @@ En la presentacion se debe mostrar el correcto funcionamiento de la segmentacion
 
 2. Una presentación de 8 minutos por grupo usando zoom. El PDF de cada grupo será compartido por el zoom del profesor. La presentación se realizará los dias 01 y 03/Dic usando el horario de clases. Se deberá hacer una presentación ordenada y planificada, sabiendo a priori qué se va a decir en cada slide y quién lo va a decir (escoger a la persona del grupo que pueda hacer la mejor presentación oral). Por favor no improvisar en el momento de la presentación, es necesario tomarlo como si fuera un 'show'con un guión pre-establecido. Ensayen con alguien y pregunten si esa persona ha entendido lo que han dicho. El orden de los grupos en la presentación es aleatorio (puede ser que el primero en presentar sea el grupo 15 y el segundo el grupo 3, etc.). La idea de la presentación es que cada grupo pueda aprender de los otros grupos al compartir experiencias de éxito y de fracaso también. Para la presentación, lo ideal es que estén todos los miembros del grupo (habrá flexibilidad para aquello/as que tengan algún problema producto de la pandemia siempre y cuando esté debidamente justificado).
 
+* Presentacion Martes 01/Dic - 11:30am: Grupos 02, 04, 05, 07, 09, 12, 15, 16, 17
+
+* Presentacion Jueves 03/Dic - 11:30am: Grupos: 01, 03, 06, 08, 10, 11, 13, 14
+
+
+
 
 ## Fecha de Entrega de Presentación Final
 Del 07 al 15/12/20: En horario a definir con el profesor a través de Doodle.
