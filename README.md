@@ -282,13 +282,14 @@
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * 2.2-Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
-* 2.1-Segmentacion a color simple [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
+* 2.1-Segmentacion a color simple (por umbral) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
 * 2.2-Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
 * 2.2-Transformacion de color a gris [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_Color2BWreg.m)
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans.m)
 * 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans_segmentation.m)
 * 2.1-Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
-* 2.1-Segmentacion a color usando metodo de paper [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
+* 2.1-Segmentacion a color usando metodo de paper (Matlab) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
+* 2.1-Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1008PCfxNSjuvpYSDHg1gRAY9oySIzyYk?usp=sharing)
 
 ### Clase 29 Ju. 26-Nov-2020:
 * 2.1-Video de esta clase [[YouTube]](https://youtu.be/YgcsevWlfso)
@@ -315,4 +316,4 @@
 ---
 
 
-Updated on 26-Nov-2020 at 20:24 by Domingo Mery
+Updated on 26-Nov-2020 at 20:32 by Domingo Mery
