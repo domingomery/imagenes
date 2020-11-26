@@ -9,7 +9,7 @@
 * Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans_segmentation.m)
 * Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
 * Segmentacion a color usando metodo de paper [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
-* Video de esta clase [[YouTube]](https://youtu.be/xxxxxxxxxxxx)
+* Video de esta clase [[YouTube]](https://youtu.be/YgcsevWlfso)
 ### 2.2 Bases de color:
 * Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
 * Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
@@ -27,8 +27,9 @@
 * Paper sobre medicion Lab a partir de imagenes RGB [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorMeasurementLab_Paper.pdf)
 * La fisica y la sicologia del color (Andrew Hanson) [[YouTube]](https://youtu.be/af78RPi6ayE)
 * Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
+* Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
 * Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 ---
 
 
-Updated on 26-Nov-2020 at 12:58 by Domingo Mery
+Updated on 26-Nov-2020 at 13:01 by Domingo Mery
