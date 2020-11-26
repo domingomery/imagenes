@@ -6,6 +6,7 @@
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
 I = imread('valeria.png');
+I = imresize(I,3);
 
 rh = imhist(I(:,:,1));
 gh = imhist(I(:,:,2));
