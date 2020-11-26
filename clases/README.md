@@ -291,23 +291,26 @@
 * 2.1-Segmentacion a color usando metodo de paper [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
 
 ### Clase 29 Ju. 26-Nov-2020:
-* 2.2-Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
-* 2.2-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
-* 2.2-Mejora de color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
-* 2.2-Despliegue de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorDisplay.m)
-* 2.2-Paleta de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
-* 2.2-Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
-* 2.3-Conversiones de espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColourSpaceConversions.pdf)
-* 2.3-Espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_CapituloColor_Forsyth.pdf)
-* 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/xxxxxxxxxxxx)
 * 2.2-Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
+* 2.2-Como se almacenan las imagenes digitales a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
+* 2.2-Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
+* 2.2-Mejora de imagenes a color (ecualizacion) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
+* 2.2-Preguntas Frecuentes sobre el Color [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorFAQ.pdf)
+* 2.3-Conversiones de espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColourSpaceConversions.pdf)
+* 2.3-Capitulo sobre Color (libro Forsyth) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_CapituloColor_Forsyth.pdf)
+* 2.3-Paper sobre medicion Lab a partir de imagenes RGB [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorMeasurementLab_Paper.pdf)
+* 2.3-Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
+* 2.2-Despliegue de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorDisplay.m)
+* 2.2-Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
+* 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 
 ### Clase 30 Ma. 01-Dec-2020:
-* 8.6-Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
+* 8.6-Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
 
 ### Clase 31 Ju. 03-Dec-2020:
-* 8.6-Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
+* 8.6-Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
 ---
 
 
-Updated on 24-Nov-2020 at 13:41 by Domingo Mery
+Updated on 26-Nov-2020 at 07:39 by Domingo Mery

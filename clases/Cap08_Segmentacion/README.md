@@ -36,9 +36,9 @@
 * Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
 * Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 ### 8.6 Proyecto de curso:
-* Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
-* Presentaciones de Avance de Proyecto [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
+* Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
+* Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
 ---
 
 
-Updated on 24-Nov-2020 at 13:41 by Domingo Mery
+Updated on 26-Nov-2020 at 07:39 by Domingo Mery
