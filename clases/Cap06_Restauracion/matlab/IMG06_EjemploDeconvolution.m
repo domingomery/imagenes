@@ -7,17 +7,18 @@ disp('                          |H(u,v)|^2 + C/SNR^2');
 disp(' ');
 disp('SNR^2 = 1/(r^rho)                  r = sqrt(u^2+v^2)');
 
-I = imread('saturn.png');
-I = imresize(I,0.25);
+I = imread('saturn.png'); I = imresize(I,0.25);
+%I = imread('flor.png'); I = imresize(I,0.5);
 F = rgb2gray(I);
 figure(1)
 imshow(F,[])
 title('imagen original F')
 F = double(F);
-n = 11;
-h = ones(n,n)/n/n;
-G = conv2(F,h,'valid');
+n = 15; h = fspecial('gaussian',n,n/8.5);h=h/sum2(h);
+n = 11; h = ones(n,n)/n/n;
 
+G = conv2(F,h,'valid');
+pause
 figure(2)
 imshow(G,[])
 title('imagen degradada sin ruido G')
@@ -68,7 +69,7 @@ end
 C = 10^(d(j));
 Fs = Bim_deconvolution(Gr,h,C);
 figure(5)
-imshow(Fs,[])
+imshow(uint8(Fs))
 title('mejor imagen restaurada')
 figure(6)
 plot(d,e)

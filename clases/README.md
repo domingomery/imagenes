@@ -314,8 +314,8 @@
 
 ### Clase 31 Ju. 03-Dec-2020:
 * 8.6-Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
-* 8.6-Video de esta clase [[YouTube]](https://youtu.be/xxxxxxxxx)
+* 8.6-Video de esta clase [[YouTube]](https://youtu.be/2J3WXZvh2Ts)
 ---
 
 
-Updated on 01-Dec-2020 at 13:17 by Domingo Mery
+Updated on 03-Dec-2020 at 13:14 by Domingo Mery

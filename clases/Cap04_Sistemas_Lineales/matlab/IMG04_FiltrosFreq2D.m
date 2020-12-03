@@ -1,5 +1,7 @@
 close all
 I = imread('cameraman.tif');
+I = imread('guanaco.png');
+I = rgb2gray(I);
 imshow(I)
 title('imagen original')
 
