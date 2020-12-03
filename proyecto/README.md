@@ -18,6 +18,10 @@ El algoritmo disenado debe entregar una imagen binaria, y a la vez debe comparar
 
 Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%. 
 
+AGREGAR METRICA DE DESEMPEÑO (F1 Score):
+
+F1 = TT / (TT + FP + FN) donde TT = 2 x TP
+
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 ## Modalidad de Trabajo
@@ -40,6 +44,8 @@ En la presentacion se debe mostrar el correcto funcionamiento de la segmentacion
 
 * Presentacion Jueves 03/Dic - 11:30am: Grupos: 01, 03, 06, 08, 10, 11, 13, 14
 
+
+[Ver presentaciones](https://github.com/domingomery/imagenes/edit/master/proyecto/avances)
 
 
 
