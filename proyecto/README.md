@@ -49,8 +49,28 @@ En la presentacion se debe mostrar el correcto funcionamiento de la segmentacion
 
 
 
-## Fecha de Entrega de Presentación Final
-Del 07 al 15/12/20: En horario a definir con el profesor a través de Doodle.
+## Fecha de Presentación Final
+* Grupo 01: Vi. 11 a las 11:00 hrs
+* Grupo 02: Lu. 14 a las 11:00 hrs
+* Grupo 03: Ju. 10 a las 9:00 hrs
+* Grupo 04: Ju. 10 a las 13:00 hrs
+* Grupo 05: Vi. 11 a las 15:00 hrs
+* Grupo 06: Vi. 11 a las 8:00 hrs
+* Grupo 07: Ju. 10 a las 10:00 hrs
+* Grupo 08: Ma. 08 a las 17:00 hrs
+* Grupo 09: Ma. 08 a las 16:00 hrs
+* Grupo 10: Mi. 09 a las 10:00 hrs
+* Grupo 11: Lu. 14 a las 10:00 hrs
+* Grupo 12: Vi. 11 a las 10:00 hrs
+* Grupo 13: Lu. 14 a las 9:00 hrs
+* Grupo 14: Vi. 11 a las 12:00 hrs
+* Grupo 15: Ju. 10 a las 8:00 hrs
+* Grupo 16: Vi. 11 a las 9:00 hrs
+* Grupo 17: Ju. 10 a las 12:00 hrs
+
+La presentación será por zoom usando el [link del curso](https://notredame.zoom.us/my/imagenes)
+
+Zoom el Meeting ID: 386 155 8778
 
 
 ## Presentacion Final
