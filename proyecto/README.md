@@ -50,6 +50,10 @@ En la presentacion se debe mostrar el correcto funcionamiento de la segmentacion
 
 
 ## Fecha de Presentación Final
+
+(La puntualidad en la presentación será considerada en la nota)
+
+
 * Grupo 01: Vi. 11 a las 11:00 hrs
 * Grupo 02: Lu. 14 a las 11:00 hrs
 * Grupo 03: Ju. 10 a las 9:00 hrs
