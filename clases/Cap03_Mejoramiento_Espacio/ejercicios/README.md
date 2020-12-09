@@ -1,4 +1,4 @@
-# Ejercicio 02: Procesamiento de imagenes simple
+# Ejercicio 02: Mejoramiento de imagenes
 
 (se puede usar todas las librerias que sean necesarias)
 
