@@ -20,7 +20,7 @@ Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de fal
 
 AGREGAR METRICA DE DESEMPEÑO (F1 Score):
 
-F1 = TT / (TT + FP + FN) donde TT = 2 x TP
+F1 = 2*TP / (2*TP + FP + FN)
 
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
@@ -92,9 +92,15 @@ La presentacion tipo powerpoint debe incluir:
 
 4) Resultados obtenidos, 
 
+se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%. 
+
+SE DEBE AGREGAR METRICA DE DESEMPEÑO (F1 Score):
+
+F1 = 2*TP / (2*TP + FP + FN)
+
 5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
-6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Adicionalmente, deben realizar la segmentacion en 5 imagenes nuevas de lunares (muy similares a la de esta base de datos de 50) que el profesor proporcionara en el momento de la demo. Para la evaluacion de estas 5 imagenes se cuenta tambien con la segmentacion ideal, que sera usada para que calculen el TPR y FPR. 
+6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Adicionalmente, deben realizar la segmentacion en 5 imagenes nuevas de lunares (muy similares a la de esta base de datos de 50) que el profesor proporcionara en el momento de la demo. Para la evaluacion de estas 5 imagenes se cuenta tambien con la segmentacion ideal, que sera usada para que calculen el TPR, FPR y F1. 
 
 En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
