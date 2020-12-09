@@ -20,7 +20,7 @@ Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de fal
 
 AGREGAR METRICA DE DESEMPEÑO (F1 Score):
 
-F1 = 2*TP / (2*TP + FP + FN)
+F1 = 2xTP / (2xTP + FP + FN)
 
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
@@ -96,7 +96,8 @@ se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positiv
 
 SE DEBE AGREGAR METRICA DE DESEMPEÑO (F1 Score):
 
-F1 = 2*TP / (2*TP + FP + FN)
+F1 = 2xTP / (2xTP + FP + FN)
+
 
 5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
