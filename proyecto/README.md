@@ -20,7 +20,7 @@ Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de fal
 
 AGREGAR METRICA DE DESEMPEÑO (F1 Score):
 
-F1 = TT / (TT + FP + FN) donde TT = 2 x TP
+F1 = 2xTP / (2xTP + FP + FN)
 
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
@@ -49,8 +49,32 @@ En la presentacion se debe mostrar el correcto funcionamiento de la segmentacion
 
 
 
-## Fecha de Entrega de Presentación Final
-Del 07 al 15/12/20: En horario a definir con el profesor a través de Doodle.
+## Fecha de Presentación Final
+
+(La puntualidad en la presentación será considerada en la nota)
+
+
+* Grupo 01: Vi. 11 a las 11:00 hrs
+* Grupo 02: Lu. 14 a las 11:00 hrs
+* Grupo 03: Ju. 10 a las 9:00 hrs
+* Grupo 04: Ju. 10 a las 13:00 hrs
+* Grupo 05: Vi. 11 a las 15:00 hrs
+* Grupo 06: Vi. 11 a las 8:00 hrs
+* Grupo 07: Ju. 10 a las 10:00 hrs
+* Grupo 08: Ma. 08 a las 17:00 hrs
+* Grupo 09: Ma. 08 a las 16:00 hrs
+* Grupo 10: Mi. 09 a las 10:00 hrs
+* Grupo 11: Lu. 14 a las 10:00 hrs
+* Grupo 12: Vi. 11 a las 10:00 hrs
+* Grupo 13: Lu. 14 a las 9:00 hrs
+* Grupo 14: Vi. 11 a las 12:00 hrs
+* Grupo 15: Ju. 10 a las 8:00 hrs
+* Grupo 16: Vi. 11 a las 9:00 hrs
+* Grupo 17: Ju. 10 a las 12:00 hrs
+
+La presentación será por zoom usando el [link del curso](https://notredame.zoom.us/my/imagenes)
+
+Zoom el Meeting ID: 386 155 8778
 
 
 ## Presentacion Final
@@ -68,9 +92,16 @@ La presentacion tipo powerpoint debe incluir:
 
 4) Resultados obtenidos, 
 
+se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%. 
+
+SE DEBE AGREGAR METRICA DE DESEMPEÑO (F1 Score):
+
+F1 = 2xTP / (2xTP + FP + FN)
+
+
 5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
-6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Adicionalmente, deben realizar la segmentacion en 5 imagenes nuevas de lunares (muy similares a la de esta base de datos de 50) que el profesor proporcionara en el momento de la demo. Para la evaluacion de estas 5 imagenes se cuenta tambien con la segmentacion ideal, que sera usada para que calculen el TPR y FPR. 
+6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Adicionalmente, deben realizar la segmentacion en 5 imagenes nuevas de lunares (muy similares a la de esta base de datos de 50) que el profesor proporcionara en el momento de la demo. Para la evaluacion de estas 5 imagenes se cuenta tambien con la segmentacion ideal, que sera usada para que calculen el TPR, FPR y F1. 
 
 En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
