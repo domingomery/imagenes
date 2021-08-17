@@ -4,13 +4,13 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 17-Aug-2021:
-* 0.1-Video de esta clase [[YouTube]](https://youtu.be/o-r7nMgBo2c)
-* 0.1-Programa del Curso [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
-* 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_Presentacion.pptx)
-* 1.1-Definiciones [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
+* 0.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 0.1-Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
+* 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentacionCurso.pptx)
+* 0.1-Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 
 ### Clase 02 Ju. 19-Aug-2021:
-* 1.1-Video de esta clase [[YouTube]](https://youtu.be/qhG-7ioz_2w)
+* 1.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 1.1-Definicion de Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 * 0.1-Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 1.1-Ejemplo de computacion grafica [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ComputerGraphics.m)
@@ -22,7 +22,7 @@
 * 1.3-Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
 
 ### Clase 03 Ma. 24-Aug-2021:
-* 1.2-Video de esta clase [[YouTube]](https://youtu.be/PhaL6ug5LJg)
+* 1.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 1.2-Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -34,13 +34,13 @@
 * 1.2-Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 
 ### Clase 04 Ju. 26-Aug-2021:
-* 1.4-Video de esta clase [[YouTube]](https://youtu.be/jm_DK5sBlqc)
+* 1.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 1.4-Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
 * 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 
 ### Clase 05 Ma. 31-Aug-2021:
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/8wmilSa7TMU)
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * 3.1-Ejemplos de Transformaciones Geometricas Basicas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoBasics.m)
@@ -52,7 +52,7 @@
 * 3.1-Transformacion Geometrica: Conversion Elipse - Circulo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_CorrectClock.m)
 
 ### Clase 06 Ju. 02-Sep-2021:
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/sT-NqkZi6oY)
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
 * 3.1-Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
 * 3.1-Expansion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramExpand.m)
@@ -61,7 +61,7 @@
 * 3.1-Ejemplo de ecualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Equalization.m)
 
 ### Clase 07 Ma. 07-Sep-2021:
-* 3.2-Video de esta clase [[YouTube]](https://youtu.be/MNdpXV3WlMo)
+* 3.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.2-Aritmetica: Promedio de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticAverage.m)
 * 3.2-Aritmetica: Resta de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticSubtraction.m)
 * 3.2-Aritmetica: Multiplicacion de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticMult.m)
@@ -71,11 +71,11 @@
 * 3.3-Filtrado con mascara [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_ImageFiltering.pptx)
 
 ### Clase 08 Ju. 09-Sep-2021:
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/6fNynQWJEXk)
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap03_Mejoramiento_Espacio/ejercicios)
 
 ### Clase 09 Ma. 14-Sep-2021:
-* 3.3-Video de esta clase [[YouTube]](https://youtu.be/USCljTpA4Jc)
+* 3.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.3-Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * 3.3-Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * 3.3-Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Mask.m)
@@ -84,7 +84,7 @@
 * 3.3-Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 
 ### Clase 10 Ju. 16-Sep-2021:
-* 4.1-Video de esta clase [[YouTube]](https://youtu.be/6M0-ebDm_5o)
+* 4.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.1-Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FuncionImpulso.pptx)
 * 4.2-Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
 * 4.2-Ejemplo Convolucion en 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1D.m)
@@ -93,7 +93,7 @@
 * 4.2-Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
 
 ### Clase 11 Ma. 21-Sep-2021:
-* 4.4-Video de esta clase [[YouTube]](https://youtu.be/YeX0MTr38B8)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
@@ -102,7 +102,7 @@
 * 4.4-Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 
 ### Clase 12 Ju. 23-Sep-2021:
-* 4.4-Video de esta clase [[YouTube]](https://youtu.be/S-Wizt6pcBU)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
 * 4.4-Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_FiltroIdeal.m)
 * 4.4-Ejercicio Transfomada de Fourier 1D (enunciado) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ejercicio.pdf)
@@ -114,7 +114,7 @@
 * 4.4-Tren de Impulsos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_TrenImpulsos.m)
 
 ### Clase 13 Ma. 29-Sep-2020:
-* 4.4-Video de esta clase [[YouTube]](https://youtu.be/8oNxrQOR3J8)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Muestreo de Sinusoide [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoSinusoide.m)
 * 4.4-Muestreo de Audio [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoAudio.m)
 * 4.4-Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
@@ -124,11 +124,11 @@
 * 4.5-Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
 
 ### Clase 14 Ju. 01-Oct-2020:
-* 4.4-Video de esta clase [[YouTube]](https://youtu.be/IaEjQt_AAG8)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap04_Sistemas_Lineales/ejercicios)
 
 ### Clase 15 Ma. 06-Oct-2020:
-* 4.5-Video de esta clase [[YouTube]](https://youtu.be/PagWL_o4Ymk)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.5-Interpretacion de la Transformada de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion.m)
 * 4.5-Interpretacion de la Transformada de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion2D.m)
 * 4.5-Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierBasis.m)
@@ -141,7 +141,7 @@
 * 4.3-Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
 
 ### Clase 16 Ju. 08-Oct-2020:
-* 4.5-Video de esta clase [[YouTube]](https://youtu.be/5eA7HBzT6CM)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.5-Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * 4.3-Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 * 4.5-Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Filtros.pptx)
@@ -158,7 +158,7 @@
 * 5.2-Ejemplo de Filtro Homomorfico (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
 
 ### Clase 17 Ma. 13-Oct-2020:
-* 4.5-Video de esta clase [[YouTube]](https://youtu.be/0cjfXRuX1Hc)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Efector aliasing al girar una rueda [[YouTube]](https://youtu.be/VNftf5qLpiA)
 * 4.6-Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
 * 4.6-JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
@@ -178,7 +178,7 @@
 * 4.5-Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 
 ### Clase 18 Ju. 15-Oct-2020:
-* 4.6-Video de esta clase [[YouTube]](https://youtu.be/1KuBsEe9IBM)
+* 4.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
 * 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
@@ -193,7 +193,7 @@
 * 4.6-Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
 
 ### Clase 19 Ma. 20-Oct-2020:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/j0WsXHVQVpg)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 6.1-Motivacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
 * 6.1-Restauracion con degradacion por movimiento lineal uniforme [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Introduccion.pptx)
 * 6.1-Ejemplo 'blur' en Santiago [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploSantiago.m)
@@ -208,17 +208,17 @@
 * 6.1-Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_1.pdf)
 
 ### Clase 20 Ju. 22-Oct-2020:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/B_EM09zytuc)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 6.1-Ejercicio en clase: ver instrucciones en el video [[MERY9241]](http://www.socrative.com)
 * 6.1-Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 
 ### Clase 21 Ma. 27-Oct-2020:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/Cn6cZ0XY2uM)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 6.1-Solucion al cuestionario de la clase anterior [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
 * 6.1-Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 
 ### Clase 22 Ju. 29-Oct-2020:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/Iw7I2Jnctq4)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 6.1-Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1-Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.3-Restauracion de Imagenes (estimacion de movimiento) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Estimation_n.m)
@@ -228,7 +228,7 @@
 * 6.4-Ejemplo de deconvolucion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploDeconvolution.m)
 
 ### Clase 23 Ma. 03-Nov-2020:
-* 7.1-Video de esta clase [[YouTube]](https://youtu.be/a8bqyTZzvcE)
+* 7.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 7.1-Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
 * 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MaskScanMorpho.m)
 * 7.1-Ejemplo relleno [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Growing.m)
@@ -237,7 +237,7 @@
 * 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)
 
 ### Clase 24 Ju. 05-Nov-2020:
-* 7.2-Video de esta clase [[YouTube]](https://youtu.be/TjQ9pUEKQRw)
+* 7.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 7.2-TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
 * 7.2-Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
 * 8.1-Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
@@ -245,11 +245,11 @@
 * 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 
 ### Clase 25 Ma. 10-Nov-2020:
-* 8.1-Video de esta clase [[YouTube]](https://youtu.be/MlOV8JIWAjI)
+* 8.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 8.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 
 ### Clase 26 Ju. 12-Nov-2020:
-* 8.2-Video de esta clase [[YouTube]](https://youtu.be/WJmq1tU5gWA)
+* 8.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 8.2-Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * 8.2-Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * 8.2-Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
@@ -266,7 +266,7 @@
 * 8.1-Mas ejemplos de deteccion de bordes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeDetectionAll.m)
 
 ### Clase 27 Ma. 17-Nov-2020:
-* 8.2-Video de esta clase [[YouTube]](https://youtu.be/V94QX4aCglo)
+* 8.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 8.1-Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
 * 8.1-Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
 * 8.1-Ejemplo de Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough.m)
@@ -278,7 +278,7 @@
 * 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 
 ### Clase 28 Ma. 24-Nov-2020:
-* 2.1-Video de esta clase [[YouTube]](https://youtu.be/FeZnQdgrX9c)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * 2.1-Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * 2.2-Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
@@ -292,7 +292,7 @@
 * 2.1-Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1008PCfxNSjuvpYSDHg1gRAY9oySIzyYk?usp=sharing)
 
 ### Clase 29 Ju. 26-Nov-2020:
-* 2.1-Video de esta clase [[YouTube]](https://youtu.be/YgcsevWlfso)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 2.2-Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
 * 2.2-Como se almacenan las imagenes digitales a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
 * 2.2-Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
@@ -310,12 +310,12 @@
 
 ### Clase 30 Ma. 01-Dec-2020:
 * 8.6-Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
-* 8.6-Video de esta clase [[YouTube]](https://youtu.be/bzOgEnR0glY)
+* 8.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 
 ### Clase 31 Ju. 03-Dec-2020:
 * 8.6-Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
-* 8.6-Video de esta clase [[YouTube]](https://youtu.be/2J3WXZvh2Ts)
+* 8.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ---
 
 
-Updated on 12-Aug-2021 at 13:35 by Domingo Mery
+Updated on 17-Aug-2021 at 11:26 by Domingo Mery

@@ -1,8 +1,7 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Introduccion al analisis y procesamiento digital de imagenes:
-* Definiciones [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
-* Video de esta clase [[YouTube]](https://youtu.be/qhG-7ioz_2w)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Definicion de Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Definiciones.pptx)
 * Ejemplo de computacion grafica [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ComputerGraphics.m)
 * Ejemplo segmentacion de un arroz [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_OneRice.m)
@@ -10,7 +9,7 @@
 * Adquisicion de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Pixels [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Pixels.m)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
-* Video de esta clase [[YouTube]](https://youtu.be/PhaL6ug5LJg)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -24,11 +23,11 @@
 * Sampling (muestreo espacial y de tonos de gris) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ImageSampling.m)
 * Segmentacion simple a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_ColorSegmentation.m)
 ### 1.4 Ejemplo:
-* Video de esta clase [[YouTube]](https://youtu.be/jm_DK5sBlqc)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
 * Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
 * Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 ---
 
 
-Updated on 12-Aug-2021 at 13:35 by Domingo Mery
+Updated on 17-Aug-2021 at 11:26 by Domingo Mery

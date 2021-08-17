@@ -1,7 +1,7 @@
 
 # Capitulo 02: Imagenes en colores
 ### 2.1 Modelos de color:
-* Video de esta clase [[YouTube]](https://youtu.be/FeZnQdgrX9c)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * Segmentacion a color simple (por umbral) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
@@ -10,7 +10,7 @@
 * Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
 * Segmentacion a color usando metodo de paper (Matlab) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
 * Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1008PCfxNSjuvpYSDHg1gRAY9oySIzyYk?usp=sharing)
-* Video de esta clase [[YouTube]](https://youtu.be/YgcsevWlfso)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ### 2.2 Bases de color:
 * Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
 * Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
@@ -33,4 +33,4 @@
 ---
 
 
-Updated on 12-Aug-2021 at 13:35 by Domingo Mery
+Updated on 17-Aug-2021 at 11:26 by Domingo Mery

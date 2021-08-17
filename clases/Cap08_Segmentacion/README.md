@@ -2,7 +2,7 @@
 # Capitulo 08: Segmentacion de imagenes
 ### 8.1 Deteccion de bordes:
 * Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
-* Video de esta clase [[YouTube]](https://youtu.be/MlOV8JIWAjI)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 * Deteccion de bordes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes.pptx)
 * Visualizacion de deteccion de bordes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_EdgeVisualization.m)
@@ -20,13 +20,13 @@
 * Segmentacion con filtros tipo template [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
 ### 8.2 Aplicacion de umbrales:
 * Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
-* Video de esta clase [[YouTube]](https://youtu.be/WJmq1tU5gWA)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
 * Umbral adaptivo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegUmbralAdaptivo.m)
 * Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * Algoritmo MSER [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationMSER.m)
-* Video de esta clase [[YouTube]](https://youtu.be/V94QX4aCglo)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
@@ -37,10 +37,10 @@
 * Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 ### 8.6 Proyecto de curso:
 * Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
-* Video de esta clase [[YouTube]](https://youtu.be/bzOgEnR0glY)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
-* Video de esta clase [[YouTube]](https://youtu.be/2J3WXZvh2Ts)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ---
 
 
-Updated on 12-Aug-2021 at 13:35 by Domingo Mery
+Updated on 17-Aug-2021 at 11:26 by Domingo Mery
