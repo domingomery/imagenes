@@ -4,8 +4,8 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 17-Aug-2021:
-* 0.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 0.1-Programa del Curso (oficial) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
+* 0.1-Video de esta clase [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
+* 0.1-Programa del Curso (Oficial) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
 * 0.1-Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 
@@ -318,4 +318,4 @@
 ---
 
 
-Updated on 17-Aug-2021 at 12:13 by Domingo Mery
+Updated on 17-Aug-2021 at 12:15 by Domingo Mery
