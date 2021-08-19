@@ -1,4 +1,4 @@
-# Tarea 01: Que hora es?
+# Tarea 01: Qué hora es?
 
 ## Enunciado
 El objetivo de esta tarea es realizar de manera individual un programa que determine automáticamente la hora que indica un reloj analógico. En esta [carpeta](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_01/imagenes) se encuentran 6 fotografías del reloj, que deben ser leídas por un programa y procesadas para determinar automáticamente qué hora es, tal y como se muestra en este ejemplo para la primera imagen.
@@ -6,9 +6,11 @@ El objetivo de esta tarea es realizar de manera individual un programa que deter
 <img src="https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_01/ejemplo.jpg" width="600">
 
 
-Se debe realizar un programa que i) encuentre el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) (opcional) realice una corrección geométrica para que el reloj se vea como un círculo, iii) encuentre las dos manecillas principales (para la hora y los minutos), iv) estime el ángulo de las manecillas; y v) calcule la hora indicando el número de la hora y los minutos. La entrada del programa es la imagen, la salida es la hora en formato de dos números enteros (uno para la hora y otro para los minutos). No es necesario determinar el número de segundos.
+Una posible solución para este algoritmo sigue los siguientes pasos: i) encuentrar el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) realizar una corrección geométrica para que el reloj se vea como un círculo, iii) encontrar las dos manecillas principales (para la hora y los minutos), iv) estimar el ángulo de las manecillas; y v) calcular la hora indicando el número de la hora y los minutos. 
 
-El algoritmo debe funcionar correctamente en las imagenes proporcionadas en la carpeta. No es necesario que funcione con otras imágenes o con otros relojes.
+La entrada del programa es la imagen, la salida es la hora en formato de dos números enteros (uno para la hora y otro para los minutos). No es necesario determinar el número de segundos.
+
+IMPORTANTE: El algoritmo debe funcionar correctamente en las imágenes proporcionadas en la carpeta. No es necesario que funcione con otras imágenes o con otros relojes.
 
 ## Fecha de Entrega
 Ver Google Classroom
@@ -29,7 +31,7 @@ Las únicas librerías que se pueden usar son las siguientes 3:
 
 * google.colab.patches (exclusivamente para usar función cv2_imshow que despliega una imagen).
 
-ATENCIÓN: OTRAS LIBRERIAS NO SE PUEDEN USAR.
+ATENCIÓN: LA IMPLEMENTACIÓN DEL ALGORITMO DEBE SER 100% PROPIA, NO SE PERMITE REUTILIZAR CÓDIGO HECHO POR OTRAS PERSONAS. 
 
 
 ## Resultados Obtenidos (30%)
