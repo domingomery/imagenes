@@ -17,13 +17,26 @@ Ver Google Classroom
 En el informe se evalúa calidad del informe, explicaciones, redacción, ortografía. El informe debe ser un PDF de una sola pagina (una cara en Times New Roman, Espacio Simple, Tamaño Carta, Tamaño de Letra 10,11 o 12), con márgenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdótico, sin faltas de ortografía y sin problemas de redacción. El informe debe contener: 1) Motivación: explicar la relevancia de la tarea. 2) Solución propuesta: explicar cada uno de los pasos y haciendo referencia al código. 3) Experimentos realizados: explicar los experimentos, datos y los resultados obtenidos. 5) Conclusiones: mencionar las conclusiones a las que se llego. Ver [Informe Modelo](https://github.com/domingomery/imagenes/blob/master/tareas/TareaModelo.pdf).
 
 ## Solución Propuesta (50%)
-A partir del enunciado, se deberá implementar una solución en Matlab o Python. El código diseñado debe ser debidamente comentado y explicado, por favor sea lo más claro posible para entender su solución, para hacer más fácil la corrección y para obtener mejor nota. Se evalúa la calidad del método, si el diseño es robusto y rápido para el problema dado, si los experimentos diseñados y los datos empleados son adecuados, si el código es entendible, limpio, ordenado y bien comentado.
+A partir del enunciado, se deberá implementar una solución en en Python usando Google Colab. El código diseñado debe ser debidamente comentado y explicado, por favor sea lo más claro posible para entender su solución, para hacer más fácil la corrección y para obtener mejor nota. Se evalúa la calidad del método, si el diseño es robusto y rápido para el problema dado, si los experimentos diseñados y los datos empleados son adecuados, si el código es entendible, limpio, ordenado y bien comentado.
+
+## Restricciones:
+
+Las únicas librerías que se pueden usar son las siguientes 3: 
+
+* numpy
+
+* cv2 (exclusivamente para usar la funcón imread que lee archivos jpg) y 
+
+* google.colab.patches (exclusivamente para usar función cv2_imshow que despliega una imagen).
+
+ATENCIÓN: OTRAS LIBRERIAS NO SE PUEDEN USAR.
+
 
 ## Resultados Obtenidos (30%)
 La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 que indica la mejor precision encontrada en el curso y B una constante calculada de tal forma que el mejor resultado en el curso obtenga C = 1. A se define como (A1+A2+...+A5+A6)/6, donde Ai, la precision en la imagen i, se calcula como (max(0,(10-Mi)/10)+max(0,(3-Hi)/3)/2 con Mi,Hi es el error en minutos y horas respectivamente en la estimación de la Hora. 
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "6xxmqkg"). Los estudiantes del curso deben haber recibido una invitación de Google Classroom al correo que tienen en la UC.
+La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "khcdh57"). Los estudiantes del curso deben haber recibido una invitación de Google Classroom al correo que tienen en la UC.
 
 ## Foro
-Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/5).
+Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/12).
