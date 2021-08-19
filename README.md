@@ -10,7 +10,7 @@
 * 0.1-Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 
 ### Clase 02 Ju. 19-Aug-2021:
-* 1.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 1.1-Video de esta clase [[YouTube]](https://youtu.be/ou1R9UbwP00)
 * 0.1-Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 1.1-Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * 1.1-Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
@@ -315,4 +315,4 @@
 ---
 
 
-Updated on 19-Aug-2021 at 10:56 by Domingo Mery
+Updated on 19-Aug-2021 at 12:53 by Domingo Mery
