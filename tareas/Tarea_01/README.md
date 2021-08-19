@@ -6,7 +6,7 @@ El objetivo de esta tarea es realizar de manera individual un programa que deter
 <img src="https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_01/ejemplo.jpg" width="600">
 
 
-Una posible solución para este algoritmo sigue los siguientes pasos: i) encuentrar el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) realizar una corrección geométrica para que el reloj se vea como un círculo, iii) encontrar las dos manecillas principales (para la hora y los minutos), iv) estimar el ángulo de las manecillas; y v) calcular la hora indicando el número de la hora y los minutos. 
+Una posible solución para este algoritmo sigue los siguientes pasos: i) encontrar el reloj en la imagen (es necesario segmentarlo del fondo y del marco), ii) realizar una corrección geométrica para que el reloj se vea como un círculo, iii) encontrar las dos manecillas principales (para la hora y los minutos), iv) estimar el ángulo de las manecillas; y v) calcular la hora indicando el número de la hora y los minutos. 
 
 La entrada del programa es la imagen, la salida es la hora en formato de dos números enteros (uno para la hora y otro para los minutos). No es necesario determinar el número de segundos.
 
