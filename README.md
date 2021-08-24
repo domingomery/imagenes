@@ -16,7 +16,7 @@
 * 1.1-Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
 
 ### Clase 03 Ma. 24-Aug-2021:
-* 1.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 1.2-Video de esta clase [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 * 1.1-Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * 1.3-Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
 * 1.3-Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
@@ -317,4 +317,4 @@
 ---
 
 
-Updated on 24-Aug-2021 at 11:07 by Domingo Mery
+Updated on 24-Aug-2021 at 12:56 by Domingo Mery
