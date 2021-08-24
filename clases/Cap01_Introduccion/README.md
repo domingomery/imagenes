@@ -19,6 +19,8 @@
 ### 1.3 Adquisicion de imagenes, muestreo y cuantizacion de imagenes:
 * Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
 * Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
+* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
 ### 1.4 Ejemplo:
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
@@ -27,4 +29,4 @@
 ---
 
 
-Updated on 24-Aug-2021 at 11:06 by Domingo Mery
+Updated on 24-Aug-2021 at 11:07 by Domingo Mery

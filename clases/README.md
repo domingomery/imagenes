@@ -22,6 +22,10 @@
 * 1.3-Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
 
 ### Clase 04 Ju. 26-Aug-2021:
+* 1.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 1.3-Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
+
+### Clase 05 Ma. 31-Aug-2021:
 * 1.2-Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -35,8 +39,6 @@
 * 1.4-Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
 * 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
-
-### Clase 05 Ma. 31-Aug-2021:
 * 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
@@ -315,4 +317,4 @@
 ---
 
 
-Updated on 24-Aug-2021 at 11:06 by Domingo Mery
+Updated on 24-Aug-2021 at 11:07 by Domingo Mery
