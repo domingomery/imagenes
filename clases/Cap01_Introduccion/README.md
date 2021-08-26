@@ -20,6 +20,7 @@
 * Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
 * Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
 ### 1.4 Ejemplo:
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -29,4 +30,4 @@
 ---
 
 
-Updated on 24-Aug-2021 at 12:56 by Domingo Mery
+Updated on 26-Aug-2021 at 11:28 by Domingo Mery
