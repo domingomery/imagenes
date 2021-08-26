@@ -5,7 +5,7 @@
 
 ### Clase 01 Ma. 17-Aug-2021:
 * 0.1-Video de esta clase [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
-* 0.1-Programa del Curso (Oficial) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
+* 0.1-Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
 * 0.1-Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 
@@ -22,7 +22,7 @@
 * 1.3-Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
 
 ### Clase 04 Ju. 26-Aug-2021:
-* 1.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 1.3-Video de esta clase [[YouTube]](https://youtu.be/7npN3o3DB30)
 * 1.3-Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * 1.3-Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
 
@@ -318,4 +318,4 @@
 ---
 
 
-Updated on 26-Aug-2021 at 11:28 by Domingo Mery
+Updated on 26-Aug-2021 at 13:22 by Domingo Mery
