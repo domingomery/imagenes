@@ -4,29 +4,30 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 17-Aug-2021:
-* 0.1-Video de esta clase [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
+* 0.1-**Video de esta clase** [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
 * 0.1-Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
 * 0.1-Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 
 ### Clase 02 Ju. 19-Aug-2021:
-* 1.1-Video de esta clase [[YouTube]](https://youtu.be/ou1R9UbwP00)
+* 1.1-**Video de esta clase** [[YouTube]](https://youtu.be/ou1R9UbwP00)
 * 0.1-Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 1.1-Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * 1.1-Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
 
 ### Clase 03 Ma. 24-Aug-2021:
-* 1.2-Video de esta clase [[YouTube]](https://youtu.be/v1g1cb-zYTU)
+* 1.2-**Video de esta clase** [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 * 1.1-Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * 1.3-Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
 * 1.3-Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
 
 ### Clase 04 Ju. 26-Aug-2021:
-* 1.3-Video de esta clase [[YouTube]](https://youtu.be/7npN3o3DB30)
+* 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/7npN3o3DB30)
 * 1.3-Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * 1.3-Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
 
 ### Clase 05 Ma. 31-Aug-2021:
+* 1.2-**Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 1.2-Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * 1.2-Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -36,11 +37,11 @@
 * 1.2-Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
 * 1.2-Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
 * 1.2-Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
-* 1.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 1.4-Trabajo en grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap01_Introduccion/ejercicios)
 * 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+
+### Clase 06 Ju. 02-Sep-2021:
+* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * 3.1-Ejemplos de Transformaciones Geometricas Basicas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoBasics.m)
@@ -51,7 +52,7 @@
 * 3.1-Transformacion Geometrica: Conversion Elipse - Circulo [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Conversion_Elipse_Circulo.pdf)
 * 3.1-Transformacion Geometrica: Conversion Elipse - Circulo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_CorrectClock.m)
 
-### Clase 06 Ju. 02-Sep-2021:
+### Clase 07 Ma. 07-Sep-2021:
 * 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
 * 3.1-Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
@@ -59,8 +60,6 @@
 * 3.1-Look up tables [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_LUT.m)
 * 3.1-Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * 3.1-Ejemplo de ecualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Equalization.m)
-
-### Clase 07 Ma. 07-Sep-2021:
 * 3.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.2-Aritmetica: Promedio de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticAverage.m)
 * 3.2-Aritmetica: Resta de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticSubtraction.m)
@@ -318,4 +317,4 @@
 ---
 
 
-Updated on 26-Aug-2021 at 13:22 by Domingo Mery
+Updated on 30-Aug-2021 at 15:53 by Domingo Mery

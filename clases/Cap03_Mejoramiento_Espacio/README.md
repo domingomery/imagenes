@@ -1,7 +1,7 @@
 
 # Capitulo 03: Mejoramiento de imagenes en el dominio del espacio
 ### 3.1 Transformaciones basicas de niveles de grises e histogramas:
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * Ejemplos de Transformaciones Geometricas Basicas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoBasics.m)
@@ -40,4 +40,4 @@
 ---
 
 
-Updated on 26-Aug-2021 at 13:22 by Domingo Mery
+Updated on 30-Aug-2021 at 15:53 by Domingo Mery

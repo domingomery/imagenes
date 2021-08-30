@@ -1,7 +1,7 @@
 
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
-* Video de esta clase [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
+* **Video de esta clase** [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
 * Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
 * Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
@@ -9,4 +9,4 @@
 ---
 
 
-Updated on 26-Aug-2021 at 13:22 by Domingo Mery
+Updated on 30-Aug-2021 at 15:53 by Domingo Mery
