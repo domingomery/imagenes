@@ -7,7 +7,7 @@
 * Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
 * **Video de esta clase** [[YouTube]](https://youtu.be/v1g1cb-zYTU)
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* **Video de esta clase** [[YouTube]](https://youtu.be/ffj6vZtV5gI)
 * Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=nbwPPcwknPU)
 * Funcionamiento del ojo humano [[Video]](https://www.youtube.com/watch?v=PmD7Tjb6yKo)
@@ -30,4 +30,4 @@
 ---
 
 
-Updated on 31-Aug-2021 at 10:40 by Domingo Mery
+Updated on 31-Aug-2021 at 13:00 by Domingo Mery
