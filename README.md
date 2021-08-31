@@ -37,11 +37,11 @@
 * 1.2-Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
 * 1.2-Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
 * 1.2-Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
-* 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
-* 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 
 ### Clase 06 Ju. 02-Sep-2021:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
+* 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * 3.1-Ejemplos de Transformaciones Geometricas Basicas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoBasics.m)
@@ -308,13 +308,13 @@
 * 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 
 ### Clase 30 Ma. 01-Dec-2020:
-* 8.6-Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
+* 8.6-Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentación-de-avance)
 * 8.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 
 ### Clase 31 Ju. 03-Dec-2020:
-* 8.6-Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentacin-de-avance)
+* 8.6-Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentación-de-avance)
 * 8.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ---
 
 
-Updated on 30-Aug-2021 at 15:53 by Domingo Mery
+Updated on 31-Aug-2021 at 09:13 by Domingo Mery
