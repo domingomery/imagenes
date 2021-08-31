@@ -37,6 +37,7 @@
 * 1.2-Ejemplo de Percepcion 2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_Perception2.m)
 * 1.2-Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
 * 1.2-Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
+* 1.2-Simulacion de ondas [[Link]](https://www.falstad.com/ripple/)
 
 ### Clase 06 Ju. 02-Sep-2021:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -317,4 +318,4 @@
 ---
 
 
-Updated on 31-Aug-2021 at 09:13 by Domingo Mery
+Updated on 31-Aug-2021 at 10:40 by Domingo Mery
