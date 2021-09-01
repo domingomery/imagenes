@@ -4,13 +4,11 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
-* Ejemplos de Transformaciones Geometricas Basicas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoBasics.m)
-* Transformaciones Geometricas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoTransformation.m)
+* Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W?usp=sharing)
 * Interpolacion bilineal [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Interpolation_bilinear.pdf)
 * Interpolacion bilineal (opcional) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
 * Ejercicio de Interpolacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_EjercicioInterpolacion.pdf)
 * Transformacion Geometrica: Conversion Elipse - Circulo [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Conversion_Elipse_Circulo.pdf)
-* Transformacion Geometrica: Conversion Elipse - Circulo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_CorrectClock.m)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
 * Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
@@ -40,4 +38,4 @@
 ---
 
 
-Updated on 31-Aug-2021 at 13:00 by Domingo Mery
+Updated on 01-Sep-2021 at 16:43 by Domingo Mery

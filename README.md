@@ -38,20 +38,18 @@
 * 1.2-Lo ves a color o en blanco y negro? [[Nota periodistica]](https://www.bbc.com/mundo/noticias-49178274)
 * 1.2-Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * 1.2-Simulacion de ondas [[Link]](https://www.falstad.com/ripple/)
+* 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
+* 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 
 ### Clase 06 Ju. 02-Sep-2021:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 1.4-Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
-* 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
-* 3.1-Ejemplos de Transformaciones Geometricas Basicas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoBasics.m)
-* 3.1-Transformaciones Geometricas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_GeoTransformation.m)
+* 3.1-Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W?usp=sharing)
 * 3.1-Interpolacion bilineal [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Interpolation_bilinear.pdf)
 * 3.1-Interpolacion bilineal (opcional) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
 * 3.1-Ejercicio de Interpolacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_EjercicioInterpolacion.pdf)
 * 3.1-Transformacion Geometrica: Conversion Elipse - Circulo [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Conversion_Elipse_Circulo.pdf)
-* 3.1-Transformacion Geometrica: Conversion Elipse - Circulo [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_CorrectClock.m)
 
 ### Clase 07 Ma. 07-Sep-2021:
 * 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -318,4 +316,4 @@
 ---
 
 
-Updated on 31-Aug-2021 at 13:00 by Domingo Mery
+Updated on 01-Sep-2021 at 16:43 by Domingo Mery
