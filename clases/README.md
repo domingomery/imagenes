@@ -42,7 +42,7 @@
 * 1.4-Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 
 ### Clase 06 Ju. 02-Sep-2021:
-* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/othqV7g9ksA)
 * 3.1-Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * 3.1-Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W?usp=sharing)
@@ -316,4 +316,4 @@
 ---
 
 
-Updated on 01-Sep-2021 at 16:43 by Domingo Mery
+Updated on 02-Sep-2021 at 14:07 by Domingo Mery
