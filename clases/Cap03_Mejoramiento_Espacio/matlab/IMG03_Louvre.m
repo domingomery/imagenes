@@ -3,10 +3,13 @@ I = imresize(I,[300 300]);
 close all
 [N,M] = size(I);
 figure
+setw
 imshow(I)
 title('original')
+axis on
 pause
 figure
+setw
 k = 10;
 t = 0;
 while(t<M)
@@ -17,8 +20,10 @@ while(t<M)
     t = t+k;
 end
 title('subsampled rows')
+axis on
 pause
 figure
+setw
 t = 0;
 while(t<N)
     %I(k+1:N,2:2:M) = I(1:N-k,2:2:M);I(1:k,2:2:M) = 256;
@@ -38,3 +43,5 @@ figure
 I(:,2:2:M) = [];
 imshow(I)
 title('removed columns and rows')
+axis on
+
