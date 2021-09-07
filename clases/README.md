@@ -55,22 +55,14 @@
 * 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 3.1-Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
 * 3.1-Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
-* 3.1-Expansion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramExpand.m)
-* 3.1-Look up tables [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_LUT.m)
 * 3.1-Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
-* 3.1-Ejemplo de ecualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Equalization.m)
-* 3.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 3.2-Aritmetica: Promedio de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticAverage.m)
-* 3.2-Aritmetica: Resta de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticSubtraction.m)
-* 3.2-Aritmetica: Multiplicacion de imagenes [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticMult.m)
-* 3.2-Aritmetica: Multiplicacion de imagenes (color) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticColorMult.m)
-* 3.2-Operaciones Boleanas [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_AritmeticLogicOp.m)
-* 3.3-Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_AverageMask.pptx)
-* 3.3-Filtrado con mascara [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_ImageFiltering.pptx)
+* 3.1-Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t?usp=sharing)
+* 3.3-Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
+* 3.3-Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
 
 ### Clase 08 Ju. 09-Sep-2021:
 * 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 3.1-Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap03_Mejoramiento_Espacio/ejercicios)
+* 3.3-Trabajo en Clases 02 [[Colab]](https://colab.research.google.com/drive/16S76bdeZuadijmVpkFIohXKce8k1PQpY?usp=sharing)
 
 ### Clase 09 Ma. 14-Sep-2021:
 * 3.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -316,4 +308,4 @@
 ---
 
 
-Updated on 02-Sep-2021 at 14:07 by Domingo Mery
+Updated on 07-Sep-2021 at 10:58 by Domingo Mery
