@@ -52,7 +52,7 @@
 * 3.1-Transformacion Geometrica: Conversion Elipse - Circulo [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Conversion_Elipse_Circulo.pdf)
 
 ### Clase 07 Ma. 07-Sep-2021:
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 * 3.1-Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
 * 3.1-Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
 * 3.1-Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
@@ -308,4 +308,4 @@
 ---
 
 
-Updated on 07-Sep-2021 at 10:58 by Domingo Mery
+Updated on 07-Sep-2021 at 12:54 by Domingo Mery
