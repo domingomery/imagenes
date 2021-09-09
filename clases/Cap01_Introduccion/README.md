@@ -24,10 +24,11 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/7npN3o3DB30)
 * Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
+* Solucion al Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
 ### 1.4 Ejemplo:
 * Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
 * Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 ---
 
 
-Updated on 07-Sep-2021 at 12:54 by Domingo Mery
+Updated on 09-Sep-2021 at 10:16 by Domingo Mery

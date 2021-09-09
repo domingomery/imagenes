@@ -25,6 +25,7 @@
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/7npN3o3DB30)
 * 1.3-Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * 1.3-Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
+* 1.3-Solucion al Trabajo en Clases 01 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
 
 ### Clase 05 Ma. 31-Aug-2021:
 * 1.2-**Video de esta clase** [[YouTube]](https://youtu.be/ffj6vZtV5gI)
@@ -308,4 +309,4 @@
 ---
 
 
-Updated on 07-Sep-2021 at 12:54 by Domingo Mery
+Updated on 09-Sep-2021 at 10:16 by Domingo Mery
