@@ -62,7 +62,7 @@
 * 3.3-Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
 
 ### Clase 08 Ju. 09-Sep-2021:
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/yJ678uJnldI)
 * 3.3-Trabajo en Clases 02 [[Colab]](https://colab.research.google.com/drive/16S76bdeZuadijmVpkFIohXKce8k1PQpY?usp=sharing)
 
 ### Clase 09 Ma. 14-Sep-2021:
@@ -309,4 +309,4 @@
 ---
 
 
-Updated on 09-Sep-2021 at 10:16 by Domingo Mery
+Updated on 09-Sep-2021 at 12:01 by Domingo Mery
