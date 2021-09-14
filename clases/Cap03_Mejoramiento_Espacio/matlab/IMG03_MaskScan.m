@@ -6,7 +6,7 @@
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
 
-close all
+%close all
 
 % input image
 x = imread('rice.png');
@@ -15,6 +15,7 @@ x(8:10,28:30) = 190;
 x = double(x);
 [N,M] = size(x);
 subplot(1,4,1);subimage(x/256);
+setw
 
 %mask
 p = input('1:average, 2:median, 3:vertical edges, 4:horizontal edges: ');
