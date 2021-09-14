@@ -67,12 +67,10 @@
 
 ### Clase 09 Ma. 14-Sep-2021:
 * 3.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 3.3-Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
+* 3.3-Ejemplos con mascaras [[Colab]](https://colab.research.google.com/drive/1XX675cvJDBDnoHRU3LnPaBs0mR0mjqZP?usp=sharing)
 * 3.3-Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * 3.3-Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
-* 3.3-Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Mask.m)
-* 3.3-Deteccion de bordes con mascaras [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Borders.m)
-* 3.3-Agudizacion con mascaras [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_SharpenMoon.m)
-* 3.3-Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 
 ### Clase 10 Ju. 16-Sep-2021:
 * 4.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -309,4 +307,4 @@
 ---
 
 
-Updated on 13-Sep-2021 at 11:28 by Domingo Mery
+Updated on 14-Sep-2021 at 10:46 by Domingo Mery
