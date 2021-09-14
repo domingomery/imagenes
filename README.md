@@ -64,7 +64,7 @@
 ### Clase 08 Ju. 09-Sep-2021:
 * 3.1-Video de esta clase [[YouTube]](https://youtu.be/yJ678uJnldI)
 * 3.3-Trabajo en Clases 02 [[Colab]](https://colab.research.google.com/drive/16S76bdeZuadijmVpkFIohXKce8k1PQpY?usp=sharing)
-* 3.3-Solucion al Trabajo en Clases 02 [[]](https://colab.research.google.com/drive/14Y-gq9bbT5DwcR4M26EqEuDit1q5WMsQ?usp=sharing)
+* 3.3-Solucion al Trabajo en Clases 02 [[Colab]](https://colab.research.google.com/drive/14Y-gq9bbT5DwcR4M26EqEuDit1q5WMsQ?usp=sharing)
 
 ### Clase 09 Ma. 14-Sep-2021:
 * 3.3-Video de esta clase [[YouTube]](https://www.youtube.com/watch?v=N3DT_uNG5Xc)
@@ -308,4 +308,4 @@
 ---
 
 
-Updated on 14-Sep-2021 at 13:08 by Domingo Mery
+Updated on 14-Sep-2021 at 13:09 by Domingo Mery
