@@ -74,7 +74,7 @@
 * 3.3-Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 
 ### Clase 10 Ju. 16-Sep-2021:
-* 4.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 4.1-Video de esta clase [[YouTube]](https://youtu.be/dfCPJbXlRQE)
 * 4.1-Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FuncionImpulso.pptx)
 * 4.2-Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
 * 4.2-Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
@@ -307,4 +307,4 @@
 ---
 
 
-Updated on 15-Sep-2021 at 19:53 by Domingo Mery
+Updated on 16-Sep-2021 at 12:47 by Domingo Mery
