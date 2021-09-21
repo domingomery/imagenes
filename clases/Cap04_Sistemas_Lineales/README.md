@@ -12,7 +12,7 @@
 * Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
 * Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 ### 4.4 Transformada de Fourier continua y discreta unidimensional y sus propiedades:
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/i9myDWziJ5s)
 * Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
@@ -93,4 +93,4 @@
 ---
 
 
-Updated on 21-Sep-2021 at 08:19 by Domingo Mery
+Updated on 21-Sep-2021 at 12:46 by Domingo Mery

@@ -82,7 +82,7 @@
 * 4.2-Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
 
 ### Clase 11 Ma. 21-Sep-2021:
-* 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/i9myDWziJ5s)
 * 4.4-Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
@@ -311,4 +311,4 @@
 ---
 
 
-Updated on 21-Sep-2021 at 08:19 by Domingo Mery
+Updated on 21-Sep-2021 at 12:46 by Domingo Mery
