@@ -16,6 +16,7 @@
 * Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
+* Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF?usp=sharing)
 * Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
 * Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
 * Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
@@ -92,4 +93,4 @@
 ---
 
 
-Updated on 16-Sep-2021 at 12:47 by Domingo Mery
+Updated on 21-Sep-2021 at 08:19 by Domingo Mery

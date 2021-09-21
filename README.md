@@ -86,11 +86,17 @@
 * 4.4-Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
+* 4.4-Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF?usp=sharing)
 * 4.4-Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
 * 4.4-Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
 * 4.4-Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 
 ### Clase 12 Ju. 23-Sep-2021:
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 3.3-Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1qKE9mcjlDjev8TAWbuMaKtpz-bOgPksU?usp=sharing)
+* 3.3-Solucion al Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
+
+### Clase 13 Ma. 29-Sep-2020:
 * 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
 * 4.4-Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_FiltroIdeal.m)
@@ -101,8 +107,6 @@
 * 4.4-Series de Fourier (complejas) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourierCn.m)
 * 4.4-Series de Fourier (reales) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourier.m)
 * 4.4-Tren de Impulsos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_TrenImpulsos.m)
-
-### Clase 13 Ma. 29-Sep-2020:
 * 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.4-Muestreo de Sinusoide [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoSinusoide.m)
 * 4.4-Muestreo de Audio [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoAudio.m)
@@ -307,4 +311,4 @@
 ---
 
 
-Updated on 16-Sep-2021 at 12:47 by Domingo Mery
+Updated on 21-Sep-2021 at 08:19 by Domingo Mery
