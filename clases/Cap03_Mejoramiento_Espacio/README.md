@@ -15,7 +15,7 @@
 * Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t?usp=sharing)
 * Video de esta clase [[YouTube]](https://youtu.be/yJ678uJnldI)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/QdOhk4hzObk)
 ### 3.2 Mejoramiento empleando operaciones aritmeticas y logicas:
 ### 3.3 Filtros espaciales de suavizacion y agudizacion:
 * Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
@@ -32,4 +32,4 @@
 ---
 
 
-Updated on 21-Sep-2021 at 12:46 by Domingo Mery
+Updated on 23-Sep-2021 at 12:56 by Domingo Mery

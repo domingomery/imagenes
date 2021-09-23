@@ -92,7 +92,7 @@
 * 4.4-Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 
 ### Clase 12 Ju. 23-Sep-2021:
-* 3.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 3.1-Video de esta clase [[YouTube]](https://youtu.be/QdOhk4hzObk)
 * 3.3-Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1qKE9mcjlDjev8TAWbuMaKtpz-bOgPksU?usp=sharing)
 * 3.3-Solucion al Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
 
@@ -311,4 +311,4 @@
 ---
 
 
-Updated on 21-Sep-2021 at 12:46 by Domingo Mery
+Updated on 23-Sep-2021 at 12:56 by Domingo Mery
