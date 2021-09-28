@@ -28,8 +28,8 @@
 * Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1qKE9mcjlDjev8TAWbuMaKtpz-bOgPksU?usp=sharing)
-* Solucion al Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
+* Solucion al Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq?usp=sharing)
 ---
 
 
-Updated on 23-Sep-2021 at 12:56 by Domingo Mery
+Updated on 28-Sep-2021 at 08:40 by Domingo Mery

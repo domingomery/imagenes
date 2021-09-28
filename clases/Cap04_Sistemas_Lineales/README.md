@@ -21,16 +21,14 @@
 * Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
 * Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Fourier 1D - Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pptx)
+* Fourier 1D - Teoria [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pdf)
 * Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
 * Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_FiltroIdeal.m)
-* Ejercicio Transfomada de Fourier 1D (enunciado) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ejercicio.pdf)
-* Ejercicio Transfomada de Fourier 1D (solucion) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Noise.m)
-* Fourier 1D: Teoria [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pdf)
 * Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
 * Series de Fourier (complejas) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourierCn.m)
 * Series de Fourier (reales) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourier.m)
 * Tren de Impulsos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_TrenImpulsos.m)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Muestreo de Sinusoide [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoSinusoide.m)
 * Muestreo de Audio [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoAudio.m)
 * Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
@@ -93,4 +91,4 @@
 ---
 
 
-Updated on 23-Sep-2021 at 12:56 by Domingo Mery
+Updated on 28-Sep-2021 at 08:40 by Domingo Mery
