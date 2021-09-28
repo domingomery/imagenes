@@ -97,7 +97,7 @@
 * 3.3-Solucion al Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq?usp=sharing)
 
 ### Clase 13 Ma. 28-Sep-2021:
-* 4.4-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 4.4-Video de esta clase [[YouTube]](https://youtu.be/Uan_Ifqft5A)
 * 4.4-Fourier 1D - Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pptx)
 * 4.4-Fourier 1D - Teoria [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pdf)
 * 4.4-Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
@@ -309,4 +309,4 @@
 ---
 
 
-Updated on 28-Sep-2021 at 08:40 by Domingo Mery
+Updated on 28-Sep-2021 at 12:50 by Domingo Mery
