@@ -111,7 +111,7 @@
 * 4.4-Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 
 ### Clase 14 Ju. 30-Sep-2021:
-* 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/G4zO53sVGV8)
 * 4.5-Transformada de Fourier 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier_2D.pptx)
 * 4.5-Funcion impulso en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Impulso_2D.pptx)
 * 4.5-Muestreo en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo_2D.pptx)
@@ -313,4 +313,4 @@
 ---
 
 
-Updated on 30-Sep-2021 at 10:44 by Domingo Mery
+Updated on 30-Sep-2021 at 12:55 by Domingo Mery
