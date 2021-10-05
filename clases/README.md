@@ -133,7 +133,7 @@
 ### Clase 15 Ma. 05-Oct-2021:
 * 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.5-Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
-* 4.5-Ejemplo Filtros 2D usando Fourier [[Colab]]()
+* 4.5-Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi?usp=sharing)
 * 4.5-(+) Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Filtros.pptx)
 * 4.3-(+) Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 * 4.5-(+) Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
@@ -146,8 +146,8 @@
 
 ### Clase 16 Ju. 07-Oct-2021:
 * 5.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 5.2-Trabajo en Clases 04 [[Colab]]()
-* 5.3-Solucion al Trabajo en Clases 04 [[Colab]]()
+* 5.2-Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/1HoxqVxclylZgLo5ZxLTMZh1dQZkAxIGS?usp=sharing)
+* 5.3-Solucion al Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
 
 ### Clase 17 Ma. 12-Oct-2021:
 * 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -315,4 +315,4 @@
 ---
 
 
-Updated on 04-Oct-2021 at 18:10 by Domingo Mery
+Updated on 05-Oct-2021 at 10:08 by Domingo Mery
