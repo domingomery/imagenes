@@ -6,6 +6,7 @@
 % http://dmery.ing.puc.cl
 
 clf
+setw
 N = 300;
 i=1:N;
 t = (i-N/2)/(N/10);

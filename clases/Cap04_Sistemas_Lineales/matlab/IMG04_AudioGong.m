@@ -48,6 +48,7 @@ disp('sonido ambos...')
 sound(z,Fs)
 subplot(5,2,5);plot(t,z);axis([0 5 -1.5 1.5])
 subplot(5,2,6);plot(abs(Z(1:N2)));axis([0 N2 0 600])
+setw
 
 
 % eliminacion de gong
@@ -64,6 +65,7 @@ while n>0
     sound(h,Fs);
     subplot(5,2,7);plot(t,h);axis([0 5 -1.5 1.5])
     subplot(5,2,8);plot(abs(H(1:N2)));axis([0 N2 0 600])
+    setw
     n = input('frecuencia para eliminar sonido del gong (0=fin)? ');
 end
 
@@ -78,6 +80,7 @@ while n>0
     sound(h,Fs);
     subplot(5,2,9);plot(t,h);axis([0 5 -1.5 1.5])
     subplot(5,2,10);plot(abs(H(1:N2)));axis([0 N2 0 600])
+    setw
     n = input('frecuencia para eliminar sonido del pajarito (0=fin)? ');
 end
 

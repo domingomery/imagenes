@@ -10,7 +10,7 @@
 X  = imread('rice.png');
 % X  = imread('coins.png'); 
 
-figure(1);clf
+figure(1);clf;setw
 imshow(X,[])
 
 n = size(X,2);
@@ -20,8 +20,8 @@ I = [X;T];
 
 h = zeros(256,1);
 k = 1;
-figure(2);clf
-figure(3);clf
+figure(2);clf;setw
+figure(3);clf;setw
 for t=0:255
     J = imdilate(I==t,ones(3,3));
     h(t+1) = sum2(X==t);
