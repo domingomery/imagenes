@@ -6,14 +6,15 @@
 * (+) Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
 * (+) Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
 * (+) FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/lKJXznOB6WA)
 ### 5.2 Filtros homomorficos:
 * Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/1HoxqVxclylZgLo5ZxLTMZh1dQZkAxIGS?usp=sharing)
 * Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
 * Ejemplo de Filtro Homomorfico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
 ### 5.3 Consideraciones sobre la implementacion de transformadas:
 * Solucion al Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
+* Tarea 02 [[Tarea]](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_02)
 ---
 
 
-Updated on 05-Oct-2021 at 12:40 by Domingo Mery
+Updated on 07-Oct-2021 at 17:34 by Domingo Mery

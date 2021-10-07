@@ -145,9 +145,10 @@
 * 5.1-(+) FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
 
 ### Clase 16 Ju. 07-Oct-2021:
-* 5.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 5.1-Video de esta clase [[YouTube]](https://youtu.be/lKJXznOB6WA)
 * 5.2-Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/1HoxqVxclylZgLo5ZxLTMZh1dQZkAxIGS?usp=sharing)
 * 5.3-Solucion al Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
+* 5.3-Tarea 02 [[Tarea]](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_02)
 
 ### Clase 17 Ma. 12-Oct-2021:
 * 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -315,4 +316,4 @@
 ---
 
 
-Updated on 05-Oct-2021 at 12:40 by Domingo Mery
+Updated on 07-Oct-2021 at 17:34 by Domingo Mery
