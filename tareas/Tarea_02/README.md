@@ -21,4 +21,4 @@ La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 q
 La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "khcdh57"). Los estudiantes del curso deben haber recibido una invitación de Google Classroom al correo que tienen en la UC.
 
 ## Foro
-Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/10).
+Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/13).
