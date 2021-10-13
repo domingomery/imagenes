@@ -15,7 +15,6 @@
 * Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t?usp=sharing)
 * Video de esta clase [[YouTube]](https://youtu.be/yJ678uJnldI)
-* Video de esta clase [[YouTube]](https://youtu.be/QdOhk4hzObk)
 ### 3.2 Mejoramiento empleando operaciones aritmeticas y logicas:
 ### 3.3 Filtros espaciales de suavizacion y agudizacion:
 * Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
@@ -27,9 +26,7 @@
 * Ejemplos con mascaras [[Colab]](https://colab.research.google.com/drive/1XX675cvJDBDnoHRU3LnPaBs0mR0mjqZP?usp=sharing)
 * Ejemplos de filtrado con mascara [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
-* Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1qKE9mcjlDjev8TAWbuMaKtpz-bOgPksU?usp=sharing)
-* Solucion al Trabajo en Clases 03 [[Colab]](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq?usp=sharing)
 ---
 
 
-Updated on 07-Oct-2021 at 17:40 by Domingo Mery
+Updated on 13-Oct-2021 at 19:47 by Domingo Mery

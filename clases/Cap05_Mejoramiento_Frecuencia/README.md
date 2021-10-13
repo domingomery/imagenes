@@ -10,11 +10,11 @@
 ### 5.2 Filtros homomorficos:
 * Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/1HoxqVxclylZgLo5ZxLTMZh1dQZkAxIGS?usp=sharing)
 * Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
-* Ejemplo de Filtro Homomorfico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroHomomorfico.m)
+* Ejemplo de Filtro Homomorfico [[Colab]](https://colab.research.google.com/drive/1wKwqaNt69I7FNl_mJq3wpg0l4xHi-Nit?usp=sharing)
 ### 5.3 Consideraciones sobre la implementacion de transformadas:
-* Solucion al Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/aun-no-disponible)
+* Solucion al Trabajo en Clases 04 [[Colab]](https://colab.research.google.com/drive/1xNVH4-AkpdLOCOesDCJ9AtXKP_Yz6iH8?usp=sharing)
 * Tarea 02 [[Tarea]](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_02)
 ---
 
 
-Updated on 07-Oct-2021 at 17:40 by Domingo Mery
+Updated on 13-Oct-2021 at 19:47 by Domingo Mery
