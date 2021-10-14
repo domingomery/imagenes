@@ -149,20 +149,20 @@
 * 5.3-Tarea 02 [[Tarea]](https://github.com/domingomery/imagenes/tree/master/tareas/Tarea_02)
 
 ### Clase 17 Ju. 14-Oct-2021:
-* 4.5-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 4.5-Video de esta clase [[YouTube]](https://youtu.be/dRo0efWWetw)
 * 4.5-Bloques en 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DBloques.m)
 * 4.4-Efecto aliasing al girar una rueda [[YouTube]](https://youtu.be/VNftf5qLpiA)
 * 5.2-Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
 * 5.2-Ejemplo de Filtro Homomorfico [[Colab]](https://colab.research.google.com/drive/1wKwqaNt69I7FNl_mJq3wpg0l4xHi-Nit?usp=sharing)
 * 4.6-Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
 * 4.6-JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
+
+### Clase 18 Ma. 19-Oct-2021:
+* 4.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.6-Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
 * 4.6-Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
 * 4.6-Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
 * 4.6-Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
-
-### Clase 18 Ma. 19-Oct-2021:
-* 4.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 4.6-Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
 * 4.6-Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
 * 4.6-Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
@@ -300,4 +300,4 @@
 ---
 
 
-Updated on 13-Oct-2021 at 19:48 by Domingo Mery
+Updated on 14-Oct-2021 at 12:47 by Domingo Mery
