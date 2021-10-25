@@ -38,9 +38,8 @@
 ### 8.6 Proyecto de curso:
 * Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentación-de-avance)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* Presentaciones de Avance de Proyecto [[Intrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentación-de-avance)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ---
 
 
-Updated on 14-Oct-2021 at 12:47 by Domingo Mery
+Updated on 25-Oct-2021 at 18:03 by Domingo Mery

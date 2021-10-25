@@ -67,24 +67,7 @@
 ### 4.6 Otras transformadas:
 * Transformada Discreta de Cosenos (DCT) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaDCT.pptx)
 * JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* Ejemplo de Transformada de Gabor [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_GaborBasis.m)
-* Transformada de Gabor [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosGabor.pptx)
-* Transformada de Haar 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_HaarBasis.m)
-* Deteccion de caras usando Haar 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaHaar_ViolaJones.pptx)
-* Ejercicio Transformada Wavelet [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_GuiaWavelets.pdf)
-* Transformada de Wavelet [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Wavelets.pptx)
-* Wavelets - video a [[Video]](https://www.youtube.com/watch?v=QX1-xGVFqmw)
-* Wavelets - video b [[Video]](https://www.youtube.com/watch?v=F7Lg-nFYooU)
-* Wavelets - video c [[Video]](https://www.youtube.com/watch?v=ZnmvUCtUAEE)
-* Wavelets - video d [[Video]](https://www.youtube.com/watch?v=ViZYXxuxUKA)
-* Wavelets - video e [[Video]](https://www.youtube.com/watch?v=DGUuJweHamQ)
-* Wavelets - video f [[Video]](https://www.youtube.com/watch?v=dSi9mLaa-WE&t=462s)
-* Demo de Transformada de Wavelet en Python [[Python]](https://pywavelets.readthedocs.io/en/latest/)
-* Demo de Transformada de Wavelet en Matlab [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_DemoWavelet.m)
-* Ejemplo de Transformada de Wavelet en 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_WaveletExample.m)
-* Ejemplo Basico Wavelet 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_EjemploWavelet2.m)
 ---
 
 
-Updated on 14-Oct-2021 at 12:47 by Domingo Mery
+Updated on 25-Oct-2021 at 18:03 by Domingo Mery
