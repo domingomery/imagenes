@@ -4,16 +4,9 @@
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Motivacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
 * Restauracion con degradacion por movimiento lineal uniforme [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Introduccion.pptx)
-* Ejemplo 'blur' en Santiago [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploSantiago.m)
 * Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestorarion_Paper.pdf)
-* Simulacion de borrosidad [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_blur.m)
-* Ejemplo 'blur' [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_EjemploBlur.pptx)
-* Ejemplo de Restauracion de Imagenes-1 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_minio.m)
-* Ejemplo de Restauracion de Imagenes-2 [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploMinio.m)
-* Degradacion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Degradation_2pixels.m)
-* Ejemplo de restauracion en Python [[Colab]](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o?usp=sharing)
+* Ejemplo de restauracion [[Colab]](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o?usp=sharing)
 * Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
-* Restauracion de Imagenes de movimiento lineal uniforme [[Ejercicio]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_1.pdf)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Ejercicio en clase: ver instrucciones en el video [[MERY9241]](http://www.socrative.com)
 * Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
@@ -34,4 +27,4 @@
 ---
 
 
-Updated on 25-Oct-2021 at 18:03 by Domingo Mery
+Updated on 25-Oct-2021 at 18:07 by Domingo Mery
