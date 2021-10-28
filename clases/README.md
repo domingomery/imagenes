@@ -158,7 +158,7 @@
 * 4.6-JPEG DCT, Discrete Cosine Transform [[Video]](https://www.youtube.com/watch?v=Q2aEzeMDHMA)
 
 ### Clase 18 Ma. 26-Oct-2021:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 * 6.1-Motivacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
 * 6.1-Restauracion con degradacion por movimiento lineal uniforme [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Introduccion.pptx)
 * 6.1-Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestorarion_Paper.pdf)
@@ -166,8 +166,8 @@
 * 6.1-Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
 
 ### Clase 19 Ju. 28-Oct-2021:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 6.1-Ejercicio en clase: ver instrucciones en el video [[MERY9241]](http://www.socrative.com)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/Gm3oEK_kkms)
+* 6.1-Ejercicio en clase (ver instrucciones en video de clases) [[MERY9241]](http://www.socrative.com)
 * 6.1-Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 
 ### Clase 20 Ma. 02-Nov-2021:
@@ -271,4 +271,4 @@
 ---
 
 
-Updated on 25-Oct-2021 at 18:15 by Domingo Mery
+Updated on 28-Oct-2021 at 13:00 by Domingo Mery

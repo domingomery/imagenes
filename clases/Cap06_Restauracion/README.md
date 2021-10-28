@@ -1,14 +1,14 @@
 
 # Capitulo 06: Restauracion de imagenes
 ### 6.1 Modelos de ruido y restauracion en base a modelos:
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 * Motivacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
 * Restauracion con degradacion por movimiento lineal uniforme [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Introduccion.pptx)
 * Restauracion de Imagenes [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestorarion_Paper.pdf)
 * Ejemplo de restauracion [[Colab]](https://colab.research.google.com/drive/1GATlPu6ev4gCQ_YCVBumIxbxWFHZKI2o?usp=sharing)
 * Paper-1 de Restauracion de Imagenes [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* Ejercicio en clase: ver instrucciones en el video [[MERY9241]](http://www.socrative.com)
+* Video de esta clase [[YouTube]](https://youtu.be/Gm3oEK_kkms)
+* Ejercicio en clase (ver instrucciones en video de clases) [[MERY9241]](http://www.socrative.com)
 * Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Solucion al cuestionario de la clase anterior [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
@@ -27,4 +27,4 @@
 ---
 
 
-Updated on 25-Oct-2021 at 18:15 by Domingo Mery
+Updated on 28-Oct-2021 at 13:00 by Domingo Mery
