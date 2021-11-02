@@ -4,25 +4,30 @@
 # Tarea 03: Restauración de imágenes
 
 ## Enunciado
-El objetivo de esta tarea es aprender y aplicar tecnicas de restauracion de imagenes que hayan sido degradadas en procesos simulados y en procesos reales.
+El objetivo de esta tarea es aprender y aplicar técnicas de restauración de imágenes que hayan sido degradadas en procesos tanto simulados como en procesos reales.
 
-**A) Proceso simulado (movimiento vertical)**
+**A) Proceso simulado (movimiento horizontal con aceleración lineal)**
 
-En esta parte de la tarea, se debe realizar 6 pasos:
+El proceso de degradación ha sido producido con un movimiento vertical cuya función de degradación de `n=2m-1` pixeles está definida como:
+
+
+`h = [ 1, 2, 3, ...,   m-1, m, m-1, ..., 3, 2, 1 ]/a`, escogiendo `a` de tal forma que la sumatoria de los elementos de `h` es uno.
+
+En esta parte de la tarea, ese debe realizar 6 pasos:
  
-A-1) Cargar la imagen original (**F**) de M filas: [santiago512.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/santiago512.png)
+A-1) Cargar la imagen original (**F**) de M filas: [parinacota.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/parinacota.png)
 
-A-2) Simular la imagen degarada (**G**) de N filas, usando proceso de degradacion de movimiento vertical de la imagen **F**: 
+A-2) Simular la imagen degarada (**G**) de N filas, usando la función de degradación `h` con de la imagen **F** con una : 
  
- **G** = _FuncionDegradacionVert_(**F**,n) = **HF**, 
+ **G** = _FuncionDegradacionVert_(**F**,h) = **HF**, 
  
- donde **H** es una matriz de N x M y n es el movimiento vertical en pixeles. Para esta simulacion use n=57.
+ donde **H** es una matriz de `N x M`, y `h` es la función de degradación del movimiento vertical definida más arriba. Para esta simulacion use m=17.
 
-A-3) Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020), encontar analiticamente la matriz **A** para este movimiento vertical, tal que 
+A-3) Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-18-ma-26-oct-2021), encontar analiticamente la matriz **A** para este movimiento vertical, tal que 
  
  **F**_*_ = **AG**, 
  
- donde **F**_*_ es la imagen resturada. En esta solucion, utilice una matriz de regularizacion **W** general.
+ donde **F**_*_ es la imagen resturada. En esta solución, utilice una matriz de regularización **W** general.
  
 A-4) Encuentre la imagen restaurada usando el criterio que minimiza la norma de cada columna restaurada. Calcule el error promedio, ERR (*).
 
