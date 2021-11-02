@@ -171,7 +171,7 @@
 * 6.1-Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 
 ### Clase 20 Ma. 02-Nov-2021:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/4O1pvj47RTM)
 * 6.1-Solucion al cuestionario de la clase anterior [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
 * 6.1-Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 
@@ -271,4 +271,4 @@
 ---
 
 
-Updated on 28-Oct-2021 at 13:00 by Domingo Mery
+Updated on 02-Nov-2021 at 12:51 by Domingo Mery
