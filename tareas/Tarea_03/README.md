@@ -44,11 +44,11 @@ A-6) Encuentre la imagen restaurada usando el criterio de minimizar las frecuenc
 
 B-1) Cargar la imagen original (**F**) de pixeles: [tree.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/tree.png).
 
-B-2) Degrade la imagen con la máscara Gaussiana
+B-2) Degrade la imagen con la máscara Gaussiana definida más arriba.
 
-B-3) Diseñe una función llamada `restaura40` para restaurar porciones de 40x40 pixeles de la imagen degradada.
+B-3) Diseñe una función llamada `restaura60` para restaurar porciones de 60x60 pixeles de la imagen degradada.
 
-B-4) Repita el paso anterior barriendo el total de la imagen degradada en porciones de 40x40 para obtener la imagen restaurada total.
+B-4) Repita el paso anterior barriendo el total de la imagen degradada en porciones de 60x60 para obtener la imagen restaurada total.
 
 B-5) Calcule el error promedio usando la definicion (*) del ejercicio A. 
 
