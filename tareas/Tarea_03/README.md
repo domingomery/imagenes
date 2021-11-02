@@ -55,7 +55,7 @@ B-5) Calcule el error promedio usando la definicion (*) del ejercicio A.
 
 **C) Proceso real (lejanía)**
 
- En esta parte de la tarea, se debe restaurar una imagen que fue tomada a una gran distancia, de tal forma que los detalles se perdieron [image_blur.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur.png). Como referencia se cuenta con una imagen sin degradacion, tomada de cerca [image_sharp.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos métodos de restauración distintos (se desea poder leer bien el texto de la foto). Obviamente, la imagen de referencia no podrá ser usada en los algoritmos, pero si puede ser usada como referencia para determinar el proceso de degradación. Esta permitido rotar, escalar o hacer una transformacion de perspectiva de la imagen degradada y/o de la imagen sin degradacion  de manera manual antes de aplicar el algoritmo de restauración. Está permitido el uso de funciones de restauración implementadas en librerías Python, siempre y cuando se entienda bien y se pueda explicar correctamente en el informe.
+ En esta parte de la tarea, se debe restaurar una imagen que fue tomada a una gran distancia, de tal forma que los detalles se perdieron [image_blur.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur.png). Como referencia se cuenta con una imagen sin degradacion, tomada de cerca [image_sharp.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos métodos de restauración distintos (se desea poder leer bien el texto de la foto). Obviamente, la imagen de referencia no podrá ser usada en los algoritmos, pero si puede ser usada como referencia para determinar el proceso de degradación. Esta permitido rotar, escalar o hacer una transformacion de perspectiva de la imagen degradada y/o de la imagen sin degradacion  de manera manual antes de aplicar el algoritmo de restauración. Está permitido el uso de funciones de restauración implementadas en librerías Python, siempre y cuando Ud entienda bien cómo funciona y pueda explicar correctamente en el informe.
 
 
 
@@ -76,4 +76,4 @@ Los resultados seran evaluados de manera subjetiva de acuerdo a la calidad de la
 La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es el "6xxmqkg"). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
 
 ## Foro
-Para dudas, ver el [foro](https://github.com/domingomery/imagenes/issues/11) de esta tarea.
+Para dudas, ver el [foro](https://github.com/domingomery/imagenes/issues/14) de esta tarea.
