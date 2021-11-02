@@ -6,10 +6,9 @@
 ## Enunciado
 El objetivo de esta tarea es aprender y aplicar técnicas de restauración de imágenes que hayan sido degradadas en procesos tanto simulados como en procesos reales.
 
-**A) Proceso simulado (movimiento horizontal con aceleración lineal)**
+**A) Proceso simulado (movimiento vertical con aceleración lineal)**
 
 El proceso de degradación ha sido producido con un movimiento vertical cuya función de degradación de `n=2m-1` pixeles está definida como:
-
 
 `h = [ 1, 2, 3, ...,   m-1, m, m-1, ..., 3, 2, 1 ]/a`, escogiendo `a` de tal forma que la sumatoria de los elementos de `h` es uno.
 
@@ -17,13 +16,13 @@ En esta parte de la tarea, ese debe realizar 6 pasos:
  
 A-1) Cargar la imagen original (**F**) de M filas: [parinacota.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/parinacota.png)
 
-A-2) Simular la imagen degarada (**G**) de N filas, usando la función de degradación `h` con de la imagen **F** con una : 
+A-2) Simular la imagen degaradada (**G**) de N filas, a partir de la imagen **F** y la máscara `h`. Usar una función de este tipo: 
  
  **G** = _FuncionDegradacionVert_(**F**,h) = **HF**, 
  
- donde **H** es una matriz de `N x M`, y `h` es la función de degradación del movimiento vertical definida más arriba. Para esta simulacion use m=17.
+ donde **H** es una matriz de `N x M`, y `h` es la función de degradación del movimiento vertical definida más arriba. Para esta simulación use `m=17`.
 
-A-3) Usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-18-ma-26-oct-2021), encontar analiticamente la matriz **A** para este movimiento vertical, tal que 
+A-3) Usando [el método de regularización visto en clase](https://github.com/domingomery/imagenes#clase-18-ma-26-oct-2021), encontar analíticamente la matriz **A** para este movimiento vertical, tal que 
  
  **F**_*_ = **AG**, 
  
@@ -39,39 +38,29 @@ A-6) Encuentre la imagen restaurada usando el criterio de minimizar las frecuenc
 ( * ) Para estimar el error promedio, ERR, calcule la matriz **E** = | **F** - **F**_*_ | / 255 x 100, y promedie todos sus elementos, donde |x| es el valor absoluto de x.
 
 
-**B) Proceso simulado (desenfoque con mascara promedio)**
+**B) Proceso simulado (desenfoque con máscara Gaussiana)**
 
- En esta parte de la tarea, se debe restaurar una imagen de 64x64 de la luna que fue degradada a partir de una convolucion con una mascara promedio de 5x5 de la siguiente manera:
+ En esta parte de la tarea, se debe restaurar una imagen que fue degradada a partir de una convolución con una máscara Gaussiana de 7x7 [gaussmask7x7.npy](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/gaussmask7x7.npy). Para la solución se debe usar el método de regularización visto en la [clase](https://github.com/domingomery/imagenes#clase-20-ma-02-nov-2021) de la siguiente manera:
 
-B-1) Cargar la imagen original (**F**) de MxM pixeles: [moon64.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/moon64.png), y "columninzar" la imagen **F** en un vector **f** de N^2 elementos. La primera columna de **F** corresponden a los primeros M elementos de **f**, la segunda columna corresponde a los segundos M elementos de **f**, y asi sucesivamente.
- 
-B-2) Simular un proceso de degradacion de masacara promedio: 
- 
- **G** = _FuncionDegradacionMask_(**F**,n), 
- 
- donde nxn es el tamano en pixeles de la mascara promedio **h**, cuyos elementos son h(i,j)=1/n^2, con n=5. El resultado es una imagen de NxN, donde N=M-n+1, ya que solo se toman los elementos de salida en que la mascara completa cubra elementos de **F**. 'Columnizar' **G** en un vector **g** de N^2 elementos.
+B-1) Cargar la imagen original (**F**) de pixeles: [tree.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/tree.png).
 
-B-3) Encuentre la matriz **H** de N^2 x M^2 elementos tal que **g** = **Hf**.
+B-2) Degrade la imagen con la máscara Gaussiana
 
-B-4) Encuentre la restauracion de **g** como el vector **f**_*_  de M^2 elementos, usando [el metodo de regularizacion visto en clase](https://github.com/domingomery/imagenes#clase-19-ma-20-oct-2020) con la matriz de regularizacion **W** = **I**.
+B-3) Diseñe una función llamada `restaura40` para restaurar porciones de 40x40 pixeles de la imagen degradada.
 
-B-5) A partir de **f**_*_ , encuentre la imagen restaurada **F**_*_ de MxM elementos.
+B-4) Repita el paso anterior barriendo el total de la imagen degradada en porciones de 40x40 para obtener la imagen restaurada total.
 
-B-6) Calcule el error promedio usando la definicion (*) del ejercicio A. 
- 
- 
- 
+B-5) Calcule el error promedio usando la definicion (*) del ejercicio A. 
 
 
+**C) Proceso real (lejanía)**
 
-**C) Proceso real (movimiento horizontal)**
-
- En esta parte de la tarea, se debe restaurar una imagen que fue degradada a partir de un movimiento horizontal real [image_blur.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur.png). Como referencia se cuenta con una imagen sin degradacion [image_sharp.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos metodos de restauracion distintos. Obviamente, la imagen de referencia no podra ser usada en los algoritmos, pero si puede ser usada como referencia para determinar el proceso de degradacion. Esta permitido rotar, escalar o hacer una transformacion de perspectiva de la imagen degradada y/o de la imagen sin degradacion  de manera manual antes de aplicar el algoritmo de restauracion. Esta permitido el uso de funciones de restauracion implementadas en librerias de Matlab o Python, siempre y cuando se entienda bien y se pueda explicar correctamente en el informe.
+ En esta parte de la tarea, se debe restaurar una imagen que fue tomada a una gran distancia, de tal forma que los detalles se perdieron [image_blur.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_blur.png). Como referencia se cuenta con una imagen sin degradacion, tomada de cerca [image_sharp.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/image_sharp.png). En esta tarea se debe implementar y probar al menos dos métodos de restauración distintos (se desea poder leer bien el texto de la foto). Obviamente, la imagen de referencia no podrá ser usada en los algoritmos, pero si puede ser usada como referencia para determinar el proceso de degradación. Esta permitido rotar, escalar o hacer una transformacion de perspectiva de la imagen degradada y/o de la imagen sin degradacion  de manera manual antes de aplicar el algoritmo de restauración. Está permitido el uso de funciones de restauración implementadas en librerías Python, siempre y cuando se entienda bien y se pueda explicar correctamente en el informe.
 
 
 
 ## Fecha de Entrega
-Miercoles 11 de Noviembre a las 6:30pm
+Ver calendario de Google Classroom
 
 ## Informe (20%)
 En el informe se evalúa calidad del informe, explicaciones, redacción, ortografía. El informe debe ser un PDF de una sola página (Times New Roman, Espacio Simple, Tamaño Carta, Tamaño de Letra 10,11 ó 12), con márgenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdótico, sin faltas de ortografía y sin problemas de redacción. El informe debe contener: 1) Motivación: explicar la relevancia de la tarea. 2) Solución propuesta: explicar cada uno de los pasos y haciendo referencia al código. 3) Experimentos realizados: explicar los experimetos, datos y los resultados obtenidos. 4) Conclusiones: mencionar las conclusiones a las que se llegó. Ver [Informe Modelo](https://github.com/domingomery/imagenes/blob/master/tareas/TareaModelo.pdf)
