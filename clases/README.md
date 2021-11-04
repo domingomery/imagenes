@@ -176,14 +176,10 @@
 * 6.1-Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 
 ### Clase 21 Ju. 04-Nov-2021:
-* 6.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 6.1-Video de esta clase [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 * 6.1-Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1-Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
-* 6.3-Restauracion de Imagenes (estimacion de movimiento) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_Estimation_n.m)
-* 6.4-Restauracion de Imagenes 2da parte [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Restauracion_parte_2.pdf)
-* 6.4-Ejemplo Matriz Circulante [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploCirculante.m)
-* 6.4-Filtro Wiener [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_WienerFilter.m)
-* 6.4-Ejemplo de deconvolucion [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/matlab/IMG06_EjemploDeconvolution.m)
+* 6.4-Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1FqJdpqbyZoSD60Wzzr5gTGcpqyazCN-1?usp=sharing)
 
 ### Clase 22 Ma. 09-Nov-2021:
 * 7.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -271,4 +267,4 @@
 ---
 
 
-Updated on 02-Nov-2021 at 12:51 by Domingo Mery
+Updated on 04-Nov-2021 at 12:51 by Domingo Mery
