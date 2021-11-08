@@ -184,11 +184,7 @@
 ### Clase 22 Ma. 09-Nov-2021:
 * 7.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 7.1-Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
-* 7.1-Visualizacion de filtros morfologicos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MaskScanMorpho.m)
-* 7.1-Ejemplo relleno [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Growing.m)
-* 7.1-Ejemplos de morfologia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_MorphExamples.m)
-* 7.1-Morfologia: conexiones [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Connected.m)
-* 7.3-Gradiente morfologico [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_GradienteMorfologico.m)
+* 7.1-Ejemplos de morfologia [[Colab]](https://colab.research.google.com/drive/1ibtjuy9wefTFZ4S6bZJWNPBw_rD4Jilo?usp=sharing)
 
 ### Clase 23 Ju. 11-Nov-2021:
 * 7.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -267,4 +263,4 @@
 ---
 
 
-Updated on 04-Nov-2021 at 12:51 by Domingo Mery
+Updated on 08-Nov-2021 at 18:19 by Domingo Mery
