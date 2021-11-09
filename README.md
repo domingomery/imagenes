@@ -182,7 +182,7 @@
 * 6.4-Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1FqJdpqbyZoSD60Wzzr5gTGcpqyazCN-1?usp=sharing)
 
 ### Clase 22 Ma. 09-Nov-2021:
-* 7.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 7.1-Video de esta clase [[YouTube]](https://youtu.be/fn55sMt9vkI)
 * 7.1-Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
 * 7.1-Ejemplos de morfologia [[Colab]](https://colab.research.google.com/drive/1ibtjuy9wefTFZ4S6bZJWNPBw_rD4Jilo?usp=sharing)
 
@@ -263,4 +263,4 @@
 ---
 
 
-Updated on 08-Nov-2021 at 18:19 by Domingo Mery
+Updated on 09-Nov-2021 at 12:52 by Domingo Mery
