@@ -1,7 +1,7 @@
 
 # Capitulo 08: Segmentacion de imagenes
 ### 8.1 Deteccion de bordes:
-* Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
+* Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Trabajo en Grupo [[Ejercicio]](https://github.com/domingomery/imagenes/tree/master/clases/Cap07_Morphologia/ejercicio)
 * Deteccion de bordes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes.pptx)
@@ -19,7 +19,6 @@
 * Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
 * Segmentacion con filtros tipo template [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
 ### 8.2 Aplicacion de umbrales:
-* Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * Algoritmo de Otsu [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationOtsu.m)
@@ -29,6 +28,7 @@
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
+* Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot?usp=sharing)
 * Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * Ejemplo Watershed [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegWatershed.m)
 ### 8.4 Segmentacion basada en cuencas morfologicas:
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 09-Nov-2021 at 12:52 by Domingo Mery
+Updated on 10-Nov-2021 at 18:57 by Domingo Mery

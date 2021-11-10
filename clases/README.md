@@ -188,11 +188,13 @@
 
 ### Clase 23 Ju. 11-Nov-2021:
 * 7.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 7.2-TopHat [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_TopHat.m)
-* 7.2-Mediana [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/matlab/IMG07_Mediana.m)
-* 8.1-Segmentacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentacion.pdf)
+* 7.2-TopHat [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_TopHat.pptx)
+* 7.2-Ejemplo Top Hat [[Colab]](https://colab.research.google.com/drive/1ypaBgxSkLfO3G1R7Juu6lk7-XrSscDOL?usp=sharing)
+* 7.2-Mediana [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Mediana.pptx)
+* 7.2-Ejemplo Mediana [[Colab]](https://colab.research.google.com/drive/1Mq2W2sYdRmGVRKYPUY5awyjQ1LXHajKJ?usp=sharing)
+* 8.1-Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * 8.3-Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
-* 8.2-Ejemplo de Region Growing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegmentationRegGrow.m)
+* 8.3-Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot?usp=sharing)
 
 ### Clase 24 Ma. 16-Nov-2021:
 * 8.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -263,4 +265,4 @@
 ---
 
 
-Updated on 09-Nov-2021 at 12:52 by Domingo Mery
+Updated on 10-Nov-2021 at 18:57 by Domingo Mery

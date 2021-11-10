@@ -1,5 +1,5 @@
 %k = input('rice = 1, frutos = 2: ');
-k = 1;
+k = 2;
 if k==1
     I = imread('rice.png');
     n = 12;
