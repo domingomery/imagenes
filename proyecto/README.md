@@ -16,14 +16,14 @@ En este proyecto hay mucha libertad de que efecto lograr con el filtro, por ejem
 * a partir de dos fotos de una misma persona (con dos expresiones distintas), hacer un video que muestre la transición de una cara a la otra.
 
 
-Se requiere que al menos existan tres filtros genéricos de un grado de dificultad tal que involucre al menos 30 horas de trabajo de cada participante del grupo. Al menos uno de estos filtros debe generar un video 5 segundos o más. Cada filtro dbe funcionar en al menos 5 fotos de caras de distintas personas.
+Se requiere que al menos existan tres filtros genéricos de un grado de dificultad tal que involucre al menos 30 horas de trabajo de cada participante del grupo. Al menos uno de estos filtros debe generar un video 5 segundos o más. Cada filtro debe funcionar en al menos 5 fotos de caras de distintas personas.
 
 Un ejemplo de filtro génerico que le realiza a la cara un maquillaje de payaso (como el del personaje "Joker" en la película "El Huasón") se aprecia en el siguiente diagrama de bloques:
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="1000">
           
 
-Esta permitido usar librerias clásicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
+Está permitido usar librerías clásicas de procesamiento de imágenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 Ver más ejemplos [aquí](https://youtu.be/qVi4Fnm_58M)
 
@@ -31,15 +31,18 @@ Ver más ejemplos [aquí](https://youtu.be/qVi4Fnm_58M)
 Grupos de 3 personas.
 
 ## Fechas de Entrega
-- Lu. 22/Nov 8pm: entrega de propuesta de proyecto (ver detalles en Google Classroon - "Definicion_de_proyecto")
-- Mi. 01/Dic 8pm: presentación de avance, esto es un video (ver detalles en Google Classroon - "Avance_de_Proyecto")
+- Lu. 22/Nov 8pm: entrega de PDF dee Propuesta de Proyecto 
+- Mi. 01/Dic 8pm: entrega de video de Presentación de Avance
 - Ju. 02/Nov 11:30am: se muestran los videos de las presentaciones, los integrantes deben estar presentes para que puedan contestar preguntas.
-
-## Video de presentación dee avance
-Se debe realizar un video de 4 minutos (+/- 10 segundos) que haga un buen resumen del proyecto, debe incluir la motivación, el problema, la solución, los resultados experimentales y las conclusiones.
+- del 06 al 10 de diciembre: Presentación Final
 
 ## Propuesta de Proyecto
-Se debe realizar una pagina en formato PDF en la que se informe cómo piensan hacer el proyecto. Se debe indicar qué pasos van a seguir, qué métodos vistos en clase van a emplear, qué métodos no vistos en clases piensan estudiar, qué experimentos van a hacer y cualquier otro detalle de la solución que piensan implementar. Fecha de entrega: Lu. 22/Nov 8pm
+Se debe realizar una pagina en formato PDF en la que se informe cómo piensan hacer el proyecto. Se debe indicar qué pasos van a seguir, qué métodos vistos en clase van a emplear, qué métodos no vistos en clases piensan estudiar, qué experimentos van a hacer y cualquier otro detalle de la solución que piensan implementar. (ver detalles detalles en Google Classroom - "Definicion_de_proyecto")
+
+
+## Video de Presentación de Avance
+Se debe realizar un video de 4 minutos (+/- 10 segundos) que haga un buen resumen del proyecto, debe incluir la motivación, el problema, la solución, los resultados experimentales y las conclusiones. (ver más detalles en Google Classroom - "Avance_de_Proyecto")
+
 
 ## Presentacion Final
 La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo con el profesor del curso (por zoom). La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
