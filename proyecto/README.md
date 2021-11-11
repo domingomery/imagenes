@@ -27,6 +27,12 @@ Está permitido usar librerías clásicas de procesamiento de imágenes, pero no
 
 Ver más ejemplos [aquí](https://youtu.be/qVi4Fnm_58M)
 
+
+Para construir el mesh de una cara se puede usar el siguiente código:
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vfc71PbQvomZ0d95oTBHNqs5HfNArS7L?usp=sharing) Mesh geométrico de la cara 
+
+
+
 ## Modalidad de Trabajo
 Grupos de 3 personas.
 
@@ -57,7 +63,7 @@ La presentacion tipo powerpoint debe incluir:
 
 3) Metodo propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios como el de este [ejemplo](https://github.com/domingomery/imagenes/blob/master/proyecto/diagram_example.png)), 
 
-4) Resultados obtenidos que muestren los filtros genéricos en
+4) Resultados obtenidos que muestren los filtros genéricos funcionando correctamente
 
 5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
