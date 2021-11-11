@@ -187,7 +187,7 @@
 * 7.1-Ejemplos de morfologia [[Colab]](https://colab.research.google.com/drive/1ibtjuy9wefTFZ4S6bZJWNPBw_rD4Jilo?usp=sharing)
 
 ### Clase 23 Ju. 11-Nov-2021:
-* 7.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 7.2-Video de esta clase [[YouTube]](https://youtu.be/NucG7pwk2aI)
 * 7.2-TopHat [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_TopHat.pptx)
 * 7.2-Ejemplo Top Hat [[Colab]](https://colab.research.google.com/drive/1ypaBgxSkLfO3G1R7Juu6lk7-XrSscDOL?usp=sharing)
 * 7.2-Mediana [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Mediana.pptx)
@@ -265,4 +265,4 @@
 ---
 
 
-Updated on 10-Nov-2021 at 18:57 by Domingo Mery
+Updated on 11-Nov-2021 at 13:01 by Domingo Mery
