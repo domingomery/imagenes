@@ -20,7 +20,7 @@ Se requiere que al menos existan tres filtros genéricos de un grado de dificult
 
 Un ejemplo de filtro génerico que le realiza a la cara un maquillaje de payaso (como el del personaje "Joker" en la película "El Huasón") se aprecia en el siguiente diagrama de bloques:
 
-<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="600">
+<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="1000">
           
 
 Esta permitido usar librerias clásicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
