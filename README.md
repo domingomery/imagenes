@@ -197,7 +197,7 @@
 * 8.3-Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot?usp=sharing)
 
 ### Clase 24 Ma. 16-Nov-2021:
-* 8.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 8.2-Video de esta clase [[YouTube]](https://youtu.be/F5dKux7Laik)
 * 8.2-Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * 8.2-Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * 8.1-Deteccion de bordes (PARTE 1) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_1.pptx)
@@ -259,4 +259,4 @@
 ---
 
 
-Updated on 15-Nov-2021 at 18:36 by Domingo Mery
+Updated on 16-Nov-2021 at 12:38 by Domingo Mery

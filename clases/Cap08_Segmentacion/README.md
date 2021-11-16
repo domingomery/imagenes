@@ -10,7 +10,7 @@
 * Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
 * Segmentacion con filtros tipo template [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
 ### 8.2 Aplicacion de umbrales:
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/F5dKux7Laik)
 * Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1feA4SNDC2UXOPJ1EN52sAuao6C300iPS?usp=sharing)
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 15-Nov-2021 at 18:36 by Domingo Mery
+Updated on 16-Nov-2021 at 12:38 by Domingo Mery
