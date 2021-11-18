@@ -15,7 +15,7 @@
 * Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1feA4SNDC2UXOPJ1EN52sAuao6C300iPS?usp=sharing)
 * Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX?usp=sharing)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 * Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX?usp=sharing)
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 16-Nov-2021 at 12:38 by Domingo Mery
+Updated on 18-Nov-2021 at 13:13 by Domingo Mery

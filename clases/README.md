@@ -205,7 +205,7 @@
 * 8.2-Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX?usp=sharing)
 
 ### Clase 25 Ju. 18-Nov-2021:
-* 8.2-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 8.2-Video de esta clase [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 * 8.1-Deteccion de bordes (PARTE 2) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_2.pptx)
 * 8.2-Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX?usp=sharing)
 * 8.1-Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
@@ -259,4 +259,4 @@
 ---
 
 
-Updated on 16-Nov-2021 at 12:38 by Domingo Mery
+Updated on 18-Nov-2021 at 13:13 by Domingo Mery
