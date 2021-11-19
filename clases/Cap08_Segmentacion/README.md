@@ -8,7 +8,7 @@
 * Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
 * Ejemplo de Transformada de Hough [[Colab]](https://colab.research.google.com/drive/12gRRaaXfI3Prb39dmnClDOVxLtJNuBnQ?usp=sharing)
 * Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
-* Segmentacion con filtros tipo template [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
+* Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
 ### 8.2 Aplicacion de umbrales:
 * Video de esta clase [[YouTube]](https://youtu.be/F5dKux7Laik)
 * Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
@@ -22,7 +22,7 @@
 * Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot?usp=sharing)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
-* Ejemplo Watershed [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegWatershed.m)
+* Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG?usp=sharing)
 ### 8.4 Segmentacion basada en cuencas morfologicas:
 ### 8.5 Uso del movimiento en segmentacion:
 * Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 18-Nov-2021 at 13:13 by Domingo Mery
+Updated on 19-Nov-2021 at 18:14 by Domingo Mery

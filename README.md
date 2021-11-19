@@ -216,8 +216,8 @@
 ### Clase 26 Ma. 23-Nov-2021:
 * 8.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 * 8.3-Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
-* 8.3-Ejemplo Watershed [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegWatershed.m)
-* 8.1-Segmentacion con filtros tipo template [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegFiltering.m)
+* 8.3-Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG?usp=sharing)
+* 8.1-Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
 * 8.5-Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
 * 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
 
@@ -259,4 +259,4 @@
 ---
 
 
-Updated on 18-Nov-2021 at 13:13 by Domingo Mery
+Updated on 19-Nov-2021 at 18:14 by Domingo Mery
