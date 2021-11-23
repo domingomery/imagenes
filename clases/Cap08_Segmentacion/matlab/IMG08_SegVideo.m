@@ -47,7 +47,7 @@ while hasFrame(vidObj)
                 B = F;
                 imshow(log(D+1),[])
             case 3
-                B = alpha*F+(1-alpha)*B;
+                B = alpha*F+(1-alpha)*B; % F is frame in t | B is frame in t-1
                 C = abs(F-B)>70;
                 C = imclose(C, strel('disk', 3, 4) );
                 C = imfill(C,'holes');

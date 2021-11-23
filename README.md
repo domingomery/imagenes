@@ -219,7 +219,7 @@
 * 8.3-Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG?usp=sharing)
 * 8.1-Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
 * 8.5-Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
-* 8.5-Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
+* 8.5-Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g?usp=sharing)
 
 ### Clase 27 Ju. 25-Nov-2021:
 * 2.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -229,11 +229,9 @@
 * 2.1-Segmentacion a color simple (por umbral) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
 * 2.2-Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
 * 2.2-Transformacion de color a gris [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_Color2BWreg.m)
-* 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans.m)
-* 2.1-Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans_segmentation.m)
+* 2.1-Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
 * 2.1-Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
-* 2.1-Segmentacion a color usando metodo de paper (Matlab) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
-* 2.1-Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1008PCfxNSjuvpYSDHg1gRAY9oySIzyYk?usp=sharing)
+* 2.1-Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
 
 ### Clase 28 Ma. 30-Nov-2021:
 * 2.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -259,4 +257,4 @@
 ---
 
 
-Updated on 19-Nov-2021 at 18:14 by Domingo Mery
+Updated on 23-Nov-2021 at 10:48 by Domingo Mery

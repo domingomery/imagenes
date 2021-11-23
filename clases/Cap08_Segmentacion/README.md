@@ -26,7 +26,7 @@
 ### 8.4 Segmentacion basada en cuencas morfologicas:
 ### 8.5 Uso del movimiento en segmentacion:
 * Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
-* Ejemplo de segmentacion de movimiento [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_SegVideo.m)
+* Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g?usp=sharing)
 ### 8.6 Proyecto de curso:
 * Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentación-de-avance)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 19-Nov-2021 at 18:14 by Domingo Mery
+Updated on 23-Nov-2021 at 10:48 by Domingo Mery

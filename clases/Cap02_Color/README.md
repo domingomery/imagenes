@@ -5,11 +5,9 @@
 * Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
 * Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
 * Segmentacion a color simple (por umbral) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
-* Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans.m)
-* Segmentacion a color con k-means [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_kmeans_segmentation.m)
+* Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
 * Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
-* Segmentacion a color usando metodo de paper (Matlab) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorHCISegmentation.m)
-* Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1008PCfxNSjuvpYSDHg1gRAY9oySIzyYk?usp=sharing)
+* Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ### 2.2 Bases de color:
 * Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
@@ -33,4 +31,4 @@
 ---
 
 
-Updated on 19-Nov-2021 at 18:14 by Domingo Mery
+Updated on 23-Nov-2021 at 10:48 by Domingo Mery
