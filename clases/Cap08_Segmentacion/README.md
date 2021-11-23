@@ -20,7 +20,7 @@
 ### 8.3 Segmentacion basada en regiones:
 * Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot?usp=sharing)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 * Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG?usp=sharing)
 ### 8.4 Segmentacion basada en cuencas morfologicas:
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 23-Nov-2021 at 10:48 by Domingo Mery
+Updated on 23-Nov-2021 at 12:26 by Domingo Mery

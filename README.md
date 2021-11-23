@@ -214,7 +214,7 @@
 * 8.1-Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
 
 ### Clase 26 Ma. 23-Nov-2021:
-* 8.3-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 8.3-Video de esta clase [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 * 8.3-Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * 8.3-Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1l4M3pcWWhAzcPG-rIVtCgaQDQ3OuZWCG?usp=sharing)
 * 8.1-Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
@@ -257,4 +257,4 @@
 ---
 
 
-Updated on 23-Nov-2021 at 10:48 by Domingo Mery
+Updated on 23-Nov-2021 at 12:26 by Domingo Mery
