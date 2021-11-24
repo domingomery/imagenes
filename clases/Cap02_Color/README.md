@@ -2,17 +2,13 @@
 # Capitulo 02: Imagenes en colores
 ### 2.1 Modelos de color:
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.m)
-* Visualizacion de imagens Color RGB (GUI) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorRGB.fig)
-* Segmentacion a color simple (por umbral) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSegmentation.m)
 * Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
 * Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
 * Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
 * Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
 ### 2.2 Bases de color:
-* Procesamiento de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
-* Superimposicion de imagenes a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorSuperimposition.m)
-* Transformacion de color a gris [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_Color2BWreg.m)
+* Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
+* Segmentacion de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
 * Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
 * Como se almacenan las imagenes digitales a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
 * Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
@@ -31,4 +27,4 @@
 ---
 
 
-Updated on 23-Nov-2021 at 12:26 by Domingo Mery
+Updated on 24-Nov-2021 at 16:05 by Domingo Mery
