@@ -222,7 +222,7 @@
 * 8.5-Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g?usp=sharing)
 
 ### Clase 27 Ju. 25-Nov-2021:
-* 2.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/dB-KOF10Dvc)
 * 2.2-Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
 * 2.2-Segmentacion de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
 * 2.1-Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
@@ -253,4 +253,4 @@
 ---
 
 
-Updated on 24-Nov-2021 at 16:05 by Domingo Mery
+Updated on 25-Nov-2021 at 12:45 by Domingo Mery

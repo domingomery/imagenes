@@ -1,7 +1,7 @@
 
 # Capitulo 02: Imagenes en colores
 ### 2.1 Modelos de color:
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/dB-KOF10Dvc)
 * Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
 * Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
 * Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
@@ -27,4 +27,4 @@
 ---
 
 
-Updated on 24-Nov-2021 at 16:05 by Domingo Mery
+Updated on 25-Nov-2021 at 12:45 by Domingo Mery
