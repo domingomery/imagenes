@@ -5,17 +5,13 @@
 * Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
 * Paper de segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
 * Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
-* Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* Video de esta clase [[YouTube]](https://youtu.be/3SlAxUdN1xc)
+* Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1ItHrL2qr1h5zhtkVKjN8U5C0v6tADDTW?usp=sharing)
 ### 2.2 Bases de color:
 * Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
 * Segmentacion de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
-* Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
-* Como se almacenan las imagenes digitales a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
 * Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
-* Mejora de imagenes a color (ecualizacion) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
 * Preguntas Frecuentes sobre el Color [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorFAQ.pdf)
-* Despliegue de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorDisplay.m)
-* Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
 ### 2.3 Transformaciones de color:
 * Conversiones de espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColourSpaceConversions.pdf)
 * Capitulo sobre Color (libro Forsyth) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_CapituloColor_Forsyth.pdf)
@@ -27,4 +23,4 @@
 ---
 
 
-Updated on 25-Nov-2021 at 12:45 by Domingo Mery
+Updated on 30-Nov-2021 at 12:53 by Domingo Mery

@@ -230,11 +230,9 @@
 * 2.1-Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
 
 ### Clase 28 Ma. 30-Nov-2021:
-* 2.1-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 2.2-Cambio de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorChange.m)
-* 2.2-Como se almacenan las imagenes digitales a color [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorPalette.m)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 * 2.2-Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
-* 2.2-Mejora de imagenes a color (ecualizacion) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorEnhancement.m)
+* 2.1-Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1ItHrL2qr1h5zhtkVKjN8U5C0v6tADDTW?usp=sharing)
 * 2.2-Preguntas Frecuentes sobre el Color [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorFAQ.pdf)
 * 2.3-Conversiones de espacios de color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColourSpaceConversions.pdf)
 * 2.3-Capitulo sobre Color (libro Forsyth) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_CapituloColor_Forsyth.pdf)
@@ -242,8 +240,6 @@
 * 2.3-La fisica y la sicologia del color (Andrew Hanson) [[YouTube]](https://youtu.be/af78RPi6ayE)
 * 2.3-Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.3-Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
-* 2.2-Despliegue de colores [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/matlab/IMG02_ColorDisplay.m)
-* 2.2-Guia de procesmaiento de Color [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_GuiaProcesamientoColor.pdf)
 * 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 
 ### Clase 29 Ju. 02-Dec-2021:
@@ -253,4 +249,4 @@
 ---
 
 
-Updated on 25-Nov-2021 at 12:45 by Domingo Mery
+Updated on 30-Nov-2021 at 12:53 by Domingo Mery
