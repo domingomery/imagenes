@@ -243,10 +243,9 @@
 * 2.3-Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
 
 ### Clase 29 Ju. 02-Dec-2021:
-* 8.6-Presentaciones de Avance de Proyecto [[Instrucciones]](https://github.com/domingomery/imagenes/tree/master/proyecto#presentación-de-avance)
-* 8.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
-* 8.6-Video de esta clase [[YouTube]](https://youtu.be/pending-clase-aun-no-grabada)
+* 8.6-Video de esta clase [[YouTube]](https://youtu.be/l5d24-cvyGQ)
+* 8.6-Presentaciones de avance (videos individiuales) [[Videos]](https://bit.ly/3G98zRK)
 ---
 
 
-Updated on 30-Nov-2021 at 12:53 by Domingo Mery
+Updated on 02-Dec-2021 at 13:13 by Domingo Mery
