@@ -40,7 +40,7 @@ Grupos de 3 personas.
 - Lu. 22/Nov 8pm: entrega de PDF dee Propuesta de Proyecto 
 - Mi. 01/Dic 8pm: entrega de video de Presentación de Avance
 - Ju. 02/Nov 11:30am: se muestran los videos de las presentaciones, los integrantes deben estar presentes para que puedan contestar preguntas.
-- del 06 al 10 de diciembre: Presentación Final
+- del 10 al 15 de diciembre: Presentación Final
 
 ## Propuesta de Proyecto
 Se debe realizar una pagina en formato PDF en la que se informe cómo piensan hacer el proyecto. Se debe indicar qué pasos van a seguir, qué métodos vistos en clase van a emplear, qué métodos no vistos en clases piensan estudiar, qué experimentos van a hacer y cualquier otro detalle de la solución que piensan implementar. (ver detalles detalles en Google Classroom - "Definicion_de_proyecto")
