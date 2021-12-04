@@ -51,7 +51,7 @@ Se debe realizar un video de 4 minutos (+/- 10 segundos) que haga un buen resume
 
 
 ## Presentacion Final
-La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo con el profesor del curso (por zoom). La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
+La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo con el profesor del curso (usando el mismo zoom del curso - `imagina`). La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
 
 La reunion de 45 minutos consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
@@ -70,6 +70,11 @@ La presentacion tipo powerpoint debe incluir:
 6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos.
 
 En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral. Esto sirve para poner notas individuales a cada integrante del grupo.
+
+
+## Horario de presentaciones
+<img src="https://github.com/domingomery/imagenes/blob/master/proyecto/horario.png" width="600">
+
 
 ## Nota
 La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendra una mejor nota una persona que pruebe e invente metodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola funcion con resultados buenos.
