@@ -1,4 +1,4 @@
-# Fundamentos de Procesamiento de Imagenes
+# Fundamentos-de-Procesamiento-de-Imagenes
 
 ## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
