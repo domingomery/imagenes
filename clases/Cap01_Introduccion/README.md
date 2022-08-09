@@ -1,6 +1,8 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Introduccion al analisis y procesamiento digital de imagenes:
+* PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
+* Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
 * PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
 * Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
@@ -32,4 +34,4 @@
 ---
 
 
-Updated on 09-Aug-2022 at 12:56 by Domingo Mery
+Updated on 09-Aug-2022 at 16:25 by Domingo Mery

@@ -6,9 +6,10 @@
 ### Clase 01 Ju. 11-Aug-2022:
 * 0.1-Programa - Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-PPT - Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
+* 1.1-PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
 * 0.1-Video - Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 * 0.1-Video - Clase grabada (2021): Programa del curso [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
-* 0.1-Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/videos/01_Human_Pixels_Beijing_2008.mp4)
+* 1.1-Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
 
 ### Clase 02 Ma. 16-Aug-2022:
 * 1.1-PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
@@ -261,4 +262,4 @@
 ---
 
 
-Updated on 09-Aug-2022 at 12:56 by Domingo Mery
+Updated on 09-Aug-2022 at 16:25 by Domingo Mery
