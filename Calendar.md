@@ -7,7 +7,7 @@
 
 En la fecha indicada, parte de la clase sera usada para realizar esta actividad. Todas estas actividades (a excepcion de E09) son de caracter individual. La actividad E09 es grupal. La actividad se entrega a mas tardar al dia siguiente a las 9pm. Los Quizzes se contestan en Socrative. Los codigos en Colab y el Plan de Trabajo del Proyecto (PDF de la actividad E09) se deben subir a Canvas.
 
-Ejemplo: La actividad E05 se realiza el martes 20/09 en clases y se entrega el miercoles 21/09 a mas tardar a las 9pm.
+Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el martes 20/09 en clases y se sube a Canvas el miercoles 21/09 a mas tardar a las 9pm.
 
 * Ju.	18-Aug	Trabajo en Clase E01: Quiz Socrative - Adquisicion (individual)		
 * Ju.	25-Aug	Trabajo en Clase E02: Colab - Ejercicio Frutos Rojos (individual)	
