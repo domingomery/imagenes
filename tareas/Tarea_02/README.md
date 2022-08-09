@@ -1,3 +1,7 @@
+=========
+WARNING: VERSION 2021 
+=============================
+
 # Tarea 02: Filtros en el dominio de Fourier
 
 ## Enunciado
