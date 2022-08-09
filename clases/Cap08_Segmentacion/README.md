@@ -27,10 +27,11 @@
 ### 8.5 Uso del movimiento en segmentacion:
 * PPT - Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
 * Colab - Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g?usp=sharing)
+* Socrative - Ejercicio E11 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
 ### 8.6 Proyecto de curso:
 * Video - Presentaciones de avance (videos individiuales) [[Videos]](https://bit.ly/3G98zRK)
 * Video - Clase grabada (2021): Presentaciones de avance [[YouTube]](https://youtu.be/l5d24-cvyGQ)
 ---
 
 
-Updated on 09-Aug-2022 at 11:12 by Domingo Mery
+Updated on 09-Aug-2022 at 12:17 by Domingo Mery

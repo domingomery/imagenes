@@ -3,36 +3,42 @@
 ### 4.1 Respuesta al impulso:
 * PPT - Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FuncionImpulso.pptx)
 * Video - Clase grabada (2021): impulso y convolucion 1D [[YouTube]](https://youtu.be/dfCPJbXlRQE)
+* Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
+* Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
+* PPT - Teoria de la Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales//IMG04_Fourier1D_Teoria.pptx)
+* Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/Uan_Ifqft5A)
 ### 4.2 Convolucion continua y discreta unidimensional y sus propiedades:
 * PPT - Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
-* Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg?usp=sharing)
+* Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
+* Socrative - Ejercicio E04 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/1ohiRMkO4AaTgW9ZWCIyeCaUtG69L5KV2?usp=sharing)
+* Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq?usp=sharing)
 ### 4.3 Convolucion continua y discreta bidimensional y sus propiedades:
 * (+) Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
 * (+) Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 ### 4.4 Transformada de Fourier continua y discreta unidimensional y sus propiedades:
 * PPT - Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
+* Apuntes - Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
+* Colab - Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF?usp=sharing)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
-* Colab - Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF?usp=sharing)
-* Apuntes - Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
 * Matlab - Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 * Matlab - Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
 * Matlab - Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_FiltroIdeal.m)
+* PPT - Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 * Apuntes - Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
 * Matlab - Series de Fourier (complejas) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourierCn.m)
 * Matlab - Series de Fourier (reales) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourier.m)
 * Matlab - Tren de Impulsos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_TrenImpulsos.m)
 * Matlab - Muestreo de Sinusoide [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoSinusoide.m)
 * Matlab - Muestreo de Audio [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoAudio.m)
-* PPT - Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 * (+) Transformada Discreta de Fourier (DFT) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_DFT.pdf)
 * (+) OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
 * (+) Convolucion en 1D usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ConvolucionDiscreta.pptx)
 * (+) Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
-* Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 * (+) Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
 * (+) Material adicional: Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
 * Video - Efecto aliasing al girar una rueda [[YouTube]](https://youtu.be/VNftf5qLpiA)
@@ -54,6 +60,7 @@
 * (+) Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
 * (+) Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
 * (+) Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
+* Socrative - Ejercicio E06 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
 * Video - Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 * PPT - Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * Colab - Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi?usp=sharing)
@@ -70,4 +77,4 @@
 ---
 
 
-Updated on 09-Aug-2022 at 11:12 by Domingo Mery
+Updated on 09-Aug-2022 at 12:17 by Domingo Mery
