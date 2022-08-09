@@ -5,20 +5,22 @@
 
 ## Trabajo en Clases
 
-En la fecha indicada, parte de la clase sera usada para realizar esta actividad de manera individual, se entrega a mas tardar el dia siguiente a las 9pm. Los Quizzes se contestan en Socrative. Los codigos en Colab se deben subir a Canvas. 
+En la fecha indicada, parte de la clase sera usada para realizar esta actividad. Todas estas actividades (a excepcion de E09) son de caracter individual. La actividad E09 es grupal. La actividad se entrega a mas tardar al dia siguiente a las 9pm. Los Quizzes se contestan en Socrative. Los codigos en Colab y el Plan de Trabajo del Proyecto (PDF de la actividad E09) se deben subir a Canvas.
 
-* Ju.	18-Aug	Trabajo en Clase E01: Quiz Socrative - Adquisicion		
-* Ju.	25-Aug	Trabajo en Clase E02: Colab - Ejercicio Frutos Rojos	
-* Ma.	6-Sep	Trabajo en Clase E03: Colab - Filtros, histogramas Tokyo			
-* Ma.	13-Sep	Trabajo en Clase E04: Quiz Socrative - Impulso, Convolucion 1D		
-* Ma.	20-Sep	Trabajo en Clase E05: Colab - Ejercicio Convolucion y Fourier 1D			
-* Ma.	27-Sep	Trabajo en Clase E06: Quiz Socrative - Fourier 2D		
-* Ma.	4-Oct	Trabajo en Clase E07: Colab - Ejercicio Fourier 2D
-* Ma.	18-Oct	Trabajo en Clase E08: Quiz Socrative - Degradacion 2D		
-* Ju.	20-Oct	Trabajo en Clase E09: Plan de Trabajo de Proyecto		
-* Ju.	27-Oct	Trabajo en Clase E10: Quiz Socrative - TopHat, Segmentacion		
-* Ju.	10-Nov	Trabajo en Clase E11: Quiz Socrative - Watershed		
-* Ju.	17-Nov	Trabajo en Clase E12: Quiz Socrative - Espacios de Color		
+Ejemplo: La actividad E05 se realiza el martes 20/09 en clases y se entrega el miercoles 21/09 a mas tardar a las 9pm.
+
+* Ju.	18-Aug	Trabajo en Clase E01: Quiz Socrative - Adquisicion (individual)		
+* Ju.	25-Aug	Trabajo en Clase E02: Colab - Ejercicio Frutos Rojos (individual)	
+* Ma.	6-Sep	Trabajo en Clase E03: Colab - Filtros, histogramas Tokyo (individual)			
+* Ma.	13-Sep	Trabajo en Clase E04: Quiz Socrative - Impulso, Convolucion 1D (individual)		
+* Ma.	20-Sep	Trabajo en Clase E05: Colab - Ejercicio Convolucion y Fourier 1D (individual)			
+* Ma.	27-Sep	Trabajo en Clase E06: Quiz Socrative - Fourier 2D (individual)		
+* Ma.	4-Oct	Trabajo en Clase E07: Colab - Ejercicio Fourier 2D (individual)
+* Ma.	18-Oct	Trabajo en Clase E08: Quiz Socrative - Degradacion 2D(individual)		
+* Ju.	20-Oct	Trabajo en Clase E09: Plan de Trabajo de Proyecto (grupal)		
+* Ju.	27-Oct	Trabajo en Clase E10: Quiz Socrative - TopHat, Segmentacion (individual)		
+* Ju.	10-Nov	Trabajo en Clase E11: Quiz Socrative - Watershed (individual)		
+* Ju.	17-Nov	Trabajo en Clase E12: Quiz Socrative - Espacios de Color (individual)		
 
 
 
