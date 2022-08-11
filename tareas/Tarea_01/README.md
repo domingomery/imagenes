@@ -1,6 +1,3 @@
-=========
-WARNING: VERSION 2021 
-=============================
 
 # Tarea 01: Qué hora es?
 
@@ -17,7 +14,7 @@ La entrada del programa es la imagen, la salida es la hora en formato de dos nú
 IMPORTANTE: El algoritmo debe funcionar correctamente en las imágenes proporcionadas en la carpeta. No es necesario que funcione con otras imágenes o con otros relojes.
 
 ## Fecha de Entrega
-Ver Google Classroom
+Ver Calendario
 
 ## Informe (20%)
 En el informe se evalúa calidad del informe, explicaciones, redacción, ortografía. El informe debe ser un PDF de una sola pagina (una cara en Times New Roman, Espacio Simple, Tamaño Carta, Tamaño de Letra 10,11 o 12), con márgenes razonables. El informe debe estar bien escrito en lenguaje formal, no coloquial ni anecdótico, sin faltas de ortografía y sin problemas de redacción. El informe debe contener: 1) Motivación: explicar la relevancia de la tarea. 2) Solución propuesta: explicar cada uno de los pasos y haciendo referencia al código. 3) Experimentos realizados: explicar los experimentos, datos y los resultados obtenidos. 5) Conclusiones: mencionar las conclusiones a las que se llego. Ver [Informe Modelo](https://github.com/domingomery/imagenes/blob/master/tareas/TareaModelo.pdf).
@@ -45,4 +42,4 @@ La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 q
 La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "khcdh57"). Los estudiantes del curso deben haber recibido una invitación de Google Classroom al correo que tienen en la UC.
 
 ## Foro
-Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/12).
+Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/120).
