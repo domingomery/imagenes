@@ -24,13 +24,15 @@ A partir del enunciado, se deberá implementar una solución en en Python usando
 
 ## Restricciones:
 
-Las únicas librerías que se pueden usar son las siguientes 3: 
+Las únicas librerías que se pueden usar son las siguientes 4: 
 
 * numpy
 
-* cv2 (exclusivamente para usar la funcón imread que lee archivos jpg) y 
+* cv2 (exclusivamente para usar la función imread que lee archivos jpg) y 
 
 * google.colab.patches (exclusivamente para usar función cv2_imshow que despliega una imagen).
+
+* matplotlib para desplegar imagenes y otras gráficas.
 
 ATENCIÓN: LA IMPLEMENTACIÓN DEL ALGORITMO DEBE SER 100% PROPIA, NO SE PERMITE REUTILIZAR CÓDIGO HECHO POR OTRAS PERSONAS. 
 
@@ -39,7 +41,7 @@ ATENCIÓN: LA IMPLEMENTACIÓN DEL ALGORITMO DEBE SER 100% PROPIA, NO SE PERMITE 
 La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 que indica la mejor precision encontrada en el curso y B una constante calculada de tal forma que el mejor resultado en el curso obtenga C = 1. A se define como (A1+A2+...+A5+A6)/6, donde Ai, la precision en la imagen i, se calcula como (max(0,(10-Mi)/10)+max(0,(3-Hi)/3)/2 con Mi,Hi es el error en minutos y horas respectivamente en la estimación de la Hora. 
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "khcdh57"). Los estudiantes del curso deben haber recibido una invitación de Google Classroom al correo que tienen en la UC.
+La tarea deberá subirse usando la plataforma Canvas.
 
 ## Foro
-Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/imagenes/issues/120).
+Hacer comentarios preguntas que se hayan contestado en clases en Canvas.
