@@ -26,8 +26,8 @@
 * Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
 * Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
 * PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
-* Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
-* Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
+* Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
+* Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1JCCryTTgCjr3LOc7vo-BpfOUtcFKkwUV?usp=sharing)
 * Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 ### 1.4 Ejemplo:
 * Apuntes - Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
@@ -35,4 +35,4 @@
 ---
 
 
-Updated on 17-Aug-2022 at 15:00 by Domingo Mery
+Updated on 23-Aug-2022 at 16:43 by Domingo Mery

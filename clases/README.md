@@ -42,8 +42,8 @@
 
 ### Clase 05 Ju. 25-Aug-2022:
 * 1.3-PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
-* 1.3-Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/10r68G48Af5ai-uU4lZ12b7Lbcfbp5MJx?usp=sharing)
-* 1.3-Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
+* 1.3-Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
+* 1.3-Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1JCCryTTgCjr3LOc7vo-BpfOUtcFKkwUV?usp=sharing)
 * 1.3-Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 
 ### Clase 06 Ma. 30-Aug-2022:
@@ -264,4 +264,4 @@
 ---
 
 
-Updated on 17-Aug-2022 at 15:00 by Domingo Mery
+Updated on 23-Aug-2022 at 16:43 by Domingo Mery
