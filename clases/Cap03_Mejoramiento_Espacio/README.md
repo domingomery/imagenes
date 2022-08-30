@@ -2,6 +2,8 @@
 # Capitulo 03: Mejoramiento de imagenes en el dominio del espacio
 ### 3.1 Transformaciones basicas de niveles de grises e histogramas:
 * PPT - Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
+* PPT - Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
+* PPT - Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * Apuntes - Interpolacion bilineal [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Interpolation_bilinear.pdf)
 * Apuntes - Interpolacion bilineal (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
 * Apuntes - Ejercicio de Interpolacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_EjercicioInterpolacion.pdf)
@@ -9,8 +11,7 @@
 * Colab - Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W?usp=sharing)
 * Matlab - Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * Video - Clase grabada (2021): transformaciones geometricas [[YouTube]](https://youtu.be/othqV7g9ksA)
-* PPT - Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
-* PPT - Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
+* Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 * Colab - Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t?usp=sharing)
 * Matlab - Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
 * Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
@@ -30,4 +31,4 @@
 ---
 
 
-Updated on 23-Aug-2022 at 16:43 by Domingo Mery
+Updated on 30-Aug-2022 at 13:42 by Domingo Mery

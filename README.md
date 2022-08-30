@@ -48,6 +48,8 @@
 
 ### Clase 06 Ma. 30-Aug-2022:
 * 3.1-PPT - Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
+* 3.1-PPT - Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
+* 3.1-PPT - Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * 3.1-Apuntes - Interpolacion bilineal [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Interpolation_bilinear.pdf)
 * 3.1-Apuntes - Interpolacion bilineal (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
 * 3.1-Apuntes - Ejercicio de Interpolacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_EjercicioInterpolacion.pdf)
@@ -55,10 +57,9 @@
 * 3.1-Colab - Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W?usp=sharing)
 * 3.1-Matlab - Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * 3.1-Video - Clase grabada (2021): transformaciones geometricas [[YouTube]](https://youtu.be/othqV7g9ksA)
+* 3.1-Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 
 ### Clase 07 Ju. 01-Sep-2022:
-* 3.1-PPT - Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
-* 3.1-PPT - Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * 3.3-PPT - Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
 * 3.3-PPT - Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
 * 3.1-Colab - Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t?usp=sharing)
@@ -264,4 +265,4 @@
 ---
 
 
-Updated on 23-Aug-2022 at 16:43 by Domingo Mery
+Updated on 30-Aug-2022 at 13:42 by Domingo Mery
