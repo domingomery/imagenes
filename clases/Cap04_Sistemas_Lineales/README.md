@@ -12,7 +12,7 @@
 * Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg?usp=sharing)
 * Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
-* Socrative - Ejercicio E04 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E04 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/1ohiRMkO4AaTgW9ZWCIyeCaUtG69L5KV2?usp=sharing)
 * Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq?usp=sharing)
 ### 4.3 Convolucion continua y discreta bidimensional y sus propiedades:
@@ -60,7 +60,7 @@
 * (+) Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
 * (+) Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
 * (+) Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
-* Socrative - Ejercicio E06 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E06 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * Video - Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 * PPT - Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * Colab - Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi?usp=sharing)
@@ -77,4 +77,4 @@
 ---
 
 
-Updated on 30-Aug-2022 at 13:42 by Domingo Mery
+Updated on 13-Sep-2022 at 12:21 by Domingo Mery

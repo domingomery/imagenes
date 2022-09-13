@@ -22,7 +22,7 @@
 * 1.1-PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * 1.3-Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
 * 1.3-Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
-* 1.1-Socrative - Ejercicio E01 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 1.1-Socrative - Ejercicio E01 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 1.2-Video - Clase grabada (2021): adquisicion, sampling, ejemplo [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 
 ### Clase 04 Ma. 23-Aug-2022:
@@ -84,7 +84,7 @@
 * 4.2-Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg?usp=sharing)
 * 4.2-Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * 4.2-Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
-* 4.2-Socrative - Ejercicio E04 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 4.2-Socrative - Ejercicio E04 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 4.1-Video - Clase grabada (2021): impulso y convolucion 1D [[YouTube]](https://youtu.be/dfCPJbXlRQE)
 
 ### Clase 11 Ju. 15-Sep-2022:
@@ -140,7 +140,7 @@
 * 4.5-(+) Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
 * 4.5-(+) Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
 * 4.5-(+) Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
-* 4.5-Socrative - Ejercicio E06 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 4.5-Socrative - Ejercicio E06 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 4.5-Video - Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 
 ### Clase 15 Ju. 29-Sep-2022:
@@ -186,7 +186,7 @@
 
 ### Clase 20 Ma. 18-Oct-2022:
 * 6.1-PPT - Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
-* 6.1-Socrative - Ejercicio E08 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 6.1-Socrative - Ejercicio E08 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 6.1-Video - Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 
 ### Clase 21 Ju. 20-Oct-2022:
@@ -208,7 +208,7 @@
 * 8.1-PPT - Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * 8.3-PPT - Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * 8.3-Colab - Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1lIWN2yGNcfNbgpp5X-GscwBOUTncexot?usp=sharing)
-* 3.3-Socrative - Ejercicio E10 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 3.3-Socrative - Ejercicio E10 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 7.2-Video - Clase grabada (2021): Mediana, TopHat, Segmentacion [[YouTube]](https://youtu.be/NucG7pwk2aI)
 
 ### Clase 24 Ju. 03-Nov-2022:
@@ -234,7 +234,7 @@
 * 8.1-PPT - Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
 * 8.5-PPT - Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
 * 8.5-Colab - Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g?usp=sharing)
-* 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 8.3-Video - Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 
 ### Clase 27 Ma. 15-Nov-2022:
@@ -256,7 +256,7 @@
 * 2.3-Apuntes - Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.3-Apuntes - Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
 * 2.3-PPT - Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
-* 2.3-Socrative - Ejercicio E12 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* 2.3-Socrative - Ejercicio E12 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 2.1-Video - Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 
 ### Clase 29 Ma. 22-Nov-2022:
@@ -265,4 +265,4 @@
 ---
 
 
-Updated on 30-Aug-2022 at 13:42 by Domingo Mery
+Updated on 13-Sep-2022 at 12:21 by Domingo Mery

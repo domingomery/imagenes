@@ -8,7 +8,7 @@
 * Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
 * Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
 * PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
-* Socrative - Ejercicio E01 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E01 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
 * Video - Clase grabada (2021): adquisicion, sampling, ejemplo [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 * PPT - Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
@@ -35,4 +35,4 @@
 ---
 
 
-Updated on 30-Aug-2022 at 13:42 by Domingo Mery
+Updated on 13-Sep-2022 at 12:20 by Domingo Mery

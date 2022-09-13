@@ -10,7 +10,7 @@
 * Video - Clase grabada (2021): Restauracion [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 * Proyecto - Definicion [[Proyecto]](https://github.com/domingomery/imagenes/tree/master/proyecto)
 * PPT - Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
-* Socrative - Ejercicio E08 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E08 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * Video - Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 * PPT - Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * PPT - Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
@@ -22,4 +22,4 @@
 ---
 
 
-Updated on 30-Aug-2022 at 13:42 by Domingo Mery
+Updated on 13-Sep-2022 at 12:21 by Domingo Mery

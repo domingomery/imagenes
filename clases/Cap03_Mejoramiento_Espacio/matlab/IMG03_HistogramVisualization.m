@@ -8,6 +8,15 @@
 % close all
 % X  = imread('X1.png');
 X  = imread('rice.png');
+
+X = double(X);
+for i=1:256
+    X(i,:) = X(i,:) - min(X(i,:));
+end
+X = uint8(X);
+X = Bim_lin(X);
+
+
 % X  = imread('coins.png'); 
 
 figure(1);clf;setw

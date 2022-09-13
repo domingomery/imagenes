@@ -27,8 +27,8 @@
 * Matlab - Ejemplos de filtrado con mascara (kernels) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * Video - Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 * Video - Clase grabada (2021): mascaras [[YouTube]](https://www.youtube.com/watch?v=N3DT_uNG5Xc)
-* Socrative - Ejercicio E10 (ROOM = IMAGENES) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E10 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 ---
 
 
-Updated on 30-Aug-2022 at 13:42 by Domingo Mery
+Updated on 13-Sep-2022 at 12:21 by Domingo Mery
