@@ -81,6 +81,7 @@
 ### Clase 10 Ma. 13-Sep-2022:
 * 4.1-PPT - Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FuncionImpulso.pptx)
 * 4.2-PPT - Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
+* 4.2-Video - Visualizacion de la convolucion 1D [[YouTube]](https://youtu.be/IOXzLMqcLbg)
 * 4.2-Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg?usp=sharing)
 * 4.2-Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * 4.2-Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
@@ -265,4 +266,4 @@
 ---
 
 
-Updated on 13-Sep-2022 at 12:21 by Domingo Mery
+Updated on 22-Sep-2022 at 11:07 by Domingo Mery
