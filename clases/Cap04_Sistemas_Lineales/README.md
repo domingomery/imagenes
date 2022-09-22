@@ -5,7 +5,7 @@
 * Video - Clase grabada (2021): impulso y convolucion 1D [[YouTube]](https://youtu.be/dfCPJbXlRQE)
 * Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 * Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
-* PPT - Teoria de la Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales//IMG04_Fourier1D_Teoria.pptx)
+* PPT - Teoria de la Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pptx)
 * Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/Uan_Ifqft5A)
 ### 4.2 Convolucion continua y discreta unidimensional y sus propiedades:
 * PPT - Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
@@ -78,4 +78,4 @@
 ---
 
 
-Updated on 22-Sep-2022 at 11:07 by Domingo Mery
+Updated on 22-Sep-2022 at 14:14 by Domingo Mery

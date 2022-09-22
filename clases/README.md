@@ -106,7 +106,7 @@
 * 4.1-Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
 ### Clase 13 Ju. 22-Sep-2022:
-* 4.1-PPT - Teoria de la Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales//IMG04_Fourier1D_Teoria.pptx)
+* 4.1-PPT - Teoria de la Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pptx)
 * 4.4-PPT - Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 * 4.4-Apuntes - Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
 * 4.4-Matlab - Series de Fourier (complejas) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourierCn.m)
@@ -266,4 +266,4 @@
 ---
 
 
-Updated on 22-Sep-2022 at 11:07 by Domingo Mery
+Updated on 22-Sep-2022 at 14:14 by Domingo Mery
