@@ -141,13 +141,12 @@
 * 4.5-(+) Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
 * 4.5-(+) Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
 * 4.5-(+) Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
-* 4.5-Socrative - Ejercicio E06 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 4.5-Video - Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 
 ### Clase 15 Ju. 29-Sep-2022:
 * 4.5-PPT - Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * 4.5-Colab - Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi?usp=sharing)
-* 4.5-(+) Filtros en 2D en el dominio de frecuencia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Filtros.pptx)
+* 4.5-Socrative - Ejercicio E06 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * 4.3-(+) Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 * 4.5-(+) Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
 * 4.5-(+) Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FFTSHIFT_Filtros2D.pdf)
@@ -266,4 +265,4 @@
 ---
 
 
-Updated on 22-Sep-2022 at 14:14 by Domingo Mery
+Updated on 29-Sep-2022 at 12:20 by Domingo Mery

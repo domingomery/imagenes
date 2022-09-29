@@ -14,7 +14,7 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 * Ma.	06-Sep	Trabajo en Clase E03: Colab - Filtros, histogramas Tokyo (individual)			
 * Ma.	13-Sep	Trabajo en Clase E04: Quiz Socrative - Impulso, Convolucion 1D (individual)		
 * Ma.	20-Sep	Trabajo en Clase E05: Colab - Ejercicio Convolucion y Fourier 1D (individual)			
-* Ma.	27-Sep	Trabajo en Clase E06: Quiz Socrative - Fourier 2D (individual)		
+* Ma.	29-Sep	Trabajo en Clase E06: Quiz Socrative - Fourier 2D (individual)		
 * Ma.	04-Oct	Trabajo en Clase E07: Colab - Ejercicio Fourier 2D (individual)
 * Ma.	18-Oct	Trabajo en Clase E08: Quiz Socrative - Degradacion 2D(individual)		
 * Ju.	20-Oct	Trabajo en Clase E09: Plan de Trabajo de Proyecto (grupal)		
@@ -29,7 +29,7 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 El codigo de la tarea se sube a Canvas a mas tardar a las 9pm de la fecha indicada. 
 
 * Ju.	01-Sep	Tarea 01: Lectura reloj analogico
-* Vi.	07-Oct	Tarea 02: Filtros 2D usando Fourier
+* Vi.	12-Oct	Tarea 02: Filtros 2D usando Fourier
 * Ju.	03-Nov	Tarea 03: Restauracion de imagenes
 
 ## Proyecto
