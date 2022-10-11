@@ -1,11 +1,11 @@
-# Proyecto: Segmentacion de Lunares
+# Proyecto: Segmentacion de Pulmones
 
 ## Enunciado
-El objetivo de este proyecto es segmentar el lunar que esta presente en una imagen dermatoscopica de la base de datos HAM10000(*). La segmentación consiste en encontrar la imagen binaria que contiene el lunar.
+El objetivo de este proyecto es segmentar los pulmones que estan presentes en una radioografia de la base de datos Shenzhen. La segmentación consiste en encontrar la imagen binaria que contiene el lunar.
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="600">
           
-Para este proyecto se debe probar el metodo propuesto en las 50 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/images). Una visualizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
+Para este proyecto se debe probar el metodo propuesto en las 50 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/project). Una visualizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/examples.png" width="600">
 
