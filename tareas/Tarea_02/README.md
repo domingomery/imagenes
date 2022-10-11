@@ -22,7 +22,7 @@ A partir del enunciado, se debera implementar una solución en Matlab o Python. 
 La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 que indica el valor 1- ErrorPromedio (el profesor dispone de las imagenes originales sin ruido) y B una constante calculada de tal forma que el mejor resultado en el curso obtenga C = 1.
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es "khcdh57"). Los estudiantes del curso deben haber recibido una invitación de Google Classroom al correo que tienen en la UC.
+La tarea deberá subirse a CANVAS.
 
 ## Foro
 Hacer comentarios preguntas que se hayan contestado en clases en el foro de canvas
