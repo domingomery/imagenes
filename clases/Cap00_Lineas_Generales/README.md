@@ -6,7 +6,8 @@
 * Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * Video - Video de todas las clases del 2020 [[YouTube]](https://youtube.com/playlist?list=PLilWJnCHHGl2MECnUo0REYid7ZB7jNiHd)
 * Video - Clase grabada (2021): Programa del curso [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
+* Proyecto - Definicion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG_Proyecto.pptx)
 ---
 
 
-Updated on 29-Sep-2022 at 12:20 by Domingo Mery
+Updated on 13-Oct-2022 at 11:27 by Domingo Mery

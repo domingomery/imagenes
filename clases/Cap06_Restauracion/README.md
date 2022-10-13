@@ -9,6 +9,7 @@
 * PPT - Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 * Video - Clase grabada (2021): Restauracion [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 * Proyecto - Definicion [[Proyecto]](https://github.com/domingomery/imagenes/tree/master/proyecto)
+* Colab - Funciones para el proyecto [[Colab]](https://colab.research.google.com/drive/12qasCr92sDi9AiUQU3iR3BjlQ0wCunhJ?usp=sharing)
 * PPT - Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 * Socrative - Ejercicio E08 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
 * Video - Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
@@ -22,4 +23,4 @@
 ---
 
 
-Updated on 29-Sep-2022 at 12:20 by Domingo Mery
+Updated on 13-Oct-2022 at 11:27 by Domingo Mery

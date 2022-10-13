@@ -183,6 +183,8 @@
 
 ### Clase 19 Ju. 13-Oct-2022:
 * 6.1-Proyecto - Definicion [[Proyecto]](https://github.com/domingomery/imagenes/tree/master/proyecto)
+* 0.1-Proyecto - Definicion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG_Proyecto.pptx)
+* 6.1-Colab - Funciones para el proyecto [[Colab]](https://colab.research.google.com/drive/12qasCr92sDi9AiUQU3iR3BjlQ0wCunhJ?usp=sharing)
 
 ### Clase 20 Ma. 18-Oct-2022:
 * 6.1-PPT - Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
@@ -265,4 +267,4 @@
 ---
 
 
-Updated on 29-Sep-2022 at 12:20 by Domingo Mery
+Updated on 13-Oct-2022 at 11:27 by Domingo Mery
