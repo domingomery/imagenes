@@ -25,7 +25,7 @@ F1 = 2xTP / (2xTP + FP + FN)
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 ## Modalidad de Trabajo
-Grupos de 4 personas.
+Grupos de 4 personas
 
 
 ## Idea del Proyecto
