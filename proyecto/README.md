@@ -5,16 +5,16 @@ El objetivo de este proyecto es segmentar los pulmones que están presentes en u
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="600">
           
-Para este proyecto se debe probar el metodo propuesto en las 50 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/project). Una visualizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
+Para este proyecto se debe probar el metodo propuesto en las 40 imagenes con sus correspondientes segementaciones ideales disponibles en esta [carpeta](https://github.com/domingomery/imagenes/tree/master/proyecto/project). Una visualizacion de algunas de las imagenes y sus segmentaciones ideales se muestran a continuacion:
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/examples.png" width="600">
 
 El algoritmo disenado debe entregar una imagen binaria, y a la vez debe compararse con la segmentacion ideal entregando por imagen los valores:
 
-* TP (true positives): numero de pixeles pertenecientes al lunar correctamente segmentados
-* TN (true negatives): numero de pixeles pertenecientes al fondo (piel) correctamente segmentados
-* FP (false positives): numero de pixeles pertenecientes al fondo (piel) segmentados como lunar
-* FN (false negatives): numero de pixeles pertenecientes al lunar segmentados como fondo (piel)
+* TP (true positives): número de pixeles pertenecientes a los pulmones correctamente segmentados
+* TN (true negatives): número de pixeles pertenecientes al fondo (no-pulmón) correctamente segmentados
+* FP (false positives): número de pixeles pertenecientes al fondo (no-pulmón) segmentados como pulmón
+* FN (false negatives): número de pixeles pertenecientes a pulmones segmentados como no-pulmón
 
 Asimismo, se debe calcular el TPR (tasa de true positives) y el FPR (tasa de false positives) definidos respectivamente como TP/(TP+FN) y FP/(FP+TN), que idealmente deben ser 100% y 0%. 
 
@@ -25,12 +25,12 @@ F1 = 2xTP / (2xTP + FP + FN)
 Esta permitido usar librerias clasicas de procesamiento de imagenes, pero no de machine learning. Todo lo que se use deben saber explicarlo.
 
 ## Modalidad de Trabajo
-Grupos de 3 personas.
+Grupos de 4 personas.
 
 
 ## Idea del Proyecto
 
-Se debe enviar por mail a domingo.mery@uc.cl una pagina en formato PDF en la que se informe cómo piensan hacer el proyecto. Se debe indicar qué pasos van a seguir, qué métodos vistos en clase van a emplear, qué métodos no vistos en clases piensan estudiar, qué experimentos van a hacer y cualquier otro detalle de la solución que piensan implementar. Fecha de entrega: 24/11 a las 6:30pm
+Se debe subir a CANVAS una pagina en formato PDF en la que se informe cómo piensan hacer el proyecto, esto corresponde al trabajo en clases E09 (ver [fecha de entrega](https://github.com/domingomery/imagenes/blob/master/Calendar.md)). Se debe indicar qué pasos van a seguir, qué métodos vistos en clase van a emplear, qué métodos no vistos en clases piensan estudiar, qué experimentos van a hacer y cualquier otro detalle de la solución que piensan implementar. Fecha de entrega: 21/10 a las 9pm
 
 ## Presentación de Avance
 
