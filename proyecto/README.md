@@ -1,7 +1,7 @@
 # Proyecto: Segmentacion de Pulmones
 
 ## Enunciado
-El objetivo de este proyecto es segmentar los pulmones que estan presentes en una radioografia de la base de datos Shenzhen. La segmentación consiste en encontrar la imagen binaria que contiene el lunar.
+El objetivo de este proyecto es segmentar los pulmones que están presentes en una radiografia de la base de datos [Shenzhen](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/). Para este proyecto se han seleccionado sólo 40 radiografías de la base de datos original. La segmentación consiste en encontrar la imagen binaria que contiene los pulmones.
 
 <img src="https://github.com/domingomery/imagenes/blob/master/proyecto/diagram.png" width="600">
           
