@@ -35,7 +35,11 @@ El codigo de la tarea se sube a Canvas a mas tardar a las 9pm de la fecha indica
 ## Proyecto
 
 
-* Ma.	22-Nov	Avance de Proyecto: Se sube un video a Canvas de 5:00 minutos exactos por grupo a mas tardar a las 10am de la fecha indicada. Los videos se presentan en la clase del dia indicado. Todos los integrantes del grupo deben estar presente.
+* Lu. 17-Oct (9PM): Formación de grupos en Canvas
+
+* Plan de Trabajo: Ver E09 (más arriba)
+
+* Ma.	22-Nov (10AM)	Avance de Proyecto: Ver [indicaciones](https://github.com/domingomery/imagenes/tree/master/proyecto)
 
 
 * a partir de 01-Dec: Presentacion Final (coordinar horario con profesor del curso)
