@@ -1,7 +1,7 @@
 F = double(rgb2gray(imread('saturn.png')));
 F = imresize(F,0.25);
 h = fspecial('gaussian',35,4);
-
+    
 %h = ones(17,17)/17/17;
 G = conv2(F,h);
 [n,m] = size(G);
