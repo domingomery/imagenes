@@ -1,5 +1,5 @@
 =========
-WARNING: VERSION 2022
+VERSION 2022
 =============================
 
 
@@ -9,7 +9,7 @@ WARNING: VERSION 2022
 ## Enunciado
 El objetivo de esta tarea es aprender y aplicar técnicas de restauración de imágenes que hayan sido degradadas en procesos tanto simulados como en procesos reales.
 
-**A) Proceso simulado (movimiento vertical con aceleración lineal)**
+**A) Proceso simulado (movimiento horizontal con aceleración lineal)**
 
 El proceso de degradación ha sido producido con un movimiento horizontal cuya función de degradación de `n` pixeles está definida como:
 
@@ -23,7 +23,7 @@ A-2) Simular la imagen degaradada (**G**) de N columnas, a partir de la imagen *
  
  **G** = _FuncionDegradacionAcelHorizontal_(**F**,h) = **FH**, 
  
- donde **H** es una matriz de `M x N`, y `h` es la función de degradación del movimiento vertical definida más arriba. Para esta simulación use `n=19`.
+ donde **H** es una matriz de `M x N`, y `h` es la función de degradación del movimiento hoorizontal definida más arriba. Para esta simulación use `n=19`.
 
 A-3) Usando [el método de regularización visto en clase](https://github.com/domingomery/imagenes#clase-18-ma-11-oct-2022), encontar analíticamente la matriz **A** para este movimiento horizontal, tal que 
  
