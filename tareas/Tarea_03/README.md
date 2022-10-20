@@ -74,7 +74,7 @@ Los resultados seran evaluados de manera subjetiva de acuerdo a la calidad de la
 
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma 'Google Classroom' (código de la clase es el "6xxmqkg"). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+La tarea deberá subirse usando la plataforma CANVAS.
 
 ## Foro
-Para dudas, ver el foor en CANVAS.
+Para dudas, ver el foro en CANVAS.
