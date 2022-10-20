@@ -17,7 +17,7 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 * Ma.	29-Sep	Trabajo en Clase E06: Quiz Socrative - Fourier 2D (individual)		
 * Ma.	04-Oct	Trabajo en Clase E07: Colab - Ejercicio Fourier 2D (individual)
 * Ma.	18-Oct	Trabajo en Clase E08: Quiz Socrative - Degradacion 2D(individual)		
-* Ju.	20-Oct	Trabajo en Clase E09: Plan de Trabajo de Proyecto (grupal)		
+* Ma.	25-Oct	Trabajo en Clase E09: Plan de Trabajo de Proyecto (grupal)		
 * Ju.	27-Oct	Trabajo en Clase E10: Quiz Socrative - TopHat, Segmentacion (individual)		
 * Ju.	10-Nov	Trabajo en Clase E11: Quiz Socrative - Watershed (individual)		
 * Ju.	17-Nov	Trabajo en Clase E12: Quiz Socrative - Espacios de Color (individual)		
