@@ -43,7 +43,7 @@ A-6) Encuentre la imagen restaurada usando el criterio de minimizar las frecuenc
 
 **B) Proceso simulado (desenfoque con máscara Gaussiana)**
 
- En esta parte de la tarea, se debe restaurar una imagen que fue degradada a partir de una convolución con una máscara Gaussiana de 9x9 (calculada con la funcion [gaussiankernel.py](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/gaussiankernel.py) con `sigma = 9`. Para la solución se debe usar el método de regularización visto en la [clase](https://github.com/domingomery/imagenes#clase-20-ma-18-oct-2022) de la siguiente manera:
+ En esta parte de la tarea, se debe restaurar una imagen que fue degradada a partir de una convolución con una máscara Gaussiana de 9x9 (calculada con la funcion [gaussiankernel.py](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/gaussiankernel.py) con `size = 9`. Para la solución se debe usar el método de regularización visto en la [clase](https://github.com/domingomery/imagenes#clase-20-ma-18-oct-2022) de la siguiente manera:
 
 B-1) Cargar la imagen original (**F**) de pixeles: [bote.png](https://github.com/domingomery/imagenes/blob/master/tareas/Tarea_03/bote.png).
 
