@@ -21,7 +21,7 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 * Ju.	10-Nov	Trabajo en Clase E11: Quiz Socrative - Segmentacion (individual)		
 * Ju.	17-Nov	Trabajo en Clase E12: Quiz Socrative - Espacios de Color (individual)		
 
-* Lu.	07-Nov	Trabajo E09: Plan de Trabajo de Proyecto (grupal). Se entrega el lunes 07/Nov a las 9pm por Canvas		
+* Mi.	09-Nov	Trabajo E09: Plan de Trabajo de Proyecto (grupal). Se entrega el miercoles 09/Nov a las 9pm por Canvas		
 
 
 
@@ -32,7 +32,7 @@ El codigo de la tarea se sube a Canvas a mas tardar a las 9pm de la fecha indica
 
 * Ju.	01-Sep	Tarea 01: Lectura reloj analogico
 * Vi.	12-Oct	Tarea 02: Filtros 2D usando Fourier
-* Ju.	03-Nov	Tarea 03: Restauracion de imagenes
+* Lu.	07-Nov	Tarea 03: Restauracion de imagenes
 
 ## Proyecto
 
@@ -48,4 +48,4 @@ El codigo de la tarea se sube a Canvas a mas tardar a las 9pm de la fecha indica
 
 
 
-Updated on 08-Aug-2022 at 14:41 by Domingo Mery
+Updated on 08-Nov-2022 at 10:05 by Domingo Mery
