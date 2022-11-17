@@ -41,7 +41,7 @@ El codigo de la tarea se sube a Canvas a mas tardar a las 9pm de la fecha indica
 
 * Plan de Trabajo: Ver E09 (más arriba)
 
-* Ma.	22-Nov (10AM)	Avance de Proyecto: Ver [indicaciones](https://github.com/domingomery/imagenes/tree/master/proyecto)
+* Ju.	24-Nov (10AM)	Avance de Proyecto: Ver [indicaciones](https://github.com/domingomery/imagenes/tree/master/proyecto)
 
 
 * a partir de 01-Dec: Presentacion Final (coordinar horario con profesor del curso)
