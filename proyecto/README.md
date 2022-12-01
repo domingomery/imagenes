@@ -68,7 +68,7 @@ F1 = 2xTP / (2xTP + FP + FN)
 
 5) Conclusiones (que funciona bien, que funciona mal, que se puede mejorar, dificultades, trabajo futuro, que se aprendio, etc.) y 
 
-6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. Adicionalmente, deben realizar la segmentacion en 5 imagenes nuevas de lunares (muy similares a la de esta base de datos de 40) que el profesor proporcionara en el momento de la demo. Para la evaluacion de estas 5 imagenes se cuenta tambien con la segmentacion ideal, que sera usada para que calculen el TPR, FPR y F1. 
+6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien que van a mostrar con buenos experimentos. 
 
 En la presentacion habra preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (examen oral). Esto me servira para poner notas individuales a cada integrante del grupo.
 
