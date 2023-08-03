@@ -8,11 +8,11 @@
 * Apuntes - Interpolacion bilineal (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
 * Apuntes - Ejercicio de Interpolacion [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_EjercicioInterpolacion.pdf)
 * Apuntes - Transformacion Geometrica: Conversion Elipse - Circulo [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Conversion_Elipse_Circulo.pdf)
-* Colab - Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1sbzpUNohMvIL7mFV4S_u_foEq43eJX5W?usp=sharing)
+* Colab - Ejemplo de Transformacion Geometrica [[Colab]](https://colab.research.google.com/drive/1Z5ok0Cr7ynp_jCZ-DM8S-6u8DtOZfBOI)
 * Matlab - Ejemplo Louvre [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_Louvre.m)
 * Video - Clase grabada (2021): transformaciones geometricas [[YouTube]](https://youtu.be/othqV7g9ksA)
 * Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
-* Colab - Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1XOyWcFxw7_vkwvRb6obOS9fiTdW6Vw_t?usp=sharing)
+* Colab - Ejemplo de ecualizacion de histograma [[Colab]](https://colab.research.google.com/drive/1yYoH_UcDlqCXD-EMAI6moU9m7G7dScJ0)
 * Matlab - Visualizacion de histograma [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_HistogramVisualization.m)
 * Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 * Video - Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
@@ -20,15 +20,15 @@
 ### 3.3 Filtros espaciales de suavizacion y agudizacion:
 * PPT - Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
 * PPT - Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
-* Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/16S76bdeZuadijmVpkFIohXKce8k1PQpY?usp=sharing)
-* Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/14Y-gq9bbT5DwcR4M26EqEuDit1q5WMsQ?usp=sharing)
+* Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * Apuntes - Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
-* Colab - Ejemplos con mascaras (kernels) [[Colab]](https://colab.research.google.com/drive/1XX675cvJDBDnoHRU3LnPaBs0mR0mjqZP?usp=sharing)
+* Colab - Ejemplos con mascaras (kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * Matlab - Ejemplos de filtrado con mascara (kernels) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * Video - Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 * Video - Clase grabada (2021): mascaras [[YouTube]](https://www.youtube.com/watch?v=N3DT_uNG5Xc)
-* Socrative - Ejercicio E10 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E10 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 ---
 
 
-Updated on 13-Oct-2022 at 11:27 by Domingo Mery
+Updated on 03-Aug-2023 at 13:17 by Domingo Mery

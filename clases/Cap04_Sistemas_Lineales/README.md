@@ -10,19 +10,19 @@
 ### 4.2 Convolucion continua y discreta unidimensional y sus propiedades:
 * PPT - Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
 * Video - Visualizacion de la convolucion 1D [[YouTube]](https://youtu.be/IOXzLMqcLbg)
-* Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1643N6l0P1a8xfANCALxuLgy-2j8hWcpg?usp=sharing)
+* Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1I_WXzkk-9eK9_ZMLvByU9uUTgSmqIjJf)
 * Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
-* Socrative - Ejercicio E04 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
-* Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/1ohiRMkO4AaTgW9ZWCIyeCaUtG69L5KV2?usp=sharing)
-* Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/1zrY5yhWjTCRHVA4nHLutOE7N9goHwrTq?usp=sharing)
+* Socrative - Ejercicio E04 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 ### 4.3 Convolucion continua y discreta bidimensional y sus propiedades:
 * (+) Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
 * (+) Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
 ### 4.4 Transformada de Fourier continua y discreta unidimensional y sus propiedades:
 * PPT - Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * Apuntes - Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
-* Colab - Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/1eiFsSzuE0Kn-lIxnjsbMV53GrqJBmMyF?usp=sharing)
+* Colab - Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/17Vs-z4KIsgzOc_h3KWFZko2gPOvPRRfY)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
@@ -63,8 +63,8 @@
 * (+) Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 * Video - Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 * PPT - Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
-* Colab - Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/13JtzRuGcfX_uH7iSiA-K_6mFTXn_1Lqi?usp=sharing)
-* Socrative - Ejercicio E06 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
+* Colab - Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/1E4CtsHpohsNRBXwJotORrmTGvGpAQDGM)
+* Socrative - Ejercicio E06 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 * (+) Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
 * (+) Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FFTSHIFT_Filtros2D.pdf)
 * (+) Fase de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
@@ -77,4 +77,4 @@
 ---
 
 
-Updated on 13-Oct-2022 at 11:27 by Domingo Mery
+Updated on 03-Aug-2023 at 13:17 by Domingo Mery

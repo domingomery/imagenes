@@ -5,10 +5,10 @@
 * Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
 * PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
-* Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/17jwZY9fxKw3KUi_--sfYZrksfpR3_Whr?usp=sharing)
+* Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
 * PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
-* Socrative - Ejercicio E01 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E01 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
 * Video - Clase grabada (2021): adquisicion, sampling, ejemplo [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 * PPT - Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
@@ -23,11 +23,11 @@
 * Video - Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * Video - Clase grabada (2021): luz, espectro, vision [[YouTube]](https://youtu.be/ffj6vZtV5gI)
 ### 1.3 Adquisicion de imagenes, muestreo y cuantizacion de imagenes:
-* Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/1DxVWeCfV1P-K-IyXokn49Gsv3qv-qq1C?usp=sharing)
-* Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1aDvi_dAfqWKgXd_GnilQchBoxPXTai7O?usp=sharing)
+* Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
+* Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
-* Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/11rlsVB2PNYt2ux2yilW4fyJGc_nApcDI?usp=sharing)
-* Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1JCCryTTgCjr3LOc7vo-BpfOUtcFKkwUV?usp=sharing)
+* Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 ### 1.4 Ejemplo:
 * Apuntes - Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
@@ -35,4 +35,4 @@
 ---
 
 
-Updated on 13-Oct-2022 at 11:27 by Domingo Mery
+Updated on 03-Aug-2023 at 13:17 by Domingo Mery

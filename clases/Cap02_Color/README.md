@@ -1,11 +1,11 @@
 
 # Capitulo 02: Imagenes en colores
 ### 2.1 Modelos de color:
-* Colab - Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1oWvD0KlxhE8nIGJCQyIbtsuEwIsAFcug?usp=sharing)
+* Colab - Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1fOO0N4TUTVuWZlhHvgJZDloVMXe445KE)
 * Paper - Segmentacion a color [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSegmentation_Paper.pdf)
-* Colab - Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1U15JApo-31-Nmrzn2qXasFdokS66RVcx?usp=sharing)
+* Colab - Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1CiPBYICHR4z0F84IQDBS956mJkbe5EJV)
 * Video - Clase grabada (2021): Procesamiento a color [[YouTube]](https://youtu.be/dB-KOF10Dvc)
-* Colab - Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1ItHrL2qr1h5zhtkVKjN8U5C0v6tADDTW?usp=sharing)
+* Colab - Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
 * Video - Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 ### 2.2 Bases de color:
 * PPT - Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
@@ -20,8 +20,8 @@
 * Apuntes - Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * Apuntes - Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
 * PPT - Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
-* Socrative - Ejercicio E12 (ROOM = IMAGENES2022) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E12 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 ---
 
 
-Updated on 13-Oct-2022 at 11:27 by Domingo Mery
+Updated on 03-Aug-2023 at 13:17 by Domingo Mery
