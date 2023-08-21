@@ -26,7 +26,7 @@
 
 ### Clase 04 Ma. 22-Aug-2023:
 * 1.3-PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
-* 1.3-Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 1.3-Colab - Trabajo en Clases E02 [[Colab]](https://drive.google.com/file/d/1_RiF4teqnLoAxZKGXQ_1cIiCdsW3P3Lv)
 * 1.3-Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 1.3-Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 
