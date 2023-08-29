@@ -1,14 +1,15 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Introduccion al analisis y procesamiento digital de imagenes:
-* PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
 * Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
+* PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
 * PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
 * PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Socrative - Ejercicio E01 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* Como leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
 * Video - Clase grabada (2021): adquisicion, sampling, ejemplo [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 * PPT - Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
@@ -35,4 +36,4 @@
 ---
 
 
-Updated on 07-Aug-2023 at 14:48 by Domingo Mery
+Updated on 29-Aug-2023 at 09:19 by Domingo Mery

@@ -6,12 +6,12 @@
 ### Clase 01 Ma. 08-Aug-2023:
 * 0.1-Programa - Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
 * 0.1-PPT - Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
-* 1.1-PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
 * 1.1-Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
 * 0.1-Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
 * 0.1-Video - Clase grabada (2021): Programa del curso [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
 
 ### Clase 02 Ju. 10-Aug-2023:
+* 1.1-PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
 * 1.1-PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
 * 1.1-PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * 1.1-Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
@@ -26,6 +26,7 @@
 
 ### Clase 04 Ma. 22-Aug-2023:
 * 1.3-PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
+* 1.1-Como leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 * 1.3-Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 1.3-Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 1.3-Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
@@ -259,4 +260,4 @@
 ---
 
 
-Updated on 07-Aug-2023 at 14:48 by Domingo Mery
+Updated on 29-Aug-2023 at 09:19 by Domingo Mery
