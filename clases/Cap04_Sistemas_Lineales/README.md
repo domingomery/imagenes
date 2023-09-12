@@ -14,7 +14,7 @@
 * Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
 * Socrative - Ejercicio E04 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
-* Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/15PsglEEdi0fKL6IgoeDABvFMW7js9cRN)
 * Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 ### 4.3 Convolucion continua y discreta bidimensional y sus propiedades:
 * (+) Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
@@ -23,6 +23,7 @@
 * PPT - Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * Apuntes - Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
 * Colab - Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/17Vs-z4KIsgzOc_h3KWFZko2gPOvPRRfY)
+* Frecuencias de notas musicales [[Link]](https://pages.mtu.edu/~suits/notefreqs.html)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
 * Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
@@ -77,4 +78,4 @@
 ---
 
 
-Updated on 29-Aug-2023 at 09:21 by Domingo Mery
+Updated on 12-Sep-2023 at 16:41 by Domingo Mery

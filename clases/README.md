@@ -52,14 +52,15 @@
 * 3.1-Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 
 ### Clase 07 Ju. 31-Aug-2023:
-* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
-* 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1R2WF8qvGOyKHXtAihyFR7ntD15MN70Pw)
+* 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1GJg4pQxyET8SJrG0s2l-unP72y167ZMD)
 * 3.1-Video - Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 
 ### Clase 08 Ma. 05-Sep-2023:
 * 3.3-Apuntes - Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * 3.3-Colab - Ejemplos con mascaras (kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * 3.3-Matlab - Ejemplos de filtrado con mascara (kernels) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
+* 3.3-Matlab - Ejemplo de Sharpen [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_SharpenEscalon.m)
 * 3.3-Video - Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 * 3.3-Video - Clase grabada (2021): mascaras [[YouTube]](https://www.youtube.com/watch?v=N3DT_uNG5Xc)
 
@@ -77,6 +78,7 @@
 * 4.4-PPT - Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D.pptx)
 * 4.4-Apuntes - Apuntes para Transformada de Fourier 1D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_TransformadaFourier1D.pdf)
 * 4.4-Colab - Ejemplo Transformada de Fourier (1D) con audio [[Colab]](https://colab.research.google.com/drive/17Vs-z4KIsgzOc_h3KWFZko2gPOvPRRfY)
+* 4.4-Frecuencias de notas musicales [[Link]](https://pages.mtu.edu/~suits/notefreqs.html)
 * 4.4-Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audio.m)
 * 4.4-Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioGong.m)
 * 4.4-Matlab - Ejemplo de senales de audio (1D) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Audiotest.m)
@@ -86,7 +88,7 @@
 * 4.1-Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 
 ### Clase 11 Ju. 14-Sep-2023:
-* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/15PsglEEdi0fKL6IgoeDABvFMW7js9cRN)
 * 4.2-Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.1-Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
@@ -260,4 +262,4 @@
 ---
 
 
-Updated on 29-Aug-2023 at 09:21 by Domingo Mery
+Updated on 12-Sep-2023 at 16:41 by Domingo Mery
