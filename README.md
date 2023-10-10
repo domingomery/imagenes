@@ -146,7 +146,7 @@
 * 4.5-Video - Clase grabada (2021): Filtros con Fourier [[YouTube]](https://youtu.be/JpHN9D_cF_c)
 
 ### Clase 15 Ma. 10-Oct-2023:
-* 5.2-Colab - Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 5.2-Colab - Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1DxoR_bM_FWtZojQv79ykZednV34NG15X)
 * 5.3-Colab - Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.1-Video - Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
@@ -262,4 +262,4 @@
 ---
 
 
-Updated on 22-Sep-2023 at 10:57 by Domingo Mery
+Updated on 10-Oct-2023 at 09:22 by Domingo Mery
