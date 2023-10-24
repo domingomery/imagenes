@@ -14,6 +14,7 @@
 * PPT - Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * PPT - Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * Colab - Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/16s1BfVcfMyGcKTBZ9kKFhXExnBh-1kTU)
+* PPT - Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
 * Video - Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 ### 6.2 Restauracion con filtros espaciales en presencia de ruido:
 ### 6.3 Reduccion de ruido periodico en el dominio de la frecuencia:
@@ -22,4 +23,4 @@
 ---
 
 
-Updated on 23-Oct-2023 at 13:11 by Domingo Mery
+Updated on 24-Oct-2023 at 12:09 by Domingo Mery
