@@ -15,7 +15,7 @@
 * Colab - Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * Colab - Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * Video - Clase grabada (2021): Segmentacion, bordes [[YouTube]](https://youtu.be/F5dKux7Laik)
-* Colab - Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1v62bhGo5dVlk8ABFnYREpoUPy-8-pLMX?usp=sharing)
+* Colab - Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * Video - Clase grabada (2021): Deteccion de bordes [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 ### 8.3 Segmentacion basada en regiones:
 * PPT - Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
@@ -26,10 +26,10 @@
 ### 8.4 Segmentacion basada en cuencas morfologicas:
 ### 8.5 Uso del movimiento en segmentacion:
 * PPT - Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
-* Colab - Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1DwxvBxMlQGHzX3D2gzmO7FiQAgOCAJ2g?usp=sharing)
+* Colab - Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1ohr3yh0bFkueONUEGaHa5F67zlSf3aTy)
 * Socrative - Ejercicio E11 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 ### 8.6 Proyecto de curso:
 ---
 
 
-Updated on 24-Oct-2023 at 12:17 by Domingo Mery
+Updated on 08-Nov-2023 at 15:26 by Domingo Mery
