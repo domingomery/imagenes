@@ -214,6 +214,7 @@
 * 8.1-Matlab - Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
 * 8.1-Colab - Ejemplo de Transformada de Hough [[Colab]](https://colab.research.google.com/drive/13DOIjxeyXxuPX_G41_ltur8jBMMTsUJ0)
 * 8.1-Matlab - Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
+* 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 * 8.2-Video - Clase grabada (2021): Deteccion de bordes [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 
 ### Clase 25 Ma. 14-Nov-2023:
@@ -222,7 +223,6 @@
 * 8.1-PPT - Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
 * 8.5-PPT - Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
 * 8.5-Colab - Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1ohr3yh0bFkueONUEGaHa5F67zlSf3aTy)
-* 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 * 8.3-Video - Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 
 ### Clase 26 Ju. 16-Nov-2023:
@@ -264,4 +264,4 @@
 ---
 
 
-Updated on 08-Nov-2023 at 15:26 by Domingo Mery
+Updated on 09-Nov-2023 at 09:13 by Domingo Mery

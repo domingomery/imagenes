@@ -25,11 +25,11 @@
 * Video - Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 ### 8.4 Segmentacion basada en cuencas morfologicas:
 ### 8.5 Uso del movimiento en segmentacion:
+* Socrative - Ejercicio E11 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 * PPT - Segmentacion de movimiento [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegMovimiento.pptx)
 * Colab - Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1ohr3yh0bFkueONUEGaHa5F67zlSf3aTy)
-* Socrative - Ejercicio E11 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
 ### 8.6 Proyecto de curso:
 ---
 
 
-Updated on 08-Nov-2023 at 15:26 by Domingo Mery
+Updated on 09-Nov-2023 at 09:13 by Domingo Mery
