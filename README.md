@@ -248,6 +248,8 @@
 * 2.1-Video - Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 
 ### Clase 28 Ju. 30-Nov-2023:
+* 2.1-Espacio XYZ [[YouTube]](https://youtu.be/GmrUyqFYw2A)
+* 2.1-Teoria del color [[YouTube]](https://youtu.be/gnUYoQ1pwes)
 * 1.2-PPT - Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * 1.2-PPT - Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
 * 1.2-Articulo - Lo ves a color o en blanco y negro? [[Articulo]](https://www.bbc.com/mundo/noticias-49178274)
@@ -264,4 +266,4 @@
 ---
 
 
-Updated on 09-Nov-2023 at 09:13 by Domingo Mery
+Updated on 29-Nov-2023 at 10:15 by Domingo Mery
