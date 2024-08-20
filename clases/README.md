@@ -21,7 +21,7 @@
 * 1.1-PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * 1.3-Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * 1.3-Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
-* 1.1-Socrative - Ejercicio E01 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 1.1-Socrative - Ejercicio E01 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 1.2-Video - Clase grabada (2021): adquisicion, sampling, ejemplo [[YouTube]](https://youtu.be/v1g1cb-zYTU)
 
 ### Clase 04 Ju. 22-Aug-2024:
@@ -52,8 +52,8 @@
 * 3.1-Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 
 ### Clase 07 Ma. 03-Sep-2024:
-* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1R2WF8qvGOyKHXtAihyFR7ntD15MN70Pw)
-* 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1GJg4pQxyET8SJrG0s2l-unP72y167ZMD)
+* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 3.1-Video - Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 
 ### Clase 08 Ju. 05-Sep-2024:
@@ -71,7 +71,7 @@
 * 4.2-Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1I_WXzkk-9eK9_ZMLvByU9uUTgSmqIjJf)
 * 4.2-Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * 4.2-Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
-* 4.2-Socrative - Ejercicio E04 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 4.2-Socrative - Ejercicio E04 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 4.1-Video - Clase grabada (2021): impulso y convolucion 1D [[YouTube]](https://youtu.be/dfCPJbXlRQE)
 
 ### Clase 10 Ju. 12-Sep-2024:
@@ -88,7 +88,7 @@
 * 4.1-Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 
 ### Clase 11 Ju. 26-Sep-2024:
-* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/15PsglEEdi0fKL6IgoeDABvFMW7js9cRN)
+* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.2-Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.1-Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
@@ -112,7 +112,7 @@
 * 4.5-PPT - Transformada de Fourier 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier_2D.pptx)
 * 4.5-PPT - Funcion impulso en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Impulso_2D.pptx)
 * 4.5-PPT - Muestreo en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo_2D.pptx)
-* 4.5-Socrative - Ejercicio E06 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 4.5-Socrative - Ejercicio E06 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 4.5-(+) Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
 * 4.5-(+) Interpretacion de la Transformada de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion2D.m)
 * 4.5-(+) Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierBasis.m)
@@ -146,7 +146,7 @@
 * 4.5-Video - Clase grabada (2021): Filtros con Fourier [[YouTube]](https://youtu.be/JpHN9D_cF_c)
 
 ### Clase 15 Ju. 10-Oct-2024:
-* 5.2-Colab - Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1DxoR_bM_FWtZojQv79ykZednV34NG15X)
+* 5.2-Colab - Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.3-Colab - Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.1-Video - Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
@@ -170,15 +170,15 @@
 
 ### Clase 18 Ma. 22-Oct-2024:
 * 6.1-PPT - Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
-* 6.1-Socrative - Ejercicio E08 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 6.1-Socrative - Ejercicio E08 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 6.1-Video - Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 
 ### Clase 19 Ju. 24-Oct-2024:
 * 6.1-PPT - Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1-PPT - Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.4-Colab - Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
-* 6.1-Colab - Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/16s1BfVcfMyGcKTBZ9kKFhXExnBh-1kTU)
-* 6.1-PPT - Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
+* 6.1-Colab - Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 6.1-PPT - Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_OSSSO.pptx)
 * 6.1-Video - Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 
 ### Clase 20 Ma. 29-Oct-2024:
@@ -196,7 +196,7 @@
 * 8.1-PPT - Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * 8.3-PPT - Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * 8.3-Colab - Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1cNxGiXc132_o1YiAdVP5fWBdlTbuTKK2)
-* 3.3-Socrative - Ejercicio E10 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 3.3-Socrative - Ejercicio E10 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 7.2-Video - Clase grabada (2021): Mediana, TopHat, Segmentacion [[YouTube]](https://youtu.be/NucG7pwk2aI)
 
 ### Clase 23 Ma. 12-Nov-2024:
@@ -214,7 +214,7 @@
 * 8.1-Matlab - Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
 * 8.1-Colab - Ejemplo de Transformada de Hough [[Colab]](https://colab.research.google.com/drive/13DOIjxeyXxuPX_G41_ltur8jBMMTsUJ0)
 * 8.1-Matlab - Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
-* 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 8.2-Video - Clase grabada (2021): Deteccion de bordes [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 
 ### Clase 25 Ma. 19-Nov-2024:
@@ -244,7 +244,7 @@
 * 2.3-Apuntes - Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.3-Apuntes - Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
 * 2.3-PPT - Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
-* 2.3-Socrative - Ejercicio E12 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* 2.3-Socrative - Ejercicio E12 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 2.1-Video - Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 
 ### Clase 28 Ju. 28-Nov-2024:
@@ -266,4 +266,4 @@
 ---
 
 
-Updated on 08-Aug-2024 at 10:17 by Domingo Mery
+Updated on 20-Aug-2024 at 09:25 by Domingo Mery

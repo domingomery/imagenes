@@ -13,8 +13,8 @@
 * Colab - Ejemplo Convolucion en 1D [[Colab]](https://colab.research.google.com/drive/1I_WXzkk-9eK9_ZMLvByU9uUTgSmqIjJf)
 * Matlab - Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * Apuntes - Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
-* Socrative - Ejercicio E04 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
-* Colab - Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/15PsglEEdi0fKL6IgoeDABvFMW7js9cRN)
+* Socrative - Ejercicio E04 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
+* Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 ### 4.3 Convolucion continua y discreta bidimensional y sus propiedades:
 * (+) Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
@@ -49,7 +49,7 @@
 * PPT - Transformada de Fourier 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier_2D.pptx)
 * PPT - Funcion impulso en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Impulso_2D.pptx)
 * PPT - Muestreo en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo_2D.pptx)
-* Socrative - Ejercicio E06 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E06 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * (+) Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
 * (+) Interpretacion de la Transformada de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion2D.m)
 * (+) Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierBasis.m)
@@ -78,4 +78,4 @@
 ---
 
 
-Updated on 08-Aug-2024 at 10:17 by Domingo Mery
+Updated on 20-Aug-2024 at 09:25 by Domingo Mery

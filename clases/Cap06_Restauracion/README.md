@@ -9,12 +9,12 @@
 * PPT - Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 * Video - Clase grabada (2021): Restauracion [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 * PPT - Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
-* Socrative - Ejercicio E08 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E08 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * Video - Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 * PPT - Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * PPT - Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
-* Colab - Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/16s1BfVcfMyGcKTBZ9kKFhXExnBh-1kTU)
-* PPT - Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
+* Colab - Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* PPT - Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_OSSSO.pptx)
 * Video - Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 ### 6.2 Restauracion con filtros espaciales en presencia de ruido:
 ### 6.3 Reduccion de ruido periodico en el dominio de la frecuencia:
@@ -23,4 +23,4 @@
 ---
 
 
-Updated on 08-Aug-2024 at 10:17 by Domingo Mery
+Updated on 20-Aug-2024 at 09:25 by Domingo Mery

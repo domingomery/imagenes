@@ -22,8 +22,8 @@
 * Apuntes - Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * Apuntes - Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
 * PPT - Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
-* Socrative - Ejercicio E12 (ROOM = IMAGENES2023) [[Quiz]](http://www.socrative.com)
+* Socrative - Ejercicio E12 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 ---
 
 
-Updated on 08-Aug-2024 at 10:17 by Domingo Mery
+Updated on 20-Aug-2024 at 09:25 by Domingo Mery
