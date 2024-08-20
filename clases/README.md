@@ -18,7 +18,7 @@
 * 1.1-Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
 
 ### Clase 03 Ma. 20-Aug-2024:
-* 1.1-PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
+* 1.1-PPT - Introduccion al Procesamiento a Color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_IntroduccionColor.pptx)
 * 1.3-Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * 1.3-Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * 1.1-Socrative - Ejercicio E01 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
@@ -266,4 +266,4 @@
 ---
 
 
-Updated on 20-Aug-2024 at 09:25 by Domingo Mery
+Updated on 20-Aug-2024 at 10:34 by Domingo Mery

@@ -7,7 +7,7 @@
 * PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
 * Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
 * Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
-* PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
+* PPT - Introduccion al Procesamiento a Color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_IntroduccionColor.pptx)
 * Socrative - Ejercicio E01 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * Como leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
@@ -36,4 +36,4 @@
 ---
 
 
-Updated on 20-Aug-2024 at 09:25 by Domingo Mery
+Updated on 20-Aug-2024 at 10:34 by Domingo Mery
