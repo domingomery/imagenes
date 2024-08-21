@@ -27,7 +27,7 @@
 * Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
-* Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1QwgbERxLRQf8_BUplfT6QzYNsk14KACF?usp=sharing)
 * Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 ### 1.4 Ejemplo:
@@ -36,4 +36,4 @@
 ---
 
 
-Updated on 20-Aug-2024 at 10:34 by Domingo Mery
+Updated on 21-Aug-2024 at 11:56 by Domingo Mery
