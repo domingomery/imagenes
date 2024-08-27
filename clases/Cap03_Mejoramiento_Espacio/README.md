@@ -3,6 +3,7 @@
 ### 3.1 Transformaciones basicas de niveles de grises e histogramas:
 * PPT - Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * PPT - Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
+* PPT - Transformacion Afin [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_TransformacionAfin.pptx)
 * PPT - Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * Apuntes - Interpolacion bilineal [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Interpolation_bilinear.pdf)
 * Apuntes - Interpolacion bilineal (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
@@ -32,4 +33,4 @@
 ---
 
 
-Updated on 22-Aug-2024 at 10:41 by Domingo Mery
+Updated on 27-Aug-2024 at 10:09 by Domingo Mery

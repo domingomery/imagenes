@@ -34,6 +34,7 @@
 ### Clase 05 Ma. 27-Aug-2024:
 * 3.1-PPT - Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * 3.1-PPT - Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
+* 3.1-PPT - Transformacion Afin [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_TransformacionAfin.pptx)
 * 3.1-PPT - Ecualizacion de histograma [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_HistogramaEcualizacion.pptx)
 * 3.1-Apuntes - Interpolacion bilineal [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Interpolation_bilinear.pdf)
 * 3.1-Apuntes - Interpolacion bilineal (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_InterpolationTheory.pdf)
@@ -266,4 +267,4 @@
 ---
 
 
-Updated on 22-Aug-2024 at 10:41 by Domingo Mery
+Updated on 27-Aug-2024 at 10:09 by Domingo Mery
