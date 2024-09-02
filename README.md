@@ -53,7 +53,7 @@
 * 3.1-Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 
 ### Clase 07 Ma. 03-Sep-2024:
-* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1gpPAxht43jnUqm3xB-9N-ssbPYu_K9RT)
 * 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 3.1-Video - Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 
