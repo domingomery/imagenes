@@ -21,8 +21,8 @@
 ### 3.3 Filtros espaciales de suavizacion y agudizacion:
 * PPT - Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
 * PPT - Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
-* Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
-* Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1gpPAxht43jnUqm3xB-9N-ssbPYu_K9RT)
+* Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1swSaUPXDFcvI1be7XcckyFxDkNO_Iwxm)
 * Apuntes - Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * Colab - Ejemplos con mascaras (kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * Matlab - Ejemplos de filtrado con mascara (kernels) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
@@ -33,4 +33,4 @@
 ---
 
 
-Updated on 27-Aug-2024 at 10:09 by Domingo Mery
+Updated on 05-Sep-2024 at 12:58 by Domingo Mery

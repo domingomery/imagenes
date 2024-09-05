@@ -28,7 +28,7 @@
 * 1.3-PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * 1.1-Como leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 * 1.3-Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1QwgbERxLRQf8_BUplfT6QzYNsk14KACF?usp=sharing)
-* 1.3-Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 1.3-Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://drive.google.com/file/d/1i_SmzZ21qyRhDOQ7pSg6x9dhQJzuYO48)
 * 1.3-Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 
 ### Clase 05 Ma. 27-Aug-2024:
@@ -53,8 +53,8 @@
 * 3.1-Video - Clase grabada (2021): histogramas, aritmetica [[YouTube]](https://youtu.be/JOF_fJCFvsE)
 
 ### Clase 07 Ma. 03-Sep-2024:
-* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
-* 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 3.3-Colab - Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1gpPAxht43jnUqm3xB-9N-ssbPYu_K9RT)
+* 3.3-Colab - Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1swSaUPXDFcvI1be7XcckyFxDkNO_Iwxm)
 * 3.1-Video - Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 
 ### Clase 08 Ju. 05-Sep-2024:
@@ -267,4 +267,4 @@
 ---
 
 
-Updated on 27-Aug-2024 at 10:09 by Domingo Mery
+Updated on 05-Sep-2024 at 12:58 by Domingo Mery

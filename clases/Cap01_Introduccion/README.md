@@ -28,7 +28,7 @@
 * Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1QwgbERxLRQf8_BUplfT6QzYNsk14KACF?usp=sharing)
-* Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* Colab - Solucion al Trabajo en Clases E02 [[Colab]](https://drive.google.com/file/d/1i_SmzZ21qyRhDOQ7pSg6x9dhQJzuYO48)
 * Video - Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 ### 1.4 Ejemplo:
 * Apuntes - Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
@@ -36,4 +36,4 @@
 ---
 
 
-Updated on 27-Aug-2024 at 10:09 by Domingo Mery
+Updated on 05-Sep-2024 at 12:58 by Domingo Mery
