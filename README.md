@@ -89,7 +89,7 @@
 * 4.1-Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 
 ### Clase 11 Ju. 26-Sep-2024:
-* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/1kuX_ImfRszwetHEu7G03LFgaz4rfnk-X)
 * 4.2-Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.1-Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
