@@ -16,7 +16,7 @@ ft = Bio_statusbar('Coefficients');
 N = 500;
 for n=1:N;
     ft = Bio_statusbar(n/N,ft);
-    % f=f+sinc(n/8)*exp(j*2*pi*n/8*t)+sinc(-n/8)*exp(-j*2*pi*n/8*t);
+    %f=f+sinc(n/8)*exp(j*2*pi*n/8*t)+sinc(-n/8)*exp(-j*2*pi*n/8*t);
     f = f + 2*sinc(n/8)*(cos(2*pi*n/8*t));
     figure(1)
     % disp(n)

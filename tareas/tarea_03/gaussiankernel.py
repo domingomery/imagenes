@@ -3,7 +3,7 @@ def gaussiankernel(size):
     This method creates a symmetric Gaussian kernel.
 
     :param size: inf number to specify the size of the kernel.
-            Typical numbers 3, 5, 9, 11.
+            Typical numbers 3, 5, 9 ... etc.
     """
 
     sigma = size/8.5 #  width of the Gaussian distribution

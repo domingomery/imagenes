@@ -12,7 +12,8 @@ for i=1:2:60
     mesh(abs(fftshift(J)))
     title('Dominio de la Frecuencia')
     figure(1)
-    imshow(I(1:2:end,1:2:end))
+    %imshow(I(1:2:end,1:2:end))
+    imshow(I,[])
     title('Dominio del Espacio')
     pause(0.1)
 end
@@ -27,7 +28,8 @@ for i=1:2:60
     mesh(abs(fftshift(J)));axis([0 256 0 256 0 4000])
     title('Dominio de la Frecuencia')
     figure(1)
-    imshow(I(1:2:end,1:2:end))
+    %imshow(I(1:2:end,1:2:end))
+    imshow(I,[])
     title('Dominio del Espacio')
     pause(0.1)
 end
@@ -48,7 +50,8 @@ for i=0:5:90
     mesh(abs(fftshift(J)));axis([0 256 0 256 0 100])
     title('Dominio de la Frecuencia')
     figure(1)
-    imshow(I(1:2:end,1:2:end),[])
+    %imshow(I(1:2:end,1:2:end),[])
+    imshow(I,[])
     title('Dominio del Espacio')
     pause(0.1)
 end

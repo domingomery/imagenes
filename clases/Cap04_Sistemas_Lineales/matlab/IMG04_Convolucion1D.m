@@ -21,7 +21,7 @@ while(m>0)
     y = conv2(x,g,'same');
     
     figure(2)
-    plot(t,[xp' x' y'])
+    plot(t,[xp' x' y'],'linewidth',2)
     title(sprintf('se?al filtrada con g = ones(%d,1)/%d',m,m));
     xlabel('t');
     ylabel('y');
