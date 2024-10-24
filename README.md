@@ -89,7 +89,7 @@
 * 4.1-Video - Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 
 ### Clase 11 Ju. 26-Sep-2024:
-* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/1kuX_ImfRszwetHEu7G03LFgaz4rfnk-X)
+* 4.2-Colab - Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.2-Colab - Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.1-Video - Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
@@ -147,7 +147,7 @@
 * 4.5-Video - Clase grabada (2021): Filtros con Fourier [[YouTube]](https://youtu.be/JpHN9D_cF_c)
 
 ### Clase 15 Ju. 10-Oct-2024:
-* 5.2-Colab - Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1dAWkJBqIeJn7BvDvbeKLfgw8Y8wsFScH/view?usp=sharing)
+* 5.2-Colab - Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.3-Colab - Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.1-Video - Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
@@ -178,8 +178,8 @@
 * 6.1-PPT - Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1-PPT - Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.4-Colab - Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
-* 6.1-Colab - Trabajo en Clases E09 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
-* 6.1-PPT - Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_OSSSO.pptx)
+* 6.1-Colab - Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/1dqfcQRniHnqASysqTYJtm47tuZdsrxQp/view)
+* 6.1-PPT - Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
 * 6.1-Video - Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 
 ### Clase 20 Ma. 29-Oct-2024:
@@ -267,4 +267,4 @@
 ---
 
 
-Updated on 05-Sep-2024 at 12:58 by Domingo Mery
+Updated on 24-Oct-2024 at 09:21 by Domingo Mery
