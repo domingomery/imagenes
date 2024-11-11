@@ -197,15 +197,16 @@
 * 8.1-PPT - Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * 8.3-PPT - Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * 8.3-Colab - Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1cNxGiXc132_o1YiAdVP5fWBdlTbuTKK2)
-* 3.3-Socrative - Ejercicio E10 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
+* 8.2-PPT - Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
+* 8.2-Colab - Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * 7.2-Video - Clase grabada (2021): Mediana, TopHat, Segmentacion [[YouTube]](https://youtu.be/NucG7pwk2aI)
 
 ### Clase 23 Ma. 12-Nov-2024:
-* 8.2-PPT - Metodo de Otsu [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Otsu.pptx)
 * 8.2-PPT - Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * 8.1-PPT - Deteccion de bordes (PARTE 1) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_1.pptx)
 * 8.2-Colab - Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * 8.2-Colab - Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
+* 3.3-Socrative - Ejercicio E10 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 8.2-Video - Clase grabada (2021): Segmentacion, bordes [[YouTube]](https://youtu.be/F5dKux7Laik)
 
 ### Clase 24 Ju. 14-Nov-2024:
@@ -267,4 +268,4 @@
 ---
 
 
-Updated on 24-Oct-2024 at 09:21 by Domingo Mery
+Updated on 11-Nov-2024 at 15:26 by Domingo Mery
