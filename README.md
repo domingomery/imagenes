@@ -214,6 +214,7 @@
 * 8.2-Colab - Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * 8.1-PPT - Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
 * 8.1-Matlab - Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
+* 8.1-PPT - Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_PrecisionRecall.pptx)
 * 8.1-Colab - Ejemplo de Transformada de Hough [[Colab]](https://colab.research.google.com/drive/13DOIjxeyXxuPX_G41_ltur8jBMMTsUJ0)
 * 8.1-Matlab - Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
 * 8.5-Socrative - Ejercicio E11 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
@@ -268,4 +269,4 @@
 ---
 
 
-Updated on 11-Nov-2024 at 15:26 by Domingo Mery
+Updated on 14-Nov-2024 at 10:51 by Domingo Mery

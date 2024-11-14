@@ -6,6 +6,7 @@
 * PPT - Deteccion de bordes (PARTE 2) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_2.pptx)
 * PPT - Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
 * Matlab - Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
+* PPT - Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_PrecisionRecall.pptx)
 * Colab - Ejemplo de Transformada de Hough [[Colab]](https://colab.research.google.com/drive/13DOIjxeyXxuPX_G41_ltur8jBMMTsUJ0)
 * Matlab - Segmentacion de Iris usando Transformada de Hough [[Matlab]](https://github.com/domingomery/imagenes/tree/master/clases/Cap08_Segmentacion/matlab/Ejemplo_Iris/)
 * PPT - Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
@@ -33,4 +34,4 @@
 ---
 
 
-Updated on 11-Nov-2024 at 15:26 by Domingo Mery
+Updated on 14-Nov-2024 at 10:51 by Domingo Mery
