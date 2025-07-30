@@ -266,7 +266,10 @@
 * 1.2 Video - Funcionamiento del ojo humano (problemas en la vision) [[YouTube]](https://www.youtube.com/watch?v=AsKeu4wm3XI)
 * 1.2 Video - Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * 1.2 Video - Clase grabada (2021): luz, espectro, vision [[YouTube]](https://youtu.be/ffj6vZtV5gI)
+
+### Clase 29 Ju. 27-Nov-2025:
+* 8.3 Ayudantia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 ---
 
 
-Updated on 30-Jul-2025 at 15:59 by Domingo Mery
+Updated on 30-Jul-2025 at 16:03 by Domingo Mery
