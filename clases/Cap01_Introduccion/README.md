@@ -1,13 +1,16 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Introduccion al analisis y procesamiento digital de imagenes:
-* Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
-* PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
-* PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
-* PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
-* Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
-* Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
-* PPT - Introduccion al Procesamiento a Color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_IntroduccionColor.pptx)
+* **INTRODUCCION** 
+* > Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
+* > PPT: Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
+* **INTRODUCCION (cont)** [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//)
+* > PPT: Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
+* > PPT: Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
+* > Python: Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
+* > Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
+* **INTRODUCCION (cont)** [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//)
+* > PPT - Introduccion al Procesamiento a Color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_IntroduccionColor.pptx)
 * Socrative - Ejercicio E01 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * Como leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 ### 1.2 Luz, espectro electromagnetico y elementos de percepcion visual:
@@ -24,7 +27,7 @@
 * Video - Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * Video - Clase grabada (2021): luz, espectro, vision [[YouTube]](https://youtu.be/ffj6vZtV5gI)
 ### 1.3 Adquisicion de imagenes, muestreo y cuantizacion de imagenes:
-* Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
+* > Python: Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * PPT - Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * Colab - Trabajo en Clases E02 [[Colab]](https://colab.research.google.com/drive/1QwgbERxLRQf8_BUplfT6QzYNsk14KACF?usp=sharing)
@@ -36,4 +39,4 @@
 ---
 
 
-Updated on 30-Jul-2025 at 16:03 by Domingo Mery
+Updated on 04-Aug-2025 at 15:12 by Domingo Mery

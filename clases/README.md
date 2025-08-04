@@ -4,22 +4,27 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ju. 07-Aug-2025:
-* 0.1 Programa - Programa del Curso - Oficial [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
-* 0.1 PPT - Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
-* 1.1 Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
-* 0.1 Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
-* 0.1 Video - Clase grabada (2021): Programa del curso [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
-* 1.1 PPT - Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
+* 0.1 **PRESENTACION DEL CURSO**
+* 0.1 &nbsp; &nbsp; &nbsp;  Programa del Curso Fundamentos de Procesamiento de Imágenes [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_ProgramaCurso.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  PPT: Presentacion del Curso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/program/IMG00_PresentationCurso.pptx)
+* 0.1 ** Bibliografía** [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales//)
+* 0.1 &nbsp; &nbsp; &nbsp;  Libro - Computer Vision for X-ray Testing (Mery, 2015 - Muestra Gratis) [[Book]](https://www.dropbox.com/s/6ojxn5h1s0dxhd4/bok%253A978-3-319-20747-6.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  Video - Clase grabada (2021): Programa del curso [[YouTube]](https://youtu.be/ViO5UX-rJpQ)
+* 1.1 **INTRODUCCION**
+* 1.1 &nbsp; &nbsp; &nbsp;  Video - Inauguracion JJOO Beijing (ver desde el minuto 2.45) [[Video]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/videos/01_Human_Pixels_Beijing_2008.mp4)
+* 1.1 &nbsp; &nbsp; &nbsp;  PPT: Pixels [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//IMG01_Pixels.pptx)
 
 ### Clase 02 Ma. 12-Aug-2025:
-* 1.1 PPT - Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
-* 1.1 PPT - Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
-* 1.1 Colab - Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
-* 1.1 Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
+* 1.1 **INTRODUCCION (cont)** [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//)
+* 1.1 &nbsp; &nbsp; &nbsp;  PPT: Introduccion al Procesamiento de Imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Introduccion.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp;  PPT: Adquisicion de imagenes [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Adquisicion.pptx)
+* 1.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo segmentacion de un arroz [[Colab]](https://colab.research.google.com/drive/1M8-zYkEmF6vrhrFPTCsENFfxZsetaIL0)
+* 1.1 &nbsp; &nbsp; &nbsp;  Video - Clase grabada (2021): Introduccion [[YouTube]](https://youtu.be/ou1R9UbwP00)
 
 ### Clase 03 Ju. 14-Aug-2025:
-* 1.1 PPT - Introduccion al Procesamiento a Color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_IntroduccionColor.pptx)
-* 1.3 Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
+* 1.1 **INTRODUCCION (cont)** [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion//)
+* 1.1 &nbsp; &nbsp; &nbsp;  PPT - Introduccion al Procesamiento a Color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_IntroduccionColor.pptx)
+* 1.3 &nbsp; &nbsp; &nbsp;  Python: Colab - Sampling (muestreo espacial y de tonos de gris) [[Colab]](https://colab.research.google.com/drive/100zqZBV51j2hP6yjKOrkjxvpsSiLLuh2)
 * 1.3 Colab - Segmentacion simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * 1.1 Socrative - Ejercicio E01 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
 * 1.2 Video - Clase grabada (2021): adquisicion, sampling, ejemplo [[YouTube]](https://youtu.be/v1g1cb-zYTU)
@@ -272,4 +277,4 @@
 ---
 
 
-Updated on 30-Jul-2025 at 16:03 by Domingo Mery
+Updated on 04-Aug-2025 at 15:12 by Domingo Mery
