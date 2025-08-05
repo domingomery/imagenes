@@ -17,7 +17,7 @@
 * > PPT: Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * > PPT: Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * > Python: Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/1dqfcQRniHnqASysqTYJtm47tuZdsrxQp/view)
-* > PPT: Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Cuestionario.pptx)
+* > PPT: Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_E08.pptx)
 * > Video: Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 * **MORFOLOGÍA** 
 * **MORFOLOGÍA (cont.)** 
@@ -28,4 +28,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:30 by Domingo Mery
+Updated on 05-Aug-2025 at 18:02 by Domingo Mery
