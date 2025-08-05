@@ -67,6 +67,7 @@
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 
 ### Clase 08 Ma. 02-Sep-2025:
+* 3.3 **PROCESAMIENTO EN EL ESPACIO (cont.)**
 * 3.3 &nbsp; &nbsp; &nbsp;  Apuntes: Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplos con mascaras (kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * 3.3 &nbsp; &nbsp; &nbsp;  Matlab: Ejemplos de filtrado con mascara (kernels) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
@@ -100,11 +101,13 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/i9myDWziJ5s)
 
 ### Clase 11 Ju. 11-Sep-2025:
+* 4.4 **FOURIER (cont.)**
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
 ### Clase 12 Ma. 23-Sep-2025:
+* 4.4 **FOURIER (cont.)**
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Teoria de la Transformada de Fourier 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Teoria.pptx)
 * 4.4 &nbsp; &nbsp; &nbsp;  PPT: Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 * 4.4 &nbsp; &nbsp; &nbsp;  Apuntes: Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
@@ -121,6 +124,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/Uan_Ifqft5A)
 
 ### Clase 13 Ma. 30-Sep-2025:
+* 4.4 **FOURIER (cont.)**
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Transformada de Fourier 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier_2D.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Funcion impulso en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Impulso_2D.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Muestreo en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo_2D.pptx)
@@ -144,6 +148,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 
 ### Clase 14 Ju. 02-Oct-2025:
+* 4.4 **FOURIER (cont.)**
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/1E4CtsHpohsNRBXwJotORrmTGvGpAQDGM)
 * 4.3 (+) Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
@@ -158,11 +163,13 @@
 * 4.5 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Filtros con Fourier [[YouTube]](https://youtu.be/JpHN9D_cF_c)
 
 ### Clase 15 Ma. 07-Oct-2025:
+* 4.4 **FOURIER (cont.)**
 * 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
 ### Clase 16 Ju. 09-Oct-2025:
+* 4.4 **FOURIER (cont.)**
 * 4.5 &nbsp; &nbsp; &nbsp;  Matlab: Bloques en 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DBloques.m)
 * 4.4 &nbsp; &nbsp; &nbsp;  Video: Efecto aliasing al girar una rueda [[YouTube]](https://youtu.be/VNftf5qLpiA)
 * 5.2 &nbsp; &nbsp; &nbsp;  PPT: Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
@@ -172,6 +179,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Otras transformadas [[YouTube]](https://youtu.be/dRo0efWWetw)
 
 ### Clase 17 Ma. 14-Oct-2025:
+* 6.1 **RESTAURACIÓN**
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Motivacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Examples.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Restauracion con degradacion por movimiento lineal uniforme [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Introduccion.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Paper: Restauracion de Imagenes (1) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_ImageRestoration.pdf)
@@ -181,11 +189,13 @@
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Restauracion [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 
 ### Clase 18 Ma. 21-Oct-2025:
+* 6.1 **RESTAURACIÓN (cont.)**
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Ejercicio E08 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 
 ### Clase 19 Ju. 23-Oct-2025:
+* 6.1 **RESTAURACIÓN (cont.)**
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.4 &nbsp; &nbsp; &nbsp;  Python: Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
@@ -194,17 +204,20 @@
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 
 ### Clase 20 Ma. 28-Oct-2025:
+* 6.1 **MORFOLOGÍA**
 * 7.1 &nbsp; &nbsp; &nbsp;  PPT: Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
 * 7.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfologia [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 * 7.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Morfologia [[YouTube]](https://youtu.be/fn55sMt9vkI)
 
 ### Clase 21 Ju. 30-Oct-2025:
+* 6.1 **MORFOLOGÍA (cont.)**
 * 7.2 &nbsp; &nbsp; &nbsp;  PPT: TopHat [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_TopHat.pptx)
 * 7.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Top Hat [[Colab]](https://colab.research.google.com/drive/17IeANV0SyAt3C1PGPPjpgcIbgSqesgCc)
 * 7.2 &nbsp; &nbsp; &nbsp;  PPT: Mediana [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Mediana.pptx)
 * 7.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Mediana [[Colab]](https://colab.research.google.com/drive/1IXVXu-tbLuUtYEngT6YQ1OLzu8bmxC72?usp=sharing)
 
 ### Clase 22 Ma. 04-Nov-2025:
+* 8.1 **SEGMENTACIÓN**
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * 8.3 &nbsp; &nbsp; &nbsp;  PPT: Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * 8.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1cNxGiXc132_o1YiAdVP5fWBdlTbuTKK2)
@@ -213,6 +226,7 @@
 * 7.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Mediana, TopHat, Segmentacion [[YouTube]](https://youtu.be/NucG7pwk2aI)
 
 ### Clase 23 Ju. 06-Nov-2025:
+* 8.1 **SEGMENTACIÓN (cont.)**
 * 8.2 &nbsp; &nbsp; &nbsp;  PPT: Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Deteccion de bordes (PARTE 1) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_1.pptx)
 * 8.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
@@ -221,6 +235,7 @@
 * 8.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Segmentacion, bordes [[YouTube]](https://youtu.be/F5dKux7Laik)
 
 ### Clase 24 Ma. 11-Nov-2025:
+* 8.1 **SEGMENTACIÓN (cont.)**
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Deteccion de bordes (PARTE 2) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_2.pptx)
 * 8.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
@@ -232,6 +247,7 @@
 * 8.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Deteccion de bordes [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 
 ### Clase 25 Ju. 13-Nov-2025:
+* 8.3 **SEGMENTACIÓN (cont.)**
 * 8.3 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * 8.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1zEA0APG3hRL7VKzcjaWYysC5fdRa9_l_)
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion con filtros tipo template [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_SegmentacionMascaras.pptx)
@@ -240,6 +256,7 @@
 * 8.3 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 
 ### Clase 26 Ma. 18-Nov-2025:
+* 2.2 **COLOR**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Segmentacion a color con k-means [[Colab]](https://colab.research.google.com/drive/1fOO0N4TUTVuWZlhHvgJZDloVMXe445KE)
@@ -248,6 +265,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Procesamiento a color [[YouTube]](https://youtu.be/dB-KOF10Dvc)
 
 ### Clase 27 Ju. 20-Nov-2025:
+* 2.2 **COLOR (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
 * 2.2 &nbsp; &nbsp; &nbsp;  Apuntes: Preguntas Frecuentes sobre el Color [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorFAQ.pdf)
@@ -262,6 +280,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 
 ### Clase 28 Ma. 25-Nov-2025:
+* 2.1 **COLOR (cont.)**
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Espacio XYZ [[YouTube]](https://youtu.be/GmrUyqFYw2A)
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Teoria del color [[YouTube]](https://youtu.be/gnUYoQ1pwes)
 * 1.2 &nbsp; &nbsp; &nbsp;  PPT: Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
@@ -283,4 +302,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:17 by Domingo Mery
+Updated on 05-Aug-2025 at 15:26 by Domingo Mery

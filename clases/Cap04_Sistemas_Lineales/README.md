@@ -32,6 +32,8 @@
 * > Matlab: Ejemplo de Frecuencias 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AudioPhone.m)
 * > Matlab: Ejemplos de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_Idea.m)
 * > Matlab: Fourier 1D: Filtro Ideal [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier1D_FiltroIdeal.m)
+* **FOURIER (cont.)** 
+* **FOURIER (cont.)** 
 * > PPT: Muestreo de senales 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo1D_DFT.pptx)
 * > Apuntes: Fourier 1D propiedades [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_Propiedades.pdf)
 * > Matlab: Series de Fourier (complejas) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_SerieFourierCn.m)
@@ -43,8 +45,12 @@
 * (+) OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
 * (+) Convolucion en 1D usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ConvolucionDiscreta.pptx)
 * (+) Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
+* **FOURIER (cont.)** 
 * (+) Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
 * (+) Material adicional: Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
+* **FOURIER (cont.)** 
+* **FOURIER (cont.)** 
+* **FOURIER (cont.)** 
 * > Video: Efecto aliasing al girar una rueda [[YouTube]](https://youtu.be/VNftf5qLpiA)
 ### 4.5 Transformada de Fourier continua y discreta bidimensional y sus propiedades:
 * (+) Interpretacion de la Transformada de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion.m)
@@ -80,4 +86,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:17 by Domingo Mery
+Updated on 05-Aug-2025 at 15:26 by Domingo Mery

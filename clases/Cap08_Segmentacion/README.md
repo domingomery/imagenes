@@ -1,8 +1,11 @@
 
 # Capitulo 08: Segmentacion de imagenes
 ### 8.1 Deteccion de bordes:
+* **SEGMENTACIÓN** 
 * > PPT: Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
+* **SEGMENTACIÓN (cont.)** 
 * > PPT: Deteccion de bordes (PARTE 1) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_1.pptx)
+* **SEGMENTACIÓN (cont.)** 
 * > PPT: Deteccion de bordes (PARTE 2) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_2.pptx)
 * > PPT: Transformada de Hough [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Hough.pptx)
 * > Matlab: Transformada de Hough (ejemplo simple) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/matlab/IMG08_Hough_Toy.m)
@@ -22,6 +25,7 @@
 ### 8.3 Segmentacion basada en regiones:
 * > PPT: Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
 * > Python: Ejemplo Region Growing [[Colab]](https://colab.research.google.com/drive/1cNxGiXc132_o1YiAdVP5fWBdlTbuTKK2)
+* **SEGMENTACIÓN (cont.)** 
 * > PPT: Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * > Python: Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1zEA0APG3hRL7VKzcjaWYysC5fdRa9_l_)
 * > Video: Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
@@ -35,4 +39,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:17 by Domingo Mery
+Updated on 05-Aug-2025 at 15:26 by Domingo Mery

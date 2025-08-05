@@ -7,11 +7,14 @@
 * > Video: Clase grabada (2021): Procesamiento a color [[YouTube]](https://youtu.be/dB-KOF10Dvc)
 * > Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
 * > Video: Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
+* **COLOR (cont.)** 
 * > Video: Espacio XYZ [[YouTube]](https://youtu.be/GmrUyqFYw2A)
 * > Video: Teoria del color [[YouTube]](https://youtu.be/gnUYoQ1pwes)
 ### 2.2 Bases de color:
+* **COLOR** 
 * > PPT: Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
 * > PPT: Segmentacion de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
+* **COLOR (cont.)** 
 * > PPT: Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
 * > Apuntes: Preguntas Frecuentes sobre el Color [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorFAQ.pdf)
 ### 2.3 Transformaciones de color:
@@ -26,4 +29,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:17 by Domingo Mery
+Updated on 05-Aug-2025 at 15:26 by Domingo Mery
