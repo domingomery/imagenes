@@ -1,6 +1,7 @@
 
 # Capitulo 03: Mejoramiento de imagenes en el dominio del espacio
 ### 3.1 Transformaciones basicas de niveles de grises e histogramas:
+* **PROCESAMIENTO EN EL ESPACIO** 
 * > PPT: Transformaciones Geometricas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_GeoTransformaciones.pptx)
 * > PPT: Histogramas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Histogramas.pptx)
 * > PPT: Transformacion Afin [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_TransformacionAfin.pptx)
@@ -19,18 +20,20 @@
 * > Video: Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 ### 3.2 Mejoramiento empleando operaciones aritmeticas y logicas:
 ### 3.3 Filtros espaciales de suavizacion y agudizacion:
+* **PROCESAMIENTO EN EL ESPACIO (cont.)** 
 * > PPT: Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
 * > PPT: Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
-* > Python: Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1gpPAxht43jnUqm3xB-9N-ssbPYu_K9RT)
-* > Python: Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/d/1swSaUPXDFcvI1be7XcckyFxDkNO_Iwxm)
+* **PROCESAMIENTO EN EL ESPACIO (cont.)** 
+* > Python: Trabajo en Clases E03 [[Colab]]()
+* > Python: Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/osso)
 * > Apuntes: Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
 * > Python: Ejemplos con mascaras (kernels) [[Colab]](https://colab.research.google.com/drive/1bkjxaD_d26MbwHeoHA2AxgkT37NNYnsQ)
 * > Matlab: Ejemplos de filtrado con mascara (kernels) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_MaskScan.m)
 * > Matlab: Ejemplo de Sharpen [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/matlab/IMG03_SharpenEscalon.m)
 * > Video: Animacion de mascaras [[Video]](https://twitter.com/3blue1brown/status/1303489896519139328?s=20)
 * > Video: Clase grabada (2021): mascaras [[YouTube]](https://www.youtube.com/watch?v=N3DT_uNG5Xc)
-* Socrative: Ejercicio E10 (ROOM = IMAGENES2024) [[Quiz]](http://www.socrative.com)
+* > Ejercicio E10 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 ---
 
 
-Updated on 04-Aug-2025 at 15:22 by Domingo Mery
+Updated on 05-Aug-2025 at 15:17 by Domingo Mery
