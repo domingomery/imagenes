@@ -76,7 +76,7 @@
 * 3.3 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): mascaras [[YouTube]](https://www.youtube.com/watch?v=N3DT_uNG5Xc)
 
 ### Clase 09 Ju. 04-Sep-2025:
-* 4.1 **SISTEMAS LINEALES** [[]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales//)
+* 4.1 **SISTEMAS LINEALES**
 * 4.1 &nbsp; &nbsp; &nbsp;  PPT: Respuesta al impulso [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FuncionImpulso.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  PPT: Convolucion en 1D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Convolucion1D.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  Video: Visualizacion de la convolucion 1D [[YouTube]](https://youtu.be/IOXzLMqcLbg)
@@ -116,11 +116,11 @@
 * 4.4 &nbsp; &nbsp; &nbsp;  Matlab: Tren de Impulsos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_TrenImpulsos.m)
 * 4.4 &nbsp; &nbsp; &nbsp;  Matlab: Muestreo de Sinusoide [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoSinusoide.m)
 * 4.4 &nbsp; &nbsp; &nbsp;  Matlab: Muestreo de Audio [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_MuestreoAudio.m)
-* 4.5 (+) Interpretacion de la Transformada de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion.m)
-* 4.4 (+) Transformada Discreta de Fourier (DFT) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_DFT.pdf)
-* 4.4 (+) OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
-* 4.4 (+) Convolucion en 1D usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ConvolucionDiscreta.pptx)
-* 4.4 (+) Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Interpretacion de la Transformada de Fourier 1D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion.m)
+* 4.4 &nbsp; &nbsp; &nbsp;  (+)Transformada Discreta de Fourier (DFT) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_DFT.pdf)
+* 4.4 &nbsp; &nbsp; &nbsp;  (+)OpenCV: DFT [[Blog]](http://datahacker.rs/discrete-fourier-transform-part1/)
+* 4.4 &nbsp; &nbsp; &nbsp;  (+)Convolucion en 1D usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier1D_ConvolucionDiscreta.pptx)
+* 4.4 &nbsp; &nbsp; &nbsp;  (+)Material adicional: Fourier Transform, Fourier Series, and frequency spectrum [[Video]](https://www.youtube.com/watch?v=r18Gi8lSkfM)
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Fourier 1D [[YouTube]](https://youtu.be/Uan_Ifqft5A)
 
 ### Clase 13 Ma. 30-Sep-2025:
@@ -129,37 +129,37 @@
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Funcion impulso en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Impulso_2D.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Muestreo en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Muestreo_2D.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp;  Ejercicio E06 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
-* 4.5 (+) Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
-* 4.5 (+) Interpretacion de la Transformada de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion2D.m)
-* 4.5 (+) Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierBasis.m)
-* 4.5 (+) Visualizacion de funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DVisualization.m)
-* 4.5 (+) Ejemplo facil de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2D_EasyExample.m)
-* 4.5 (+) Ejemplo de Transformadas de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFunciones.m)
-* 4.5 (+) Teorema del Muestreo 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Teorema_Muestreo_2D.pptx)
-* 4.5 (+) Ejemplo de Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Aliasing2D.m)
-* 4.5 (+) Ejemplo de Anti-Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AliasingBarbaraNew.m)
-* 4.3 (+) Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
-* 4.4 (+) Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
-* 4.4 (+) Material adicional: Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
-* 4.5 (+) Material adicional: The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
-* 4.5 (+) Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
-* 4.5 (+) Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
-* 4.5 (+) Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Fourier 2D: Teoria [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Teoria.pptx)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Interpretacion de la Transformada de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierInterpretacion2D.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FourierBasis.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Visualizacion de funciones Base de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DVisualization.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Ejemplo facil de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2D_EasyExample.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Ejemplo de Transformadas de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFunciones.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Teorema del Muestreo 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Teorema_Muestreo_2D.pptx)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Ejemplo de Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Aliasing2D.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Ejemplo de Anti-Aliasing [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_AliasingBarbaraNew.m)
+* 4.3 &nbsp; &nbsp; &nbsp;  (+)Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
+* 4.4 &nbsp; &nbsp; &nbsp;  (+)Material adicional: The Fourier Transform in 15 Minutes [[Video]](https://www.youtube.com/watch?v=vQLH7qTeJRM)
+* 4.4 &nbsp; &nbsp; &nbsp;  (+)Material adicional: Fourier Transform Properties Part 1 [[Video]](https://www.youtube.com/watch?v=U02z_hQmWcQ)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Material adicional: The 2D Discrete Fourier Transform [[Video]](https://www.youtube.com/watch?v=NbQY1x8H6QQ)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Material adicional: 2-Dimensional Discrete-Space Fourier Transform [[Video]](https://www.youtube.com/watch?v=YYGltoYEmKo)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Implementacion de la Transformada de Fourier (opcional) [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_ImplementacionTransformadas.pdf)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Ejemplo de Implementacion de la Transformada de Fourier (opcional) [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_ImplementacionTransformada.m)
 * 4.5 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Fourier 2D [[YouTube]](https://youtu.be/G4zO53sVGV8)
 
 ### Clase 14 Ju. 02-Oct-2025:
 * 4.4 **FOURIER (cont.)**
 * 4.5 &nbsp; &nbsp; &nbsp;  PPT: Implementacion de Filtros usando Transformada de Fourier [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ImplementacionFiltros.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Filtros 2D usando Fourier [[Colab]](https://colab.research.google.com/drive/1E4CtsHpohsNRBXwJotORrmTGvGpAQDGM)
-* 4.3 (+) Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
-* 4.5 (+) Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
-* 4.5 (+) Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FFTSHIFT_Filtros2D.pdf)
-* 5.1 (+) Filtro 2D Gaussiano [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_GaussianMask.m)
-* 5.1 (+) Filtro 2D Butterworth [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_ButterworthMask.m)
-* 5.1 (+) Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
-* 5.1 (+) Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
-* 5.1 (+) FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
-* 4.5 (+) Fase de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
+* 4.3 &nbsp; &nbsp; &nbsp;  (+)Convolucion en 2D discreta [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_ConvolucionDiscreta.pptx)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Ejemplos de filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_FiltrosFreq2D.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Uso de FFT-shift en la implementacion de Filtros 2D [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_FFTSHIFT_Filtros2D.pdf)
+* 5.1 &nbsp; &nbsp; &nbsp;  (+)Filtro 2D Gaussiano [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_GaussianMask.m)
+* 5.1 &nbsp; &nbsp; &nbsp;  (+)Filtro 2D Butterworth [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_ButterworthMask.m)
+* 5.1 &nbsp; &nbsp; &nbsp;  (+)Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
+* 5.1 &nbsp; &nbsp; &nbsp;  (+)Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
+* 5.1 &nbsp; &nbsp; &nbsp;  (+)FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
+* 4.5 &nbsp; &nbsp; &nbsp;  (+)Fase de Fourier 2D [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Fourier2DFase.m)
 * 4.5 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Filtros con Fourier [[YouTube]](https://youtu.be/JpHN9D_cF_c)
 
 ### Clase 15 Ma. 07-Oct-2025:
@@ -302,4 +302,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:26 by Domingo Mery
+Updated on 05-Aug-2025 at 15:30 by Domingo Mery

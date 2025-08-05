@@ -1,11 +1,11 @@
 
 # Capitulo 05: Mejoramiento de imagenes en el dominio de la frecuencia
 ### 5.1 Filtros de suavizacion y agudizacion:
-* (+) Filtro 2D Gaussiano [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_GaussianMask.m)
-* (+) Filtro 2D Butterworth [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_ButterworthMask.m)
-* (+) Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
-* (+) Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
-* (+) FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
+* > (+)Filtro 2D Gaussiano [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_GaussianMask.m)
+* > (+)Filtro 2D Butterworth [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_ButterworthMask.m)
+* > (+)Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FiltroFrecuencia.m)
+* > (+)Ejemplo de Filtros en 2D en el dominio de frecuencia [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_FilterExample.m)
+* > (+)FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
 * > Video: Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 ### 5.2 Filtros homomorficos:
 * > Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
@@ -16,4 +16,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 15:26 by Domingo Mery
+Updated on 05-Aug-2025 at 15:30 by Domingo Mery
