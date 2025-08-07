@@ -24,7 +24,7 @@
 * > PPT: Operaciones Aritmeticas [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Aritmetica.pptx)
 * > PPT: Operaciones con mascaras [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pptx)
 * **PROCESAMIENTO EN EL ESPACIO (cont.)** 
-* > Python: Trabajo en Clases E03 [[Colab]]()
+* > Python: Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/osso)
 * > Python: Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/osso)
 * **PROCESAMIENTO EN EL ESPACIO (cont.)** 
 * > Apuntes: Apuntes para entender filtros con mascaras [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap03_Mejoramiento_Espacio/presentations/IMG03_Mascaras.pdf)
@@ -37,4 +37,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 18:02 by Domingo Mery
+Updated on 07-Aug-2025 at 10:54 by Domingo Mery

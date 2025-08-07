@@ -62,7 +62,7 @@
 
 ### Clase 07 Ju. 28-Aug-2025:
 * 3.3 **PROCESAMIENTO EN EL ESPACIO (cont.)**
-* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03 [[Colab]]()
+* 3.3 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E03 [[Colab]](https://colab.research.google.com/drive/osso)
 * 3.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E03 [[Colab]](https://drive.google.com/file/osso)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): trabajo en clases E03 [[YouTube]](https://youtu.be/yJ678uJnldI)
 
@@ -302,4 +302,4 @@
 ---
 
 
-Updated on 05-Aug-2025 at 18:02 by Domingo Mery
+Updated on 07-Aug-2025 at 10:54 by Domingo Mery
