@@ -33,7 +33,7 @@
 * 1.1 **INTRODUCCION (cont.)**
 * 1.3 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion de Frutos Rojos (idea de solucion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_SegmentacionFrutosRojos.pptx)
 * 1.1 &nbsp; &nbsp; &nbsp;  Python: Como leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
-* 1.3 &nbsp; &nbsp; &nbsp;  Ejercicio E02 (Colab) [[Colab]](https://colab.research.google.com/drive/1QwgbERxLRQf8_BUplfT6QzYNsk14KACF?usp=sharing)
+* 1.3 &nbsp; &nbsp; &nbsp;  Ejercicio E02 (Colab) [[Colab]](https://drive.google.com/file/d/19nQLTh9bUwAtVl3Rfqx0g8AxM63AT8KX/view?usp=sharing)
 * 1.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E02 [[Colab]](https://drive.google.com/file/osso)
 * 1.3 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): trabajo en clases E01 [[YouTube]](https://youtu.be/7npN3o3DB30)
 
