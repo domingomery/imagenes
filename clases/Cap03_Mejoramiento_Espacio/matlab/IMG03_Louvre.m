@@ -1,5 +1,6 @@
 I = imread('louvre.png');
 I = imresize(I,[300 300]);
+Io = I;
 close all
 [N,M] = size(I);
 figure
@@ -44,4 +45,32 @@ I(:,2:2:M) = [];
 imshow(I)
 title('removed columns and rows')
 axis on
+
+pause
+close all
+imshow(Io)
+axis on
+pause
+figure
+
+J = 255*ones(2*N,2*M);
+for i=1:N
+    imshow(uint8(J));title('imagen de tamaño doble')
+    pause(0)
+    for j=1:M
+        J(2*i,2*j) = I(i,j);
+    end
+end
+pause
+for i=1:N
+    imshow(uint8(J));title('relleno')
+    pause(0)
+    for j=1:M
+        J(2*i,2*j+1) = I(i,j);
+        J(2*i+1,2*j) = I(i,j);
+        J(2*i+1,2*j+1) = I(i,j);
+    end
+end
+
+
 

@@ -37,7 +37,7 @@ for t=0:255
     figure(2)
     Bio_edgeview(I(1:k:end,1:k:end),J(1:k:end,1:k:end))
     figure(3)
-    imhist(X(X<=t));
+    imhistp(X(X<=t));
     axis([1 255 0 2000])
     drawnow
     if t==0

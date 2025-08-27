@@ -8,35 +8,53 @@
 close all
 clear all
 
-X = imread('pout.tif');
+i = input('1: pout 2: clown 3: tire?');
+
+
+switch i
+    case 1
+        X = imread('pout.tif');
+    case 2
+        load clown
+        X = uint8(X);
+    case 3
+        X = imread('tire.tif');
+end
+
 figure;imshow(X),title('X: Original');
-figure;imhist(X),title('Histogram of X');
+figure;imhistp(X),title('Histogram of X');
 enterpause
+
+Ys = Bim_lin(X);
+figure;imshow(Ys,[]),title('Ys: Expanded Histogram (linear)');
+figure;imhistp(Ys),title('Histogram of Ys');
+enterpause
+
 
 Y0 = imadjust(X);
 figure;imshow(Y0,[]),title('Y0: Equalized from X using IPT (imadjust)');
-figure;imhist(Y0),title('Histogram of Y0');
+figure;imhistp(Y0),title('Histogram of Y0');
 enterpause
 
 
 Y1 = Bim_equalization(X);
 figure;imshow(Y1,[]),title('Y1: Equalized from X using Balu');
-figure;imhist(Y1),title('Histogram of Y1');
+figure;imhistp(Y1),title('Histogram of Y1');
 enterpause
 
-Y2 = histeq(X);
-figure;imshow(Y2,[]),title('Y2: Equalized from X using IPT (imhist)');
-figure;imhist(Y2),title('Histogram of Y2');
-enterpause
+%Y2 = histeq(X);
+%figure;imshow(Y2,[]),title('Y2: Equalized from X using IPT (histeq)');
+%figure;imhistp(Y2),title('Histogram of Y2');
+%enterpause
 
 Y3 = adapthisteq(X,'clipLimit',0.01,'Distribution','rayleigh');
 figure;imshow(Y3,[]),title('Y3: Equalized from X using IPT (adapthisteq)');
-figure;imhist(Y3),title('Histogram of Y3');
+figure;imhistp(Y3),title('Histogram of Y3');
 enterpause
 
 Y4 = adapthisteq(X,'clipLimit',0.003);
 figure;imshow(Y4,[]),title('Y4: Equalized from X using IPT (adapthisteq)');
-figure;imhist(Y4),title('Histogram of Y4');
+figure;imhistp(Y4),title('Histogram of Y4');
 
 disp(' adapthisteq: Contrast-limited Adaptive Histogram Equalization (CLAHE).')
 disp('    adapthisteq enhances the contrast of images by transforming the')
