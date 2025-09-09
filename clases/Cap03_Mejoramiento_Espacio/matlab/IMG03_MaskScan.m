@@ -14,7 +14,7 @@ x = x(155:190,125:160);
 x(8:10,28:30) = 190;
 x = double(x);
 [N,M] = size(x);
-subplot(1,4,1);subimage(x/256);
+subplot(2,2,1);subimage(x/256);
 setw
 
 %mask
@@ -54,14 +54,14 @@ for i=n1+1:N-n1
         z(n1+i,-n2+j:n2+j)  = 256;
         z(-n1+i:n1+i,-n2+j) = 256;
         z(-n1+i:n1+i,n2+j)  = 256;
-        subplot(1,4,2);subimage(z/256);
-        subplot(1,4,3);imshow(x(-n1+i:n1+i,-n2+j:n2+j)/256);
+        subplot(2,2,2);subimage(z/256);
+        subplot(2,2,3);imshow(x(-n1+i:n1+i,-n2+j:n2+j)/256);
         if p==2
             r(i,j) = median(t(:));
         else
             r(i,j) = sum(t(:));
         end
-        subplot(1,4,4);subimage(abs(r/256));
+        subplot(2,2,4);subimage(abs(r/256));
         if isempty(key)
             key = input('','s');
         else

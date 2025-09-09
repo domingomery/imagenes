@@ -102,7 +102,7 @@
 
 ### Clase 11 Ju. 11-Sep-2025:
 * 4.4 **FOURIER (cont.)**
-* 4.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 4.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/1LXrlKhv9bDXD4GchmxVv_Yw4Q0G_iky8/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): trabajo en clases E05 [[YouTube]](https://youtu.be/QdOhk4hzObk)
 
@@ -302,4 +302,4 @@
 ---
 
 
-Updated on 27-Aug-2025 at 12:48 by Domingo Mery
+Updated on 09-Sep-2025 at 20:04 by Domingo Mery

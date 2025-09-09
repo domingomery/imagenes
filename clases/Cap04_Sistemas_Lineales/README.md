@@ -15,7 +15,7 @@
 * > Matlab: Ejemplo Convolucion en 1D continua [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/matlab/IMG04_Convolucion1DContinua.m)
 * > Apuntes: Convolucion en 1D (ejercicio opcional) [[Guia de Ejercicios]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Ejercicios_Convolucion1D.pdf)
 * > Ejercicio E04 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
-* > Python: Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* > Python: Trabajo en Clases E05 [[Colab]](https://drive.google.com/file/d/1LXrlKhv9bDXD4GchmxVv_Yw4Q0G_iky8/view?usp=sharing)
 * > Python: Solucion al Trabajo en Clases E05 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 ### 4.3 Convolucion continua y discreta bidimensional y sus propiedades:
 * > (+)Convolucion en 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap04_Sistemas_Lineales/presentations/IMG04_Fourier2D_Convolucion.pptx)
@@ -86,4 +86,4 @@
 ---
 
 
-Updated on 27-Aug-2025 at 12:48 by Domingo Mery
+Updated on 09-Sep-2025 at 20:04 by Domingo Mery
