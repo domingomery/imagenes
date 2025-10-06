@@ -164,7 +164,7 @@
 
 ### Clase 15 Ma. 07-Oct-2025:
 * 4.4 **FOURIER (cont.)**
-* 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/[xxxxxxx](https://drive.google.com/file/d/1-gyHOKFWsGasBEo41tm3ecfn3jyXU8GL/view?usp=sharing))
 * 5.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
