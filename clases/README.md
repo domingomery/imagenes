@@ -199,7 +199,7 @@
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.4 &nbsp; &nbsp; &nbsp;  Python: Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
-* 6.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/1dqfcQRniHnqASysqTYJtm47tuZdsrxQp/view)
+* 6.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/1jxTIgzfR_k0SdNBr2eKGr8-7pu9Dmd0U/view?usp=sharing)
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_E08.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 
@@ -299,4 +299,4 @@
 ---
 
 
-Updated on 27-Oct-2025 at 16:11 by Domingo Mery
+Updated on 27-Oct-2025 at 16:21 by Domingo Mery
