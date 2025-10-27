@@ -164,7 +164,7 @@
 
 ### Clase 15 Ma. 07-Oct-2025:
 * 4.4 **FOURIER (cont.)**
-* 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1-gyHOKFWsGasBEo41tm3ecfn3jyXU8GL/view?usp=sharing)
+* 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
 * 5.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
@@ -188,13 +188,13 @@
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Introduccion a la Restauracion de Imagenes (Mery, 2003) [[Paper]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/papers/IMG06_CLEI_paper.pdf)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Restauracion [[YouTube]](https://youtu.be/Z_opyRl1Ey8)
 
-### Clase 18 Ma. 21-Oct-2025:
+### Clase 18 Ju. 23-Oct-2025:
 * 6.1 **RESTAURACIÓN (cont.)**
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Ejercicio E08 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 
-### Clase 19 Ju. 23-Oct-2025:
+### Clase 19 Ma. 28-Oct-2025:
 * 6.1 **RESTAURACIÓN (cont.)**
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Deconvolucion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Deconvolution.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
@@ -203,20 +203,20 @@
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_E08.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 
-### Clase 20 Ma. 28-Oct-2025:
+### Clase 20 Ju. 30-Oct-2025:
 * 6.1 **MORFOLOGÍA**
 * 7.1 &nbsp; &nbsp; &nbsp;  PPT: Morfologia [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Morfologia.pptx)
 * 7.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfologia [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 * 7.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Morfologia [[YouTube]](https://youtu.be/fn55sMt9vkI)
 
-### Clase 21 Ju. 30-Oct-2025:
+### Clase 21 Ma. 04-Nov-2025:
 * 6.1 **MORFOLOGÍA (cont.)**
 * 7.2 &nbsp; &nbsp; &nbsp;  PPT: TopHat [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_TopHat.pptx)
 * 7.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Top Hat [[Colab]](https://colab.research.google.com/drive/17IeANV0SyAt3C1PGPPjpgcIbgSqesgCc)
 * 7.2 &nbsp; &nbsp; &nbsp;  PPT: Mediana [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap07_Morphologia/presentations/IMG07_Mediana.pptx)
 * 7.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Mediana [[Colab]](https://colab.research.google.com/drive/1IXVXu-tbLuUtYEngT6YQ1OLzu8bmxC72?usp=sharing)
 
-### Clase 22 Ma. 04-Nov-2025:
+### Clase 22 Ju. 06-Nov-2025:
 * 8.1 **SEGMENTACIÓN**
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Segmentation.pptx)
 * 8.3 &nbsp; &nbsp; &nbsp;  PPT: Region Growing [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_RegionGrowing.pptx)
@@ -225,7 +225,7 @@
 * 8.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de deteccion de regiones (OTSU, MSER, etc) [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * 7.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Mediana, TopHat, Segmentacion [[YouTube]](https://youtu.be/NucG7pwk2aI)
 
-### Clase 23 Ju. 06-Nov-2025:
+### Clase 23 Ma. 11-Nov-2025:
 * 8.1 **SEGMENTACIÓN (cont.)**
 * 8.2 &nbsp; &nbsp; &nbsp;  PPT: Metodo de MSER [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_MSER.pptx)
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Deteccion de bordes (PARTE 1) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_1.pptx)
@@ -234,7 +234,7 @@
 * 3.3 &nbsp; &nbsp; &nbsp;  Ejercicio E10 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 8.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Segmentacion, bordes [[YouTube]](https://youtu.be/F5dKux7Laik)
 
-### Clase 24 Ma. 11-Nov-2025:
+### Clase 24 Ju. 13-Nov-2025:
 * 8.1 **SEGMENTACIÓN (cont.)**
 * 8.1 &nbsp; &nbsp; &nbsp;  PPT: Deteccion de bordes (PARTE 2) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Bordes_2.pptx)
 * 8.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de deteccion de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
@@ -246,7 +246,7 @@
 * 8.5 &nbsp; &nbsp; &nbsp;  Ejercicio E11 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 8.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Deteccion de bordes [[YouTube]](https://youtu.be/4W8WXeX0lmw)
 
-### Clase 25 Ju. 13-Nov-2025:
+### Clase 25 Ma. 18-Nov-2025:
 * 8.3 **SEGMENTACIÓN (cont.)**
 * 8.3 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * 8.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1zEA0APG3hRL7VKzcjaWYysC5fdRa9_l_)
@@ -255,7 +255,7 @@
 * 8.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de segmentacion de movimiento [[Colab]](https://colab.research.google.com/drive/1ohr3yh0bFkueONUEGaHa5F67zlSf3aTy)
 * 8.3 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
 
-### Clase 26 Ma. 18-Nov-2025:
+### Clase 26 Ju. 20-Nov-2025:
 * 2.2 **COLOR**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Procesamiento de imagenes a color (introduccion) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Introduccion.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Segmentacion de imagenes a color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_Segmentacion.pptx)
@@ -264,7 +264,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Segmentacion a color usando metodo de paper (Python) [[Colab]](https://colab.research.google.com/drive/1CiPBYICHR4z0F84IQDBS956mJkbe5EJV)
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Procesamiento a color [[YouTube]](https://youtu.be/dB-KOF10Dvc)
 
-### Clase 27 Ju. 20-Nov-2025:
+### Clase 27 Ma. 25-Nov-2025:
 * 2.2 **COLOR (cont.)**
 * 2.2 &nbsp; &nbsp; &nbsp;  PPT: Espacios de color [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ColorSpaces.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
@@ -279,7 +279,7 @@
 * 2.3 &nbsp; &nbsp; &nbsp;  Ejercicio E12 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
 
-### Clase 28 Ma. 25-Nov-2025:
+### Clase 28 Ju. 27-Nov-2025:
 * 2.1 **COLOR (cont.)**
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Espacio XYZ [[YouTube]](https://youtu.be/GmrUyqFYw2A)
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Teoria del color [[YouTube]](https://youtu.be/gnUYoQ1pwes)
@@ -296,10 +296,7 @@
 * 1.2 &nbsp; &nbsp; &nbsp;  Video: Funcionamiento del ojo humano (problemas en la vision) [[YouTube]](https://www.youtube.com/watch?v=AsKeu4wm3XI)
 * 1.2 &nbsp; &nbsp; &nbsp;  Video: Ilusiones del color (Charla TED) [[YouTube]](https://www.youtube.com/watch?v=mf5otGNbkuc)
 * 1.2 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): luz, espectro, vision [[YouTube]](https://youtu.be/ffj6vZtV5gI)
-
-### Clase 29 Ju. 27-Nov-2025:
-* 8.3 **AYUDANTIA** [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 ---
 
 
-Updated on 09-Sep-2025 at 20:04 by Domingo Mery
+Updated on 27-Oct-2025 at 16:11 by Domingo Mery

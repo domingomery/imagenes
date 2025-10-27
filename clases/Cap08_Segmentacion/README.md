@@ -29,7 +29,6 @@
 * > PPT: Segmentacion usando Watershed [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion/presentations/IMG08_Watershed.pptx)
 * > Python: Ejemplo Watershed [[Colab]](https://colab.research.google.com/drive/1zEA0APG3hRL7VKzcjaWYysC5fdRa9_l_)
 * > Video: Clase grabada (2021): Watershed, otras segmentaciones [[YouTube]](https://youtu.be/9WTAoUiTvBs)
-* **AYUDANTIA** [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap08_Segmentacion//)
 ### 8.4 Segmentacion basada en cuencas morfologicas:
 ### 8.5 Uso del movimiento en segmentacion:
 * > Ejercicio E11 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
@@ -39,4 +38,4 @@
 ---
 
 
-Updated on 09-Sep-2025 at 20:04 by Domingo Mery
+Updated on 27-Oct-2025 at 16:11 by Domingo Mery
