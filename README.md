@@ -164,8 +164,8 @@
 
 ### Clase 15 Ma. 07-Oct-2025:
 * 4.4 **FOURIER (cont.)**
-* 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
-* 5.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* 5.2 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1-gyHOKFWsGasBEo41tm3ecfn3jyXU8GL/view?usp=sharing)
+* 5.3 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1F2E23HZmQt_rPMFhVDqilzbVhpOUKwRo/view?usp=sharing)
 * 5.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 
 ### Clase 16 Ju. 09-Oct-2025:
@@ -192,6 +192,7 @@
 * 6.1 **RESTAURACIÓN (cont.)**
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Restauracion con degradacion 2D [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_Blur2D.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Ejercicio E08 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
+* 6.1 &nbsp; &nbsp; &nbsp;  PPT: Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_E08.pptx)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Degradacion 2D [[YouTube]](https://youtu.be/4O1pvj47RTM)
 
 ### Clase 19 Ma. 28-Oct-2025:
@@ -200,7 +201,7 @@
 * 6.1 &nbsp; &nbsp; &nbsp;  PPT: Estimacion de PSF [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_PSF.pptx)
 * 6.4 &nbsp; &nbsp; &nbsp;  Python: Filtro Wiener [[Colab]](https://colab.research.google.com/drive/1VjtFI8hzY7Boh6hmrMDtiRZ5PcOh0Rh0)
 * 6.1 &nbsp; &nbsp; &nbsp;  Python: Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/1jxTIgzfR_k0SdNBr2eKGr8-7pu9Dmd0U/view?usp=sharing)
-* 6.1 &nbsp; &nbsp; &nbsp;  PPT: Solucion a Ejercicio E08 (MINIO, Fourier, etc) [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap06_Restauracion/presentations/IMG06_E08.pptx)
+* 6.1 &nbsp; &nbsp; &nbsp;  Python: Solucion al Trabajo en Clases E09 [[Colab]](https://drive.google.com/file/d/1hLulKmE3KvzpK4DVv0TjCA_d9F3sKqNp/view?usp=sharing)
 * 6.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Deconvolucion, Wiener, PSF [[YouTube]](https://youtu.be/2sRvEn4fXM0)
 
 ### Clase 20 Ju. 30-Oct-2025:
@@ -299,4 +300,4 @@
 ---
 
 
-Updated on 27-Oct-2025 at 16:21 by Domingo Mery
+Updated on 04-Nov-2025 at 10:34 by Domingo Mery

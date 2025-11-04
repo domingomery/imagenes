@@ -8,12 +8,12 @@
 * > (+)FIltro pasa altos [[Matlab]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/matlab/IMG05_HiPassFilterExample.m)
 * > Video: Clase grabada (2021): Trabajo en clases E07 [[YouTube]](https://youtu.be/lKJXznOB6WA)
 ### 5.2 Filtros homomorficos:
-* > Python: Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* > Python: Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1-gyHOKFWsGasBEo41tm3ecfn3jyXU8GL/view?usp=sharing)
 * > PPT: Filtro Homomorfico [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap05_Mejoramiento_Frecuencia/presentations/IMG05_FiltroHomomorfico.pptx)
 * > Python: Ejemplo de Filtro Homomorfico [[Colab]](https://colab.research.google.com/drive/1kmwRgPoca3sEboUTdHTuIFqpKbPOu2I5)
 ### 5.3 Consideraciones sobre la implementacion de transformadas:
-* > Python: Solucion al Trabajo en Clases E07 [[Colab]](https://colab.research.google.com/drive/xxxxxxx)
+* > Python: Solucion al Trabajo en Clases E07 [[Colab]](https://drive.google.com/file/d/1F2E23HZmQt_rPMFhVDqilzbVhpOUKwRo/view?usp=sharing)
 ---
 
 
-Updated on 27-Oct-2025 at 16:21 by Domingo Mery
+Updated on 04-Nov-2025 at 10:34 by Domingo Mery
