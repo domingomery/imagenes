@@ -277,8 +277,13 @@
 * 2.3 &nbsp; &nbsp; &nbsp;  Apuntes: Espacios HSL y HSV [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_HSx_ColorSpace.pdf)
 * 2.3 &nbsp; &nbsp; &nbsp;  Apuntes: Herramientas para la conversiones de espacios de color [[Link]](http://brucelindbloom.com)
 * 2.3 &nbsp; &nbsp; &nbsp;  PPT: Filtros artisticos [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap02_Color/presentations/IMG02_ArtisticFilters.pptx)
-* 2.3 &nbsp; &nbsp; &nbsp;  Ejercicio E12 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Clase grabada (2021): Espacios a color [[YouTube]](https://youtu.be/3SlAxUdN1xc)
+* 0.1 **APOYO PARA EL EXAMEN**
+* 0.1 &nbsp; &nbsp; &nbsp;  Preguntas de Desarrollo - Examen 2023 [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2023-Desarrollo_Preguntas.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  Preguntas de Desarrollo - Examen 2023 (Solución) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2023-Desarrollo_Solucion.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  Preguntas de Desarrollo - Examen 2024 [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2024-Desarrollo_Preguntas.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  Preguntas de Desarrollo - Examen 2024 (Solución) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2024-Desarrollo_Solucion.pdf)
+* 0.1 &nbsp; &nbsp; &nbsp;  NotebookLM del Curso
 
 ### Clase 28 Ju. 27-Nov-2025:
 * 2.1 **COLOR (cont.)**
@@ -286,6 +291,7 @@
 * 2.1 &nbsp; &nbsp; &nbsp;  Video: Teoria del color [[YouTube]](https://youtu.be/gnUYoQ1pwes)
 * 1.2 &nbsp; &nbsp; &nbsp;  PPT: Luz, espectro, vision [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_Luz-Ondas-Ojo.pptx)
 * 1.2 &nbsp; &nbsp; &nbsp;  PPT: Ejercicio: Punto Ciego [[PPT]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/presentations/IMG01_EjercicioPuntoCiego.pptx)
+* 2.3 &nbsp; &nbsp; &nbsp;  Ejercicio E12 (Quiz) [[Quiz]](https://cursos.canvas.uc.cl/courses/90276/assignments)
 * 1.2 &nbsp; &nbsp; &nbsp;  Paper: Lo ves a color o en blanco y negro? [[Articulo]](https://www.bbc.com/mundo/noticias-49178274)
 * 1.4 &nbsp; &nbsp; &nbsp;  Apuntes: Ejemplos en Matlab para el Toolbox Image Processing [[Apuntes]](https://github.com/domingomery/imagenes/blob/master/clases/Cap01_Introduccion/matlab/IMG01_EjemploBasicoMatlab.pdf)
 * 1.4 &nbsp; &nbsp; &nbsp;  Python: Ejemplos en Python (c) Cristian Nova S. [[Python]](https://github.com/MonkyDCristian/Prosesamiento_de_imagenes/blob/master/FPI.ipynb)
@@ -300,4 +306,4 @@
 ---
 
 
-Updated on 04-Nov-2025 at 10:34 by Domingo Mery
+Updated on 25-Nov-2025 at 08:53 by Domingo Mery
