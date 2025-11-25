@@ -12,8 +12,8 @@
 * > Preguntas de Desarrollo - Examen 2023 (Solución) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2023-Desarrollo_Solucion.pdf)
 * > Preguntas de Desarrollo - Examen 2024 [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2024-Desarrollo_Preguntas.pdf)
 * > Preguntas de Desarrollo - Examen 2024 (Solución) [[PDF]](https://github.com/domingomery/imagenes/blob/master/clases/Cap00_Lineas_Generales/examenes/2024-Desarrollo_Solucion.pdf)
-* > NotebookLM del Curso 
+* > NotebookLM del Curso [[NLM]](https://notebooklm.google.com/notebook/23babb9b-7be5-44a4-836f-651c28ab6654)
 ---
 
 
-Updated on 25-Nov-2025 at 08:53 by Domingo Mery
+Updated on 25-Nov-2025 at 08:55 by Domingo Mery
